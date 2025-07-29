@@ -1,9 +1,6 @@
-trojan://7q8npo8y-kfmy-l6xj-oupu-q2hhrw5pcs3p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 23:17
-trojan://97q60mkp-90m1-nr6f-oi3o-ykuxwv1lnor4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://u81nye91-n0n5-b3zn-fgke-g7abnu5ol6zb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
-vless://c714b70f-43c4-4970-90b8-fca089009f64@151.101.242.172:80?type=xhttp&security=none&path=/download#151.101.242.172:80
-vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=ikco.ir&fp=randomized#185.143.233.120:443
+trojan://zg2vk8oj-kxz0-rkhb-z0hd-l3w6ta9e13z3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 23:51
+trojan://xrtz7aak-a7wv-7mx9-w43h-32p2uqfkoe57@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zwmwhiuc-3oa3-ilix-fch5-g60h0tngh2a3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://db38758e-5ecb-4b07-bb19-4226a96f7e84@uk.shokolatroshd.xyz:18907?type=tcp&security=none#uk.shokolatroshd.xyz:18907
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
 vless://0f319d4e-8234-424a-ad59-49c99ef0c3fe@victor2.nepton5050.tech:16109?type=ws&security=none#victor2.nepton5050.tech:16109
@@ -17,9 +14,11 @@ vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?typ
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
 vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
+vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDi.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-15.saitsazs.ir:12108?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-15.saitsazs.ir:12108
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:13136
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2028?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2028
 vless://b47cb428-097a-4987-b195-c9d983253be2@ecohopetamiz2.ivy-net.ir:1616?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BySjBybAQUJzCP66kzVrN5fRYorgUGnY4TuCO8mRFjA&sid=150210e2e45b002e#ecohopetamiz2.ivy-net.ir:1616
-trojan://mamdhq4u-tknn-39sa-yoq2-c09ieyycu80m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zc6d43t2-7y2e-oru9-iq5i-buw6b2s4chex@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:443?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:443
+trojan://3y70d471-0u32-hd6g-71gz-u0nynrg4rl4o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://klz7co15-ov86-95mf-43pw-afpmt5uvz5lt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

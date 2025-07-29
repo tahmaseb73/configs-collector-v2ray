@@ -1,6 +1,6 @@
-trojan://mdp2c092-1i51-1hu5-of3n-y0ob5z4gcilk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:51
-trojan://b8zro2y1-d1uy-5om5-ynaa-m8okwr8qzdki@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rjnthzwz-6jw1-a881-q84d-e1hqesm78mfv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://nfnbyex1-0ggd-pbke-rivq-m9vthhywilmg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
+trojan://994nv8ii-1ags-dss8-4lwe-h6u7h29w07kd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://beh1ky2t-z6fn-hria-zy1l-166uauicl2qa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#45.87.175.165:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#45.87.175.157:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#216.173.70.187:57456
@@ -56,6 +56,7 @@ vless://30c95522-5915-4eda-ade8-66c011d0f62c@mx.soft98speedtest.ir:2053?type=ws&
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@tunell.star.soft98speedtest.ir:443?type=tcp&security=none#tunell.star.soft98speedtest.ir:443
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@msx.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#msx.soft98speedtest.ir:2087
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@www.tunell-star.soft98speedtest.ir:2087?type=tcp&security=none&path=/#www.tunell-star.soft98speedtest.ir:2087
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@1.1.1.1:9999?type=tcp&security=none#1.1.1.1:9999
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@all97-vip.f-sub.com:2434?type=tcp&security=reality&sni=chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#all97-vip.f-sub.com:2434
 vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:2095?type=tcp&security=reality&sni=snap.ir&fp=firefox&pbk=c7S104FqE1TNyQ39PoMoCxYpJkyKpC-gdOuwlzGOphg&sid=14bae9cf136fce37#irancell2.sbarshia.ir:2095
 vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:8443?type=tcp&security=reality&sni=miare.ir&fp=chrome&pbk=GkCxlHoVtlBNunDhQfYrz9QunYg3NhMRsKOscdrG83E&sid=14bae9cf136fce37#irancell2.sbarshia.ir:8443
@@ -65,6 +66,11 @@ vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&se
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@mci.sbarshia.ir:443?type=tcp&security=reality&sni=zoomit.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#mci.sbarshia.ir:443
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:8443?type=tcp&security=reality&sni=snapp.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#irancell.sbarshia.ir:8443
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:443?type=tcp&security=reality&sni=tapsi.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#irancell.sbarshia.ir:443
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@s2.sbarshia.ir:8443?type=tcp&security=reality&sni=divar.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#s2.sbarshia.ir:8443
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#reality.sbarshia.ir:443
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@mci.sbarshia.ir:443?type=tcp&security=reality&sni=zoomit.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#mci.sbarshia.ir:443
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:443?type=tcp&security=reality&sni=tapsi.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#irancell.sbarshia.ir:443
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:8443?type=tcp&security=reality&sni=snapp.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#irancell.sbarshia.ir:8443
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@s2.sbarshia.ir:8443?type=tcp&security=reality&sni=divar.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#s2.sbarshia.ir:8443
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#flymg.flylink.cyou:35210
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#flymg.flylink.cyou:35210
@@ -79,5 +85,5 @@ hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280?sni=f
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxg.flylink.cyou:35290?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#flyxg.flylink.cyou:35290
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#flyrb.flylink.cyou:35300
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?sni=flyhg.flylink.cyou&insecure=1&obfs=salamander#flyhg.flylink.cyou:35310
-trojan://cega8dqf-90wp-a05m-4rjv-0sebywreh2ff@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pgtlzvce-xyta-y7q4-v32v-h844ah94cyp9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://87k4ao9j-sjkn-r8k2-2s30-cjiml3pwc66a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hluczeei-upn1-yu2f-xnqa-xgeabl1jjz1j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

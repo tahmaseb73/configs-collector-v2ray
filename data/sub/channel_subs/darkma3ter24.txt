@@ -1,6 +1,6 @@
-trojan://v9pybtu7-zrzq-uky4-9ur6-cfl0ah1a5s24@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:51
-trojan://kv9toobb-p8jl-s9kj-5ng7-54b0ci20a4vx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ls6c1plt-mle5-nl3m-npvv-i0x1y8wm75t0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://46pznd6t-w1u8-fm0c-zt49-z78gva8nb120@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
+trojan://7g7hq56x-gqdh-8ujb-bekh-6u7wbvb643yz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://05bvpkk0-hvvl-lbhs-wt3s-mdhkhu0nlvjn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#beedoost.org:8080
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@216.246.25.159:16899#216.246.25.159:16899
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.162.200.77:5499#23.162.200.77:5499
@@ -28,5 +28,5 @@ vless://19c08c07-a3b7-4c26-bcee-d7270f6d3422@188.114.98.224:8080?type=grpc&secur
 vless://%50a%72sa%73%68%6fna%6d-89@188.114.96.3:8080?type=grpc&security=none#188.114.96.3:8080
 vless://4825edb4-0fde-4d48-892d-ddac2e1e13bb@www.parspack.com:8880?type=httpupgrade&security=none&path=/SHHPROXY?ed=2048=Telegram#www.parspack.com:8880
 vless://08cca313-4f8b-4389-8fab-63684675d52b@www.parspack.com:8080?type=httpupgrade&security=none&path=/MdVpnSec?ed=2048=Telegram#www.parspack.com:8080
-trojan://z4pyg4sl-u1yu-v9l6-sns2-t9uo8i70gy8r@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://c4l45fp0-5ic0-e6hb-jdsy-pfaczvxruoap@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://b60upiuy-xzit-s5tp-dimn-fqrznup97fxm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://y6tz361o-f67y-27gy-bwcq-48gk9k4sx2fn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

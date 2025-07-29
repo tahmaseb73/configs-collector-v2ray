@@ -1,6 +1,6 @@
-trojan://grb5375c-9grh-mp8d-zcc2-gaqgqnc5sh1d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:51
-trojan://dtv3m9ex-h8ke-3tiy-sml3-5185scv6s4b8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4s1xyjd5-bx1d-yq9r-0sek-8w5oz6akbcq4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://q07fcsuf-q5ra-bnr1-ckg4-uq8lyx2tqnsi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
+trojan://buh8tjl6-iah4-5b35-2d14-w32wa8jkhh8j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zhal2bul-6ga0-liya-nzlv-g6xcyszzbi9i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://turboo-server@108.162.192.201:443?type=ws&security=tls&path=/&sni=cdn.sadafspace.com&fp=chrome#108.162.192.201:443
 vless://turboo-server@108.162.192.201:443?type=ws&security=tls&path=/&sni=cdn.sadafspace.com&fp=chrome#108.162.192.201:443
 vless://turboo-server@151.101.3.8:80?type=xhttp&security=none&path=/#151.101.3.8:80
@@ -14,5 +14,5 @@ vless://turboo-server@turboo-server.sadafspace.com:48723?type=grpc&security=real
 vless://turboo-server@turbooserver.sadafspace.com:55990?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&sid=eebcfab3#turbooserver.sadafspace.com:55990
 vless://turboo-server@turboo-server.sadafspace.com:48723?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&sid=b3#turboo-server.sadafspace.com:48723
 vless://turboo-server@turbooserver.sadafspace.com:55990?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&sid=eebcfab3#turbooserver.sadafspace.com:55990
-trojan://69318ja3-njo7-wvck-flmn-mc38u0vhnk12@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8hff6gmk-4n5e-ofna-53u3-5w986de5zglb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0a4em7va-8h84-6koo-ugd7-3uz26wlwoss7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://f0nzek6t-aqhf-4z9x-89z1-tbdji2c5nbiv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -163,30 +163,30 @@
     <td align="center">
       <strong>🌐 Mixed Configs (1-10)</strong><br>
       <code>Curated mixed configurations combining multiple protocols</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt">📡 Mixed 1</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_2.txt">📡 Mixed 2</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_3.txt">📡 Mixed 3</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_4.txt">📡 Mixed 4</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_5.txt">📡 Mixed 5</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_6.txt">📡 Mixed 6</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_7.txt">📡 Mixed 7</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_8.txt">📡 Mixed 8</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_9.txt">📡 Mixed 9</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_10.txt">📡 Mixed 10</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_1.txt">📡 Mixed 1</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_2.txt">📡 Mixed 2</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_3.txt">📡 Mixed 3</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_4.txt">📡 Mixed 4</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_5.txt">📡 Mixed 5</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_6.txt">📡 Mixed 6</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_7.txt">📡 Mixed 7</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_8.txt">📡 Mixed 8</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_9.txt">📡 Mixed 9</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_10.txt">📡 Mixed 10</a>
     </td>
     <td align="center">
       <strong>🌐 Mixed Configs (11-20)</strong><br>
       <code>Curated mixed configurations combining multiple protocols</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_11.txt">📡 Mixed 11</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_12.txt">📡 Mixed 12</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_13.txt">📡 Mixed 13</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_14.txt">📡 Mixed 14</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_15.txt">📡 Mixed 15</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_16.txt">📡 Mixed 16</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_17.txt">📡 Mixed 17</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_18.txt">📡 Mixed 18</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_19.txt">📡 Mixed 19</a><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_20.txt">📡 Mixed 20</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_11.txt">📡 Mixed 11</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_12.txt">📡 Mixed 12</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_13.txt">📡 Mixed 13</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_14.txt">📡 Mixed 14</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_15.txt">📡 Mixed 15</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_16.txt">📡 Mixed 16</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_17.txt">📡 Mixed 17</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_18.txt">📡 Mixed 18</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_19.txt">📡 Mixed 19</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/splitted/mixed_20.txt">📡 Mixed 20</a>
     </td>
   </tr>
 </table>

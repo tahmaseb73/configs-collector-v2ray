@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 01:18:29
+Timestamp: 2025-07-30 01:49:50
 Total Channels: 502
 Successful Scrapes: 469
 Failed Scrapes: 0
@@ -25,8 +25,8 @@ appsooner: 114 configs
 satellitenewspersian: 111 configs
 armodchannel: 108 configs
 mtproxy22_v2ray: 108 configs
+config_proxy: 105 configs
 v222ray: 102 configs
-config_proxy: 101 configs
 mftizi: 100 configs
 filter_breaker: 99 configs
 farahvpn: 90 configs
@@ -39,8 +39,8 @@ v2trayproxy: 80 configs
 manzariyeh_rasht: 79 configs
 qrv2ray: 78 configs
 vpnod: 77 configs
-hope_net: 77 configs
 v2raytg: 77 configs
+hope_net: 76 configs
 Tweety_Proxy: 75 configs
 ai_duet: 75 configs
 jiedianssr: 73 configs
@@ -80,6 +80,7 @@ jiedianf: 42 configs
 proxy48: 42 configs
 ir_netproxy: 41 configs
 yaney_01: 41 configs
+zerobaipiao: 41 configs
 dailyv2ray: 40 configs
 injectormconf: 40 configs
 savagev2ray: 40 configs
@@ -88,7 +89,6 @@ nepo_v2ray: 38 configs
 v2ray_collector: 38 configs
 v2rayza: 38 configs
 vipv2rey: 38 configs
-zerobaipiao: 38 configs
 v2ra_config: 37 configs
 v2rayngconfiig: 37 configs
 jiujied: 36 configs
@@ -170,6 +170,7 @@ flyv2ray: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
 garnet_free: 18 configs
+ip_cf_config: 18 configs
 jokerv2ray: 18 configs
 khoneproxy: 18 configs
 narcod_ping: 18 configs
@@ -190,9 +191,8 @@ jeyksatan: 17 configs
 kingofilter: 17 configs
 mastervpnshop1: 17 configs
 netmellianti: 17 configs
-proxy_mtproto_vpns_free: 17 configs
+outlinev2rayng: 17 configs
 proxy_v2box: 17 configs
-v2rayfree: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
 Fr33C0nfig: 16 configs
@@ -205,18 +205,18 @@ freeiranianv2rey: 16 configs
 game_file2020: 16 configs
 goldenshiinevpn: 16 configs
 golf_vpn: 16 configs
-ip_cf_config: 16 configs
 privatevpns: 16 configs
+proxy_mtproto_vpns_free: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
 v2raxx: 16 configs
+v2rayfree: 16 configs
 v2rayng_ip: 16 configs
 vlessconfig: 16 configs
 vmessprotocol: 16 configs
 connectshu: 15 configs
 free4allvpn: 15 configs
 minovpnch: 15 configs
-outlinev2rayng: 15 configs
 proxy_net_meli: 15 configs
 realvpnmaster: 15 configs
 server_nekobox: 15 configs
@@ -365,7 +365,6 @@ configscenter: 5 configs
 configsstore: 5 configs
 confingv2raay: 5 configs
 dashv2ray: 5 configs
-elfv2ray: 5 configs
 freeshadowsock: 5 configs
 freevmess: 5 configs
 ipv2rayng: 5 configs
@@ -379,6 +378,7 @@ vipnetmeli: 5 configs
 vpn_proxy_v2ry: 5 configs
 womanlifefreedomvpn: 5 configs
 avaalvpn: 4 configs
+elfv2ray: 4 configs
 filter5050: 4 configs
 freevlessvpn: 4 configs
 fsv2ray: 4 configs

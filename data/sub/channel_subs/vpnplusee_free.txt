@@ -1,6 +1,6 @@
-trojan://e6qkns7k-o5dj-eo4r-0bx1-pf64mid1i4ub@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:54
-trojan://6zbdv8w4-ygf9-tx5l-wtg3-k23mqcafbzme@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pj1dzm2v-4q05-a8ck-wv8b-elaa0ioquira@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8j8ieeua-icyc-e7pa-4iq8-yyeqcrvah3b3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:28
+trojan://eygqxl72-ewdl-fn8c-6o2z-pftbnevcneim@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mj91xaiq-lbs3-70gs-olen-mnnm2ol54o2z@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.217.61:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.217.61:22224
 vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@185.93.88.155:880?type=tcp&security=none#185.93.88.155:880
 vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@nim1.abrarvan.io:9090?type=tcp&security=none#nim1.abrarvan.io:9090
@@ -19,5 +19,5 @@ vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&secur
 vless://c714b70f-43c4-4970-90b8-fca089009f64@151.101.242.172:80?type=xhttp&security=none&path=/download#151.101.242.172:80
 vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=ikco.ir&fp=randomized#185.143.233.120:443
 vless://db38758e-5ecb-4b07-bb19-4226a96f7e84@uk.shokolatroshd.xyz:18907?type=tcp&security=none#uk.shokolatroshd.xyz:18907
-trojan://8dnjvjgq-esov-k7uw-b92b-c7q4ytgllhnd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2s8a3xi4-hnx8-5g2p-ba74-x0lpqzwux946@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://eec5ik29-sz6k-d4mk-24au-e3c22x9gn2i3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yqhev9f7-ipou-cuoy-mk9o-9cofo60jxqbv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

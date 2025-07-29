@@ -1,14 +1,12 @@
-trojan://9761hymp-uhl9-gn3i-dopm-a8a7nx9amba0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
-trojan://uax9jzhy-c9ds-tpb8-93ps-5iejuvrpkz8o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://11rm6h8f-n1oe-ka9v-eo3a-t0x1fu0xvmev@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
+trojan://60ep6hsz-h25k-20l6-q7ln-v2zvvedltb18@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
+trojan://l70sidmx-r0tb-pn4d-3p5a-j0ja5qa6e2s0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://nfe4woxt-e777-wj44-049z-fh0snoudigw1@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#83.147.216.70:64519
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?type=tcp&security=none#193.238.153.85:13305
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?type=ws&security=none&path=/?---Join-TELEGRAM-V2XAY#91.228.10.202:2052
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
 vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&security=none&path=/MsV2ray?ed=80#www.speedtest.net:80
@@ -19,5 +17,7 @@ vless://d47af421-30d5-49a3-af17-629cdc61e72e@151.101.3.8:80?type=xhttp&security=
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.67:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.67:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560#104.17.1.197:8880
-trojan://z5q07yz7-xtck-21n8-ihs0-r0819elus580@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://luziomv2-so17-qpg6-pmrb-0okq2w4xaj5u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?type=tcp&security=none#51.222.86.7:51952
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.187.196:2020?type=tcp&security=none#91.99.187.196:2020
+trojan://eruq4c0p-7rt2-nl4f-90e1-aeoarq024ni6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://5c3yuiuf-sz8v-e779-5ea1-u37ltdrrjokt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,6 +1,6 @@
-trojan://4s6wk2zy-oorw-1sce-c9ve-yi0a5xu3ovyg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
-trojan://6bqln2yk-10n2-yi61-co3i-umubcvczid32@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://bb4uq3yx-lhq7-9k23-vcqp-q6s5ea1mpclb@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://vu4xq68g-s96n-vnv2-it8r-hkelv6dz8bx9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
+trojan://s6oic2l6-ibh5-fksd-69bb-3nvw1ra1yhft@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://qb8pjosc-tne1-vktl-ecdn-8rk4q0njzf00@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://635442ac-1c52-4227-948a-fd4bd2cc6e68@s13.leaders711.top:5054?type=ws&security=none&path=/http#s13.leaders711.top:5054
 vless://1b244541-355a-4f88-b800-6bef8b1dbd7a@s14.leaders711.top:5050?type=ws&security=none&path=/https#s14.leaders711.top:5050
 vless://1b244541-355a-4f88-b800-6bef8b1dbd7a@s14.leaders711.top:5050?type=ws&security=none&path=/https#s14.leaders711.top:5050
@@ -17,5 +17,5 @@ vless://e3b89bf0-3e33-4722-b2d4-99129445c039@s15.leader21.top:5054?type=ws&secur
 vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054?type=ws&security=none&path=/http#s15.leader21.top:5054
 vless://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053?type=ws&security=none&path=/http#s16.leader21.top:5053
 vless://3feabdf2-320f-4692-94d5-5a197b0f1ea6@s16.leader21.top:5053?type=ws&security=none&path=/http#s16.leader21.top:5053
-trojan://z8eh9kyj-tooq-5jtc-7b0r-7qsl1ehchkfw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://7hu8rzfv-v6l2-wstv-hmum-wx5bn67wwv9l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://5fnhqtpj-c7yt-2u01-peo2-zuldpooupegl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://koz55wvm-bitg-5ba1-b224-u1l2mmljr5h8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

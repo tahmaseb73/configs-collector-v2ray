@@ -1,7 +1,8 @@
-trojan://x22k04au-6qzq-jx7a-9iss-jzgbuo3hzj2p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
-trojan://w96lqp7o-albi-try4-hv8k-442ptjjgds4h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://8ofuk2g0-kdw6-xziy-ihpy-yv3mw31uajhy@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://6wfsyyp2-75qt-rmxz-z1w0-ul1gzb0pfu0a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
+trojan://ajtggv7n-zqmq-shau-pr9g-vyo36h13cn4l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://qh5tstt3-7dep-lhqg-c677-c2xmkwr29bbf@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0lBIFZFRVNQIFx1MjUwNyAyMTYuMTczLjY5LjI1MCIsImFkZCI6IjIxNi4xNzMuNjkuMjUwIiwicG9ydCI6ODQ0MywiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-trojan://9igso8m7-prnl-pr9f-wtks-c3n7bq90xr1p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://d4vkkp6u-gzha-qtth-hzyk-j6f0ykef37y3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?type=tcp&security=reality&sni=ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&sid=e0b8e166#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 5.34.214.154
+trojan://bsynbx95-i2bi-6ta6-isyy-mdt5kry35xsi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://a06mtcjm-mbj9-akf2-rn19-1i7qipbk2rb4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

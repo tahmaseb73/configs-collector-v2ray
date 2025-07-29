@@ -1,6 +1,6 @@
-trojan://kmqwgitg-16tw-zej7-u77c-dgtt1q56tblu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
-trojan://7v0fj6mq-yjwn-pyx3-yjjd-pb40asuuyiuk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://uy5wiku4-1gi6-4l1i-1t5n-vdd05hwln35g@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://r8obew10-ks7d-z5r0-hc2j-ybq0h2n0xoxv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
+trojan://k5uq0psp-ux24-jsvm-fiay-iuom2wj60prz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://nmmp9hi8-na62-39sw-ytip-aunvvy9m2asw@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#speedtest.net:80
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?type=ws&security=none&path=/olem/ws?ed=1024#zmaoz.faculty.ucdavis.edu:80
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?type=ws&security=none&path=/olem/ws?ed=1024#151.101.3.8:80
@@ -30,5 +30,5 @@ vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@www.speedtest.net:80?type=ws&securi
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
-trojan://ewwfcw0b-4pk9-10y0-j999-1gx3fs5kzimm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://caa9fs7f-iygh-e6ab-knnt-xnorw8i0vhvp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://sijq8h3o-1lve-npxr-vzs7-djjxnp4ianju@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://v7sxih8g-at70-b53p-0e25-2lms4n2hrgty@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

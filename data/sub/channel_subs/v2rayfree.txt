@@ -1,14 +1,12 @@
-trojan://1t8wspfo-bhsw-9sbq-avfd-oi1uc0ojx2v4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
-trojan://pnggogt5-tk2l-a3nn-kltz-pipfiffk4x7u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://7oawbp47-hbdx-4f5e-tpi5-zmxtk4yp8epa@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://tm62xjxa-g88i-usje-9ric-tvuhqebsahtw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
+trojan://m07h3ntk-dlpj-y1in-4czq-t07j9og3i5kt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://frd4biix-zg1c-x4ga-p1sq-m1h0oni9k8vq@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2NcdWRmODFUaWNrVjJib3RAIiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6MTEwNTIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nb-us.nitter.ir&fp=chrome#104.26.6.89:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nb-de.nitter.ir&fp=chrome#104.26.6.89:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nb-fi.nitter.ir&fp=chrome#www.speedtest.net:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://829e5113-632d-46b1-aed8-3637f19b9322@45.131.4.147:8080?type=xhttp&security=none&path=/dashboard?ed=2560#45.131.4.147:8080
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=firefox&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
-trojan://hy0lgvst-nln8-fqtc-om95-gblzv8cgrz04@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://bu6nreot-n2fz-46a7-j29r-9smdh4v9df2v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+trojan://bmi5b5yo-xzt6-hkzj-p7ki-atoqeekzt6mz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://n8as5lek-lsmk-gi8i-ayl9-tfq97zlfr3wj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,10 +1,11 @@
-trojan://brcwvtjl-k52k-7920-j63j-7rswz0aayw1t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
-trojan://arszas88-2bj2-tvkl-yla8-754utcf4th56@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://r2ogmvqe-at89-9p7e-3tyq-8chlo8sq0nur@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&peer=x1es-ovh.devefun.net&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.128.69
-trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org&peer=store.timimi.dpdns.org&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 109.234.211.66
-vless://d9bd2578-dc93-40cc-87%61b-69%61915%610b%61%61d@83.147.18.191:4653?type=xhttp&security=reality&path=/api/stream&sni=tgju.org&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=a1b2c3d4e5f67890#ES 🇪🇸 ┇ VLESS-XHTTP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.191
+trojan://z42z80qn-9wg8-2x9g-8qi8-bdl9u8iatsfd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
+trojan://lg7ewprv-prrs-uzvj-se0i-dztl5qr5nfr7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://sjfpijrp-z3m1-chkr-lrqu-v64y2d9wwnxp@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?type=tcp&security=reality&sni=yahoo.com&fp=random&flow=xtls-rprx-vision&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3#ES 🇪🇸 ┇ VLESS-TCP-RLT - Individual Entrepreneur Anton Levin ┇ 185.250.181.128
 vless://977cf430-e251-4b5f-8bc4-c974fdec0df9@217.71.204.148:2096?type=xhttp&security=reality&sni=WWW.speedtest.net,Speedtest.net&fp=chrome&pbk=ueUB3nxbexEGsLstcIG5w84Tqz9IiHYdVQMdy6aPO0E&sid=f8baf4dd88f32724#ES 🇪🇸 ┇ VLESS-XHTTP-RLT - Cloudi Nextgen Sl ┇ 217.71.204.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqc3NTcDdYelBramdHNGlqREZuS1J6@194.87.45.189:443#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.87.45.189
-trojan://jf9d4cjj-5s5o-ip98-rt8n-1vpdanu7z9au@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://v5bk6stv-qmbi-ncmz-4hz3-vevzbc49yfts@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&peer=x1es-ovh.devefun.net&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.128.69
+vless://d9bd2578-dc93-40cc-87%61b-69%61915%610b%61%61d@83.147.18.191:4653?type=xhttp&security=reality&path=/api/stream&sni=tgju.org&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=a1b2c3d4e5f67890#ES 🇪🇸 ┇ VLESS-XHTTP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.191
+trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org&peer=store.timimi.dpdns.org&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 109.234.211.66
+trojan://pjcc7spb-72ph-6ght-cq52-718yd3cypcft@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://mzpb3etc-mpto-buh2-mz1n-soaw6nmg0dhv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

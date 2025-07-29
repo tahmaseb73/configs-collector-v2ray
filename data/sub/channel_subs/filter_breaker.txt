@@ -1,6 +1,6 @@
-trojan://pp1nr1xn-3zd4-crbl-d6gq-ufg5sdvyd22b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:53
-trojan://apz58qz0-tdqy-cjma-mbjg-hwp27gm5b8n2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zd0whd4l-9822-88aj-ibqy-y8dzufstv19x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cweharzi-0qoo-aa8g-ui0d-n1p4zsq1zorj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:23
+trojan://vwe695lv-s8on-l6xg-0138-yq92v7g9cdve@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oaxyzxm6-2971-8wzp-w6ga-vhfp6e223cxk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#45.87.175.165:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#45.87.175.157:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#216.173.70.187:57456
@@ -60,6 +60,17 @@ vless://376a6939-9876-4e54-84f7-02376b4c510c@em-5.web-manage.com.tr:3789?type=tc
 vless://376a6939-9876-4e54-84f7-02376b4c510c@em-2.web-manage.com.tr:3799?type=tcp&security=none&path=/#em-2.web-manage.com.tr:3799
 vless://376a6939-9876-4e54-84f7-02376b4c510c@em-3.web-manage.com.tr:3799?type=tcp&security=none&path=/#em-3.web-manage.com.tr:3799
 vless://376a6939-9876-4e54-84f7-02376b4c510c@em-4.web-manage.com.tr:1429?type=tcp&security=none&path=/#em-4.web-manage.com.tr:1429
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@127.0.0.1:443?type=tcp&security=none#127.0.0.1:443
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@127.0.0.1:443?type=tcp&security=none#127.0.0.1:443
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell-rezidental.az9x99.ir:2070?type=tcp&security=none#tunell-rezidental.az9x99.ir:2070
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@rezidental.az9x99.ir:2053?type=tcp&security=none#rezidental.az9x99.ir:2053
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell-star.fastsoft98.ir:2010?type=tcp&security=none#tunell-star.fastsoft98.ir:2010
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell-rezidental.az9x99.ir:2080?type=tcp&security=none&path=/#tunell-rezidental.az9x99.ir:2080
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@mw.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#mw.soft98speedtest.ir:2087
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@mx.soft98speedtest.ir:2053?type=ws&security=none&path=/scer#mx.soft98speedtest.ir:2053
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell.star.soft98speedtest.ir:443?type=tcp&security=none#tunell.star.soft98speedtest.ir:443
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@msx.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#msx.soft98speedtest.ir:2087
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@www.tunell-star.soft98speedtest.ir:2087?type=tcp&security=none&path=/#www.tunell-star.soft98speedtest.ir:2087
 vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:2095?type=tcp&security=reality&sni=snap.ir&fp=firefox&pbk=c7S104FqE1TNyQ39PoMoCxYpJkyKpC-gdOuwlzGOphg&sid=14bae9cf136fce37#irancell2.sbarshia.ir:2095
 vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:8443?type=tcp&security=reality&sni=miare.ir&fp=chrome&pbk=GkCxlHoVtlBNunDhQfYrz9QunYg3NhMRsKOscdrG83E&sid=14bae9cf136fce37#irancell2.sbarshia.ir:8443
 vless://c97efd65-10e4-4014-8725-19e4e3014574@geteway.nub-shop.ir:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=sqPEvDuHhNvglx0mxSX1tUharYmm-rb-0yGXEvIrbhA&sid=83b0fe5e2e457b59#geteway.nub-shop.ir:443
@@ -88,5 +99,5 @@ hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280?sni=f
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxg.flylink.cyou:35290?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#flyxg.flylink.cyou:35290
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#flyrb.flylink.cyou:35300
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?sni=flyhg.flylink.cyou&insecure=1&obfs=salamander#flyhg.flylink.cyou:35310
-trojan://vfssb2rb-tnry-chza-p3ec-8iwzras7tim0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://17fpc7kj-qaur-fqkp-tseq-fa4twa2qelca@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ozjgcwok-guoh-05bb-2vvs-26nqdsb8ekpu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ay8jjh0g-dwb5-b0mv-4e0y-91mjom815zpr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

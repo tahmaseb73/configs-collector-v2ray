@@ -1,7 +1,6 @@
-trojan://k5wl4bi7-t5dp-myb3-e5ra-mig9o5h8qewp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:53
-trojan://nwd8shv2-85r2-yfl3-17bw-q19jg5x1nou7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://z7yvqnk7-2l44-0pri-r2mc-56rsmogna8j0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#45.87.175.183:8080
+trojan://b97qgsik-jxpa-t315-kygj-7miufqirbgfb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:23
+trojan://lwxzzy9q-4aqa-dgye-snyx-0etz8bxa2cn3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hrte2j0h-hm9l-ctgm-ow42-wv6muhqnn083@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
@@ -12,35 +11,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 vmess://eyJ2IjoiMiIsInBzIjoid2VkYmF6IiwiYWRkIjoiMi4xODguMjE5LjQzIiwicG9ydCI6ODQ0MywiaWQiOiJiMmUzODYyMS0wMzViLTQzZjgtODRhNS1lOTIxNjA3NjJmYzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoid2VkYmF6IiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsInBvcnQiOjMyMDE3LCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?type=tcp&security=none#91.99.179.203:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/?ed=2560&sni=PaGes.deV#www.speedtest.net:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#104.18.26.90:443
-vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?type=ws&security=none&path=/#141.193.213.21:80
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?type=tcp&security=none#91.99.179.203:443
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/?ed=2560&sni=PaGes.deV#www.speedtest.net:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
-vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#104.18.26.90:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
@@ -171,5 +141,5 @@ vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?type=ws&security=t
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/zmgbizws&sni=638892846452854448.hamedan-prx-dnraaao.info#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.91.177:2087?type=ws&security=tls&path=/&sni=smart.v2plusify.org&fp=chrome#172.67.91.177:2087
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8#65.109.221.186:2083
-trojan://z4ywpig5-5xdx-5oqs-xyfn-86qtasa7b1as@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://18u35jht-6bpg-1zvl-taxy-qtcokayjbwaz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9uw4st0q-1aqs-w7t9-b0cp-25sz1i3v3cgk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vflbu25b-5dtl-xkqr-yncx-5mgxkn1idc98@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

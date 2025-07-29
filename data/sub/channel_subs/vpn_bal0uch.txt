@@ -1,6 +1,6 @@
-trojan://jjx6ad2o-0eoj-jgat-bh1v-kng8uqz9pk7f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:53
-trojan://er7hg1wc-pbpw-7ohg-smz3-nv6c56eks5q6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5j847db3-bdw9-2tay-o9nd-t29cc0fy4803@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://pebz548r-lalt-ow99-agq6-2axqmprxhso9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:24
+trojan://udzworda-ls16-kobh-ftu0-kxvrjd2iqpn6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://eua2ngit-zvdy-yh1u-yuvb-fk8xtmp3x797@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#servers.xvon.in:5000
 vless://73fe0ac0-6dc7-45c9-aa0c-d2d21adf9b2b@servrbot-alishabani.sbs:13867?type=tcp&security=none#servrbot-alishabani.sbs:13867
@@ -9,5 +9,5 @@ vless://a5309e53-9cc9-4c85-90fa-f1b78f14fe38@104.21.43.168:8880?type=ws&security
 vless://a5309e53-9cc9-4c85-90fa-f1b78f14fe38@172.66.40.99:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8880
 vless://c7fd1132-11ce-45e9-9274-ad5624429ae9@104.21.43.168:8080?type=httpupgrade&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8080
 vless://9a3ea5fb-1975-4726-8c1e-a7f64915953b@209.38.244.147:32789?type=grpc&security=reality&sni=www.stackoverflow.com&fp=chrome&pbk=33SVAlQv9slq7MriLy25Th1TFz3G156aLk9uc2iSXGk&sid=1e1ef98ffaf09d#209.38.244.147:32789
-trojan://rjzasawv-v6aa-ubvu-6lyz-lomtkk30tz5g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zu8z2o7t-yszp-2pyz-nphc-nht68rd0a47x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4jn2uhf7-ecos-l2il-2bbn-61ukq8dx6vkk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://th7ygxdw-7up6-p2vz-c3fs-zl6ftvi3n2x7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

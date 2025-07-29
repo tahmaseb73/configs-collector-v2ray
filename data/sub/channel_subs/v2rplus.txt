@@ -1,6 +1,6 @@
-trojan://xcsvotn7-6wkl-q6s4-v8bm-aih89dc6kzse@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:53
-trojan://obo6thk3-3tx7-yj0c-zned-4qj4f8rzxqn7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yelu5rrp-yz43-qos7-k3r1-ifb0ooi2j5zo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6m2qwnea-xtzs-5swe-r9ts-jvd6wvnbj64b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:24
+trojan://bwj5mta7-n4n4-usjw-e9x0-upqfc6g446cb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bjotglea-tgtm-vf65-r0wu-bh3jdf9y8f30@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://601e8081-5473-4111-86c8-d8787acc126d@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=melody.howareu.xyz#derby.howareu.xyz:8443
 vless://a2772b84-e7e2-41a7-8979-0c60a08bf5d6@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=melody.howareu.xyz#derby.howareu.xyz:8443
 vless://75d2a40c-dfa5-45ea-9e67-357a1fbca120@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=melody.howareu.xyz#derby.howareu.xyz:8443
@@ -12,5 +12,5 @@ vless://114b0b37-8867-4657-9567-a98aeab84486@derby.howareu.xyz:8443?type=ws&secu
 vless://114b0b37-8867-4657-9567-a98aeab84486@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=Melody.howareu.xyz#derby.howareu.xyz:8443
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@derby.howareu.xyz:2087?type=grpc&security=tls&sni=melody.howareu.xyz#derby.howareu.xyz:2087
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@derby.howareu.xyz:2087?type=grpc&security=tls&sni=melody.howareu.xyz#derby.howareu.xyz:2087
-trojan://rdmxmf0w-013l-xyhg-sczh-p4cinni45mke@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6im9pluk-4nxv-a20k-wxcd-zcfvg0q62041@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6p6ka37f-66f6-pbxu-8b3j-0hwnkfjlbuv2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://98n265wx-90jg-pjiw-jwg4-l8ozrzmfts83@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

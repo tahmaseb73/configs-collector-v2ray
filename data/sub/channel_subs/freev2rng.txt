@@ -1,6 +1,6 @@
-trojan://ao8yaqlx-1xx6-z9lm-zey7-h7p69hrb0gy9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:31
-trojan://1spoqrjr-cvtq-o0k2-8o7p-c9qovkmsm6c3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q87d2q42-kcj9-chpc-ieir-fjf471eg49rw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2dovrev5-0x5b-efiv-70rl-ug98fkk1ytr6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:53
+trojan://4vqy8h5z-08qe-ocx7-2ht8-zijcrwp2bs08@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://blz2lkyv-8pbx-jtks-tcyr-cjib5xgypy60@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIEluZGlhIC0gQEZSRUVWMlJORyIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIEluZGlhIC0gQEZSRUVWMlJORyIsImFkZCI6Ijk0LjEzNi4xODUuMjMwIiwicG9ydCI6MTA1MzQsImlkIjoiYjAxYzdlZjktMzNlYy00MWY2LWJmYmYtNzdkZGM0ZDIxNjQ5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -88,5 +88,5 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2082?type=ws&security=
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443?type=ws&security=tls&path=/--JoiN--@FREEV2RNG--Bia--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#172.66.47.138:443
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@mangaread.org:443?type=ws&security=tls&path=/--JoiN--@FREEV2RNG--Bia--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#mangaread.org:443
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@37.153.171.107:443?type=ws&security=tls&path=/--JoiN--@FREEV2RNG--Bia--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#37.153.171.107:443
-trojan://pvwxhx3t-7484-04dc-paw6-0v5xo1mhqbjn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://23ntkn61-xmni-whqm-srle-koibir33tgie@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://pka94ay9-g2gl-hq3u-f376-eojm93mb1pem@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9635r69t-daco-r2q4-pc3q-lcxbhcnojlsz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -197,29 +197,29 @@
     <td align="center">
       <strong>🔄 gRPC</strong><br>
       <code>High-performance Google RPC protocol</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/networks/grpc.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/networks/grpc.txt">📡 Subscription Link</a>
     </td>
     <td align="center">
       <strong>🌐 WebSocket</strong><br>
       <code>Flexible WebSocket-based connections</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/networks/ws.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/networks/ws.txt">📡 Subscription Link</a>
     </td>
     <td align="center">
       <strong>⚡ HTTP/XHTTP</strong><br>
       <code>Optimized HTTP protocol for speed</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/networks/xhttp.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/networks/xhttp.txt">📡 Subscription Link</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>🔗 TCP</strong><br>
       <code>Direct and reliable TCP connections</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/networks/tcp.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/networks/tcp.txt">📡 Subscription Link</a>
     </td>
     <td align="center">
       <strong>🔒 Reality</strong><br>
       <code>Cutting-edge protocol for maximum privacy</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/networks/reality.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/networks/reality.txt">📡 Subscription Link</a>
     </td>
     <td></td>
   </tr>
@@ -228,9 +228,9 @@
 ### 🔒 **Security Levels**
 | Security Level | Description | Subscription Link |
 |----------------|-------------|-------------------|
-| **🔓 Non-TLS** | Unencrypted for lightweight connections | [📡 Subscription Link](https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/security/nontls.txt) |
-| **🔐 TLS Standard** | Industry-standard TLS encryption | [📡 Subscription Link](https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/security/tls.txt) |
-| **🛡️ XTLS Enhanced** | Advanced XTLS for maximum security | [📡 Subscription Link](https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/security/xtls.txt) |
+| **🔓 Non-TLS** | Unencrypted for lightweight connections | [📡 Subscription Link](https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/security/nontls.txt) |
+| **🔐 TLS Standard** | Industry-standard TLS encryption | [📡 Subscription Link](https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/security/tls.txt) |
+| **🛡️ XTLS Enhanced** | Advanced XTLS for maximum security | [📡 Subscription Link](https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/security/xtls.txt) |
 
 ---
 

@@ -237,7 +237,7 @@
 ## 🚀 Quick Start
 
 1. **Choose a Protocol**: Select from Vmess, Vless, Shadowsocks, Trojan, Hysteria2, TUIC, or Mixed Configurations based on your needs.
-2. **Subscribe**: Use the provided [Subscription Links](#configuration-categories) to import configs into your V2Ray client.
+2. **Subscribe**: Use the provided [Subscription Links](https://github.com/tahmaseb73/configs-collector-v2ray/tree/main/data/sub/countries) to import configs into your V2Ray client.
 3. **Connect**: Configure your client with the subscription link and connect to the desired server.
 4. **Optimize**: Use our API to fetch location-optimized configurations for the best performance.
 

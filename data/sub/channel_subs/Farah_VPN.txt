@@ -1,6 +1,6 @@
-trojan://ivu8i4cd-i0bt-7879-yan3-3yrmp8198hvo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:22
-trojan://k1r8k70y-d03j-s02p-tbd9-u8psj3ndxe5f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://a0u1eaz0-mscn-2s9m-msl6-wzvd7zzu5tks@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1583cq4k-vzf7-j70g-215l-qbsa2wctsh3q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:49
+trojan://z53f8hiv-5hsa-okee-zlc8-rh9v6itkdd9g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3th1v12x-w05f-kc8q-uazk-319zm9e9qzun@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
@@ -20,6 +20,6 @@ vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&secur
 vless://turboo-server@telegram.turboo-server.com.co:2095?type=tcp&security=none#telegram.turboo-server.com.co:2095
 vless://77836325-68d3-4b82-a195-524993ccf56b@151.101.194.228:80?type=ws&security=none#151.101.194.228:80
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
-trojan://ffxfs782-bmfi-orrz-3i9k-nxacnpw49q4j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xqtab9ce-3tuy-te77-f57b-j4lgxlp019pa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f882417e-fe9d-4ed5-ac1d-9eccbaf890c0@172.67.211.227:2082?type=httpupgrade&security=none&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#172.67.211.227:2082
+trojan://47b853sj-yx0y-9xnb-qubv-rjl07o3nx5tg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dnu36t7m-9y1j-a5y9-g2d8-f3ef5any3mjt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

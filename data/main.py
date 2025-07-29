@@ -88,10 +88,10 @@ class AppConfig:
     MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @DailyV2Config"
-    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @DailyV2Config"
-    DEV_SIGNATURE = "</> Collector v4.0"
-    CUSTOM_SIGNATURE = "「 Telegram @eQnz_github ☕ 」"
+    ADV_SIGNATURE = "This is a free trial project."
+    DNT_SIGNATURE = "For enhanced GitHub access, visit Argh94 now!"
+    DEV_SIGNATURE = "</> Collector v5.0"
+    CUSTOM_SIGNATURE = "「 GitHub Argh94 ☕ 」"
 
 CONFIG = AppConfig()
 console = Console()

@@ -1,11 +1,10 @@
-trojan://wngtigq6-dhci-cahw-xqsm-gqrlft70kiqt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://nh8hw1pn-tkjj-w1li-flyv-5x9zv9sgaos0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://jad55py4-33rg-tjbv-e44y-zrianl9w6r13@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://gvwi7945-e4uq-ebsr-8hbk-2q2y1lqb5fbg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://fa2cfihb-h88u-q6m2-xcvd-1vh46xwigzzj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://8n1kdqx5-wff7-o6ae-zfj8-vqrk146mob4a@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@join.vpncustomize.vpncustomize.reziazaran.ir:443#join.vpncustomize.vpncustomize.reziazaran.ir:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
 vmess://eyJ2IjoiMiIsInBzIjoiQGZhc3RrYW5maWciLCJhZGQiOiIxMDQuMTguMTM1LjE5MCIsInBvcnQiOjg0NDMsImlkIjoiNjczNTdlNzItZTA3ZC00MDAyLTlkMTgtZjU5MzU1OTJkNjQ0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IlBiLmJvc2hyYWNIb2ljZS5pci4iLCJwYXRoIjoiLz9lZD04NDQzIiwidGxzIjoidGxzIiwic25pIjoiUGIuYm9zaHJhY0hvaWNlLmlyLiJ9
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?type=tcp&security=none#91.99.192.155:443
 vless://turboo-server@85.9.96.92:55797?type=tcp&security=none#85.9.96.92:55797
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?type=ws&security=tls&path=/Telegram@V2ray_Alpha=?ed=2560&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz#172.66.132.196:8443
 vless://turboo-server@151.101.67.8:80?type=xhttp&security=none&path=/#151.101.67.8:80
@@ -14,6 +13,7 @@ vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?type=ws&sec
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?type=xhttp&security=none&path=/sdf#216.22.5.96:443
 vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl1.pokerad.sbs:80?type=tcp&security=none#dl1.pokerad.sbs:80
 vless://bddacae3-5a9f-4406-a650-52614396a2f0@104.21.43.168:443?type=ws&security=tls&path=/index.html?ed=2560&sni=s1.sUbUrl.OrG&fp=chrome#104.21.43.168:443
+vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://92c79723-eb54-4c48-bb81-83423a0e6440@turboo-server-bot.aftabz.com:8080?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=zLBoalJcQIgIUcegIx0_cCEBvAMJxIbotJA6y50CVHg&sid=3bf4f5#turboo-server-bot.aftabz.com:8080
-trojan://jkj6wuym-5rlm-doil-t6fk-fsktabs5stxr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://rmeeoiqb-yqwm-vscd-mfd4-2w2grsusvzt9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://x0lkjhca-uo74-0j16-w9wl-p9gfvm3zhtlx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://1uvyecfu-7p9w-124a-d3x1-t1t3tj3lf8z5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

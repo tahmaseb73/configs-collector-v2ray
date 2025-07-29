@@ -1,9 +1,9 @@
-trojan://3m4bgt5k-lnnj-9k22-zs6i-o2lrbxy8ylvv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://s1p11qei-lcru-z5xw-4s1y-ny8qg3mg52zq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://0hhreqm9-6wzf-fftk-j3x2-ws9gmnv4cyox@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-vless://e6be8281-680a-4758-de5f-fbf1a8461b3b@de1.iranbax.com:8443?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=nfAanecTjMD0xoIHRGsSW7coDymKsby8MmETOVwFr2o&sid=b5#US 🇺🇸 ┇ VLESS-GRPC-RLT - AMAZON-AES ┇ 13.216.111.180
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 34.200.110.215
-hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AMAZON-AES ┇ 54.166.221.95
+trojan://br75xa6r-pm71-1axu-0hsj-37qkfybghc3n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://ffsy8cqu-equ0-64th-q1g5-1h0je3c6l622@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://qd7bs8aq-3944-qeaw-8hmn-61h05gnfw6lw@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.89.57.168:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-AES ┇ 3.89.57.168
-trojan://jza9llq1-qruc-hd0u-xmjc-6v16z81gxdhc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://t6p10wvn-9l2x-ehxl-bv7b-8nk7namz8xm2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AMAZON-AES ┇ 54.166.221.95
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 13.216.10.227
+vless://e6be8281-680a-4758-de5f-fbf1a8461b3b@de1.iranbax.com:8443?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=nfAanecTjMD0xoIHRGsSW7coDymKsby8MmETOVwFr2o&sid=b5#US 🇺🇸 ┇ VLESS-GRPC-RLT - AMAZON-AES ┇ 13.216.111.180
+trojan://m5agguhe-m867-b4uc-hchf-mx7s3y5f59zb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://xb2ednxl-ohx5-zsf5-3155-9hyuwf7fkx1j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

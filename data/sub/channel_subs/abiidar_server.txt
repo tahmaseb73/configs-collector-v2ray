@@ -1,6 +1,6 @@
-trojan://sxg3yfcr-wlly-44r7-140i-mnf7fpox4noh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://cudiev40-39ei-kfak-6iux-rcjha9i122zp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://erlr2tv7-xgwm-bcjr-i21q-h5br9n982k9h@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://u3rvgp4x-1l4z-quj5-97xo-1i1z6epabyn6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://06wm9rn0-0me6-lz56-rvkm-1yr7qk0iklro@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://eomz79ga-leqc-wkbl-w8md-oaoi8sz2394s@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
@@ -12,5 +12,6 @@ vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&secur
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
-trojan://c1obuv0b-fj9e-c7yk-b8mx-e4inogcytilv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://hxslvs56-30f0-p8ak-h72l-aehc8cndz2xg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?type=grpc&security=none#91.107.243.60:18753
+trojan://hdaikti7-fbgv-u9a1-nml8-ze8m4qxqddgg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://jaoiaiyh-p3ls-bugu-q41u-jlnqwpth3506@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

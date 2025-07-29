@@ -1,6 +1,6 @@
-trojan://psgkcpnw-nrmt-tdy1-wghh-n36lln9xg4hn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://ghtr8w2u-yw7c-0fnk-jv67-lrjb43g3web8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://e6ts3r2x-oh52-nird-z64m-6lejg77gdyz0@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://ezsvil9z-9asp-wvxn-jofi-0hhl6rv66oqk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://2z7hjg7n-fhbi-p737-yuix-l7ekkfnnm4ci@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://eubl8ruw-if5x-97qk-auou-9gw7512m9zgf@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ0hBTk5FTCA6IEBNVFBWMnJheSIsImFkZCI6IjQ2LjI1My40LjIxNCIsInBvcnQiOjgwODAsImlkIjoiN2ZkNTljMDQtMDIwNy00NWU2LWE5ZGUtYjhlN2Q5NTRiZDM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://60e09f7a-d5fb-4188-a2ce-7effcb1bc98d@ir.mtpmio.com:35128?type=tcp&security=none&path=/#ir.mtpmio.com:35128
 vless://3d61026b-b1b6-4f71-b91f-9771e29eb3e3@87.120.92.135:8080?type=tcp&security=none#87.120.92.135:8080
@@ -14,5 +14,5 @@ vless://20cf1bfb-c5ad-4a5f-85bf-ec14e89b1406@day.mtpmio.com:443?type=tcp&securit
 vless://94103d28-98c9-462a-9098-f3c69163749c@87.120.92.135:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=ERFNXMOphtOIgiaj2XyHxE7NYsXJTErd1bPPnLCWYgw&sid=6038#87.120.92.135:443
 vless://94103d28-98c9-462a-9098-f3c69163749c@87.120.92.135:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=ERFNXMOphtOIgiaj2XyHxE7NYsXJTErd1bPPnLCWYgw&sid=6038#87.120.92.135:443
 vless://40e07aa0-665e-4d77-ab88-2aa02fca83b7@62.60.179.68:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&flow=xtls-rprx-vision&pbk=e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY&sid=8c0bcf#62.60.179.68:443
-trojan://u9xa7ywx-7kxe-a44x-ab73-7g3rul9rh5vd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://1g11aq5r-4gtw-pozq-fai6-vdox75ui9zhb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://wnoqevff-4res-70dy-kwf1-53b4quiemibq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://hfhsr03j-w788-xrhm-bo0s-zm6aj6wf0wtc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

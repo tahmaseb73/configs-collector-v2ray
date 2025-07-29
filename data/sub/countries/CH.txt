@@ -1,15 +1,15 @@
-trojan://zj70uvx8-8y8x-047q-wgku-107h7p63swsb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://itwyvz2i-3rr2-pcrw-tknu-qgpd0ca8r52i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://fep0ekij-9hmz-dudi-227b-tnanxauyb7q3@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://g2g5t6c7-kded-vdhq-7jcm-tk9vu68p8tsk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://s03fuj6h-1ngp-5cfn-x0qo-fkp5dy64gry7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://52j87fdx-h9ii-1gy1-jw88-yaegsxep5hoe@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=grpc&security=reality&sni=mega.io&fp=chrome&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&sid=07a9a22b#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Serverd SAS ┇ 193.168.144.46
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgNS4xODIuMzYuMTk5IiwiYWRkIjoiNS4xODIuMzYuMTk5IiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMjNEdENyNlNMZjdPcXhDZm9KY1Js@h110vpnch.outlinekeys.net:4248#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.232.236
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLUdMT0JBTFRFTEVIT1NUIFx1MjUwNyAxODYuMTkwLjIxNS4xOTMiLCJhZGQiOiIxODYuMTkwLjIxNS4xOTMiLCJwb3J0IjoyMjMyNCwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.182.36.251
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.166.88.201:6697#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.201
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.166.88.104:6697#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.104
-vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=grpc&security=reality&sni=mega.io&fp=chrome&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&sid=07a9a22b#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Serverd SAS ┇ 193.168.144.46
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab#CH 🇨🇭 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.182.36.251
-trojan://hZ7JkYVAfB@141.227.138.29:1935?sni=x1ch-ovh.devefun.net&peer=x1ch-ovh.devefun.net&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.138.29
-vless://b228220b-6f92-4350-b73d-a1f924a3c686@37.156.44.122:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.44.122
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYXA5UDRnOFNMTFptQnZZYzhKbEtl@h110vpnch.outlinekeys.net:4248#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.232.236
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLUdMT0JBTFRFTEVIT1NUIFx1MjUwNyAyMy4xNjYuODguMTgzIiwiYWRkIjoiMjMuMTY2Ljg4LjE4MyIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-trojan://nm26oiv4-lxam-w0cy-5a3c-c91x1ymnkdh3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://ozrip42t-qakf-71r4-ar3w-w2pwtsew8gql@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://b228220b-6f92-4350-b73d-a1f924a3c686@37.156.44.122:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.44.122
+trojan://hZ7JkYVAfB@141.227.138.29:1935?sni=x1ch-ovh.devefun.net&peer=x1ch-ovh.devefun.net&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.138.29
+trojan://qb8cqs9r-orls-daz7-u35b-9oq91ptr7bp7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://dkoplpbl-7sms-31ke-eer3-8n3f2u61sl43@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

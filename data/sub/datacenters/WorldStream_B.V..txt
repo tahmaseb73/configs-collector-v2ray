@@ -1,7 +1,7 @@
-trojan://c5l9qwuw-depx-v1af-p5fu-60rdq3oqg70w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://ptyxh8xv-dh7f-27jr-1pp6-c8iqhx1uvplv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://odkg66it-1bqw-1ra8-ve0n-v590fft86e4t@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@91.232.105.253:9101#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.232.105.253
+trojan://nfn3koir-njlb-t17n-dp54-arvwm1upm361@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://oxyokpaq-qu2x-iict-yplz-7izf5qh2i5fy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://z7jmrnd1-8kmt-uwun-f6bw-rjsnieqc0asd@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://ac864844-c86b-4ac5-bbe9-50fcc05123f2@2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e:443?type=tcp&security=reality&sni=srhrforall.org&fp=chrome&flow=xtls-rprx-vision&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#NL 🇳🇱 ┇ VLESS-TCP-RLT - WorldStream B.V. ┇ 2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e
-trojan://85lsmgms-7dnm-amkl-35cl-0cvaw47jzphm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://tvqke6ct-q6f8-z2wc-0n7b-vmrt91ht9o42@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@91.232.105.253:9101#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.232.105.253
+trojan://y6mm97gs-vdro-ep4e-4spo-13jm1bju3jj0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://h8lgowxw-i9o8-2p73-td44-7y3eava0xfco@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

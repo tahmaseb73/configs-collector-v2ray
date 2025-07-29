@@ -1,6 +1,6 @@
-trojan://v5ejckd0-uezv-071z-266v-r7duc1o8iy2m@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://bnkyrqzv-ozol-mprd-lrf9-lgiosm4edyfq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://x23nty83-hpqi-pt76-ejcu-rs8ucnrxn5sd@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://evm90zor-vuw0-p0io-s3j6-qidznkbsyuyy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://xw2dgaa5-se3f-h9fl-32se-s7mztngfsp37@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://w2hr4dh2-4ykg-3fyq-ilm8-vwp699kshiq8@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZDEyIFx1MDYyN1x1MDZjY1x1MDYzMVx1MDYyN1x1MDY0Nlx1MDYzM1x1MDY0NCBcdWQ4M2RcdWRmZTEgXHUwNjQ3XHUwNjQ1XHUwNjMxXHUwNjI3XHUwNjQ3IFx1MDYyN1x1MDY0OFx1MDY0NCBcdWQ4M2RcdWRmZTYgXHVkODNkXHVkZDEyIEBNaW5vVnBuQ2giLCJhZGQiOiIxODguMTE0Ljk4LjAiLCJwb3J0Ijo0NDMsImlkIjoiYjc5NzkzMTktN2YxOS00MTQzLWE0ODgtMTQ2MzI4YWJlYTkzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZGNlZGkub3pteG1xY2dyLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZGNlZGkub3pteG1xY2dyLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI3XHUwNmNjXHUwNjMxXHUwNjI3XHUwNjQ2XHUwNjMzXHUwNjQ0IFx1ZDgzZFx1ZGZlMSBcdTA2NDdcdTA2NDVcdTA2MzFcdTA2MjdcdTA2NDcgXHUwNjI3XHUwNjQ4XHUwNjQ0IFx1ZDgzZFx1ZGZlNiBcdWQ4M2RcdWRkMTIgQE1pbm9WcG5DaCIsImFkZCI6IjE1MS4xMDEuNjYuMjE5IiwicG9ydCI6NDQzLCJpZCI6IjViYzkzOGVkLWQ0ZmMtNDEzNC04MmU2LThmNjZmNThhZjdmOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiLz9lZD0xMDI0IiwidGxzIjoidGxzIiwic25pIjoic3BlZWR0ZXN0Lm5ldCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI3XHUwNmNjXHUwNjMxXHUwNjI3XHUwNjQ2XHUwNjMzXHUwNjQ0IFx1ZDgzZFx1ZGZlMSBcdTA2NDdcdTA2NDVcdTA2MzFcdTA2MjdcdTA2NDcgXHUwNjI3XHUwNjQ4XHUwNjQ0IFx1ZDgzZFx1ZGZlNiBcdWQ4M2RcdWRkMTIgQE1pbm9WcG5DaCIsImFkZCI6IjE1MS4xMDEuNjYuMjE5IiwicG9ydCI6NDQzLCJpZCI6IjJkOTRkZmY5LWZiNjItNDRjNi04Y2U4LTc4ZWI2NjNmMjBjZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiLz9lZD0xMDI0IiwidGxzIjoidGxzIiwic25pIjoic3BlZWR0ZXN0Lm5ldCJ9
@@ -16,5 +16,5 @@ vless://b9ada8b3-6ad0-45cc-b72f-ace43c7de476@45.94.215.101:443?type=tcp&security
 vless://b9ada8b3-6ad0-45cc-b72f-ace43c7de476@45.94.215.101:443?type=tcp&security=none#45.94.215.101:443
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?type=xhttp&security=none&path=/awduhiawad?ed=2560#151.101.204.190:80
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?type=xhttp&security=none&path=/awduhiawad?ed=2560#185.18.250.67:8080
-trojan://hk1we0pm-qo17-67n9-5tt6-2fywm11idn3e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://x26cgpll-od23-b5bo-eyoz-3ixvtp271z2j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://trcp7c89-7tsy-uja9-l0ft-316q3wcc3xrf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://isyupax4-uug4-g647-2hrz-wtwxhon2bylj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

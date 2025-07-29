@@ -1,6 +1,6 @@
-trojan://fp80ppuy-kloj-dxnx-dhqb-eg2ndoi0xa4r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://qxt29m7z-d93q-zjph-zyk1-ebbo69bb1b20@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://u39he7ur-glbp-4urh-294c-5403dgj9x5ln@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://hpgxia7r-uwco-i12w-ckqu-yv8j0wswgeqz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://uyw3wk2b-olxr-kpdk-ue71-vn03cjde5d29@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://c0raalfr-kd96-f301-5pvd-nwlvh4z5uq9w@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
 trojan://6417fbb0-489f-11f0-bb34-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
 trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
@@ -14,5 +14,5 @@ vless://cfa5f326-53f8-4623-8323-b283dd7f41fc@91.107.167.104:59745?type=grpc&secu
 vless://7c888d30-189e-4b68-c084-2df3944265c1@91.107.167.104:59745?type=grpc&security=reality&sni=Zula.ir&fp=chrome&pbk=kPPcRHnxJeFfMs8LZpl-eKdlSOMxL_TitC5a4cIerFw#91.107.167.104:59745
 vless://channel_hopev2ray_hopev2ray@91.107.167.104:23448?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=-l-QUSLInypK65odnr_0zl9z1gsUmBni_O_Y1ReTHl4#91.107.167.104:23448
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&sid=ce1f64bf8464#193.9.16.37:54876
-trojan://bofxylyb-5ka2-077y-21gs-k4k8pi67t61a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://tgcitfzy-9bpg-4wai-xald-y69ir3ehz61u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://mv01i7yy-jafe-a89j-4f47-j9c5vb2a600m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://su980c5p-1898-yfkw-obwb-tzmpv2meqfjh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

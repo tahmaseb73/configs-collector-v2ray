@@ -1,6 +1,6 @@
-trojan://281r2wc6-z1hp-krix-rdjn-8tmsdcn2hsue@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://ao6od0cg-czq4-1hs6-6vqd-k4fm4vzsssk8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://zi7lnsza-k8m2-g7x0-p008-qdit49cc1y73@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://c80dx6vf-ksbh-dsyw-j5gy-sgooflythxa0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://aolpg807-3tuu-x1qq-8ed1-f3ttob99onij@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://a7dk0hs5-4l53-u8ki-gxm0-n3hschznr3kg@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://30751956-0e39-4b40-a208-1ff32e616834@tnl2.omidkiani1.top:4600?type=grpc&security=tls&sni=panel.omidkiani1.top#tnl2.omidkiani1.top:4600
 vless://4ab4a065-1325-42e7-98c6-d5516ec4db6d@cloud.flaresub.online:8443?type=grpc&security=tls&sni=config10.radvin.online#cloud.flaresub.online:8443
 vless://4dc4d7d7-e5d8-4596-b4b4-abd9f7f75709@tnl2.omidkiani1.top:4600?type=grpc&security=tls&sni=panel.omidkiani1.top#tnl2.omidkiani1.top:4600
@@ -11,5 +11,5 @@ vless://5bb6b085-411e-4808-8c73-d4e17a7f49a4@cloud.flaresub.online:8443?type=grp
 vless://d04b9da6-2bd1-4022-86a8-915bb6b69660@tnl3.omidkiani1.top:30300?type=tcp&security=tls&sni=panel3.omidkiani1.top#tnl3.omidkiani1.top:30300
 vless://77b84bf9-4ced-447c-a629-061a74f9578d@cloud.flaresub.online:8443?type=grpc&security=tls&sni=config1.radvin.online#cloud.flaresub.online:8443
 vless://4285d575-6c97-4f24-b1e5-f424fa727ff6@tnl4.omidkiani1.top:31018?type=tcp&security=none#tnl4.omidkiani1.top:31018
-trojan://fj0lx6xd-kb1q-hov0-qaab-dxlrsl1i2jqi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://auwzdcam-hk8a-isru-en94-qoxs256xeime@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://2ckgb7nq-k8c8-i1pd-ipyg-krvqkr3m6knu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://zhzjga8b-fgpf-x01x-8pro-i45iqr1pebfa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,19 +1,20 @@
-trojan://aqkrgpyk-mn8j-v5be-1u3i-9pcuel4ebqmu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:25
-trojan://fpedbsst-p8pf-13ts-osny-1pz0w6zuxkrt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://gt9k0t3o-7p7u-tj5s-771b-vls8zgpyp1f9@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.79.230.102
+trojan://xsufkhd4-5fqy-lt0v-nbz0-fyj42zsbtok8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
+trojan://xalzu9qw-i22z-lquc-da16-h8xfoaonqtmo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://0swkw44z-fszm-qsei-33en-ugk1ffyttjf7@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?sni=flyhg.flylink.cyou&insecure=1&obfs=salamander#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 203.32.26.70
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTMwLjE2Mi4xMzQuMjE4IiwiYWRkIjoiMTMwLjE2Mi4xMzQuMjE4IiwicG9ydCI6NDQzLCJpZCI6IjQxN2M1MTA4LWVmNmItNDlmMC1hMTNkLTg3NDZmZTZlMjA0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.38.154.106:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.38.154.106
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.229.125:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.229.125
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.203.116.140:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.203.116.140
-ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ@220.124.31.130:19378#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 220.124.31.130
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.62.168
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTE4LjQzLjE1OC4yMjAiLCJhZGQiOiIxMTguNDMuMTU4LjIyMCIsInBvcnQiOjIwNTIxLCJpZCI6ImFiNmRkZTA4LWNlMGQtNGMzZC1iNzA4LWRhNTNhZjFhODYyZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.76:15098#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.31.76
-ss://YWVzLTI1Ni1nY206eXk1OTU3MjE@131.186.21.62:4433#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 131.186.21.62
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.180.253.219:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.180.253.219
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTIxLjE1NC4xODcuNDQiLCJhZGQiOiIxMjEuMTU0LjE4Ny40NCIsInBvcnQiOjIwNTIxLCJpZCI6ImVmZWNhOGMyLThmNjMtNDY3Yi04ZDI4LWQ2MzBhN2E5ZGM4ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-trojan://6vtvqjh5-5beo-mf6q-z2ov-sznmo23tj3fw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://higxfiaz-tw07-4k9y-u512-j5tezz1lo445@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.62.168
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.79.230.102
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - SK Broadband Co Ltd ┇ 218.237.185.230
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.76:15098#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 125.141.31.76
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTMwLjE2Mi4xMzQuMjE4IiwiYWRkIjoiMTMwLjE2Mi4xMzQuMjE4IiwicG9ydCI6NDQzLCJpZCI6IjQxN2M1MTA4LWVmNmItNDlmMC1hMTNkLTg3NDZmZTZlMjA0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
+ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.229.125:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.229.125
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.203.138.134:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.203.138.134
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.38.154.106:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.38.154.106
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.203.116.140:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 43.203.116.140
+ss://YWVzLTI1Ni1nY206eXk1OTU3MjE@131.186.21.62:4433#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 131.186.21.62
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTE4LjQzLjE1OC4yMjAiLCJhZGQiOiIxMTguNDMuMTU4LjIyMCIsInBvcnQiOjIwNTIxLCJpZCI6ImFiNmRkZTA4LWNlMGQtNGMzZC1iNzA4LWRhNTNhZjFhODYyZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ@220.124.31.130:19378#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Korea Telecom ┇ 220.124.31.130
+trojan://3j5tjj20-4lbv-jkwx-zra0-4zxem1liwvmz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://xlunyqtk-x6l3-7sl2-2k52-0x5ht4e9784z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

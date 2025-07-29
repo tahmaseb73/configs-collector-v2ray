@@ -1,6 +1,6 @@
-trojan://wqwroo3c-z1pz-fpz3-6uuq-ydqinb1h3gv8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
-trojan://i3jcsx3k-pcsp-m1h6-edkx-c2kq62rjprgx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://p3eb0qg0-dlfc-qobo-3a1y-irgso1bmxzua@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://8fd3pb6o-jx3f-cxw5-k4cw-004scy4p11pp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
+trojan://vlc7di9g-9vhn-bd6d-36xm-ag7ir1s8a2bo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://t51cyy91-swoz-csii-zv55-m1sirxvwr2zy@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL3YycmF5NHdpbiIsImFkZCI6IjY1LjEwOS4yMDQuNjMiLCJwb3J0IjoxMjE4NCwiaWQiOiJjNGFiOGIxZC0xMWQ0LTQ1MGQtZjdlNy04MjZjMjJjMzMyMTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL3YycmF5NHdpbiIsImFkZCI6IjQ1Ljg1LjExOC44OCIsInBvcnQiOjQ0MywiaWQiOiJlZTMwZDNmZi1kYTE0LTRlYTgtYmNkMi0wMmU4ZWUzNjY3ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhzdHIxNjc1NTIwMTA2MjcwLmFpZGFwcC5saWZlIiwicGF0aCI6Ii9haWRhcHAubGlmZXZ3cyIsInRscyI6InRscyIsInNuaSI6ImhzdHIxNjc1NTIwMTA2MjcwLmFpZGFwcC5saWZlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL3YycmF5NHdpbiIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6NDQzLCJpZCI6ImE0ZGYwODlmLTNjMWMtNGNmNy05YTVmLWFiNmQyMjEyMTM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidjIta2lhdmEua2lhdmEud29ya2Vycy5kZXYiLCJwYXRoIjoiL2FwcHN2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Mi1raWF2YS5raWF2YS53b3JrZXJzLmRldiJ9
@@ -9,5 +9,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5NHdpbiIsImFkZCI6IjkxLjEwNy4xNjAuMjQwIiwicG9y
 vless://c0625efa-c901-441b-da4d-45ed3cb0f84e@91.107.147.213:40886?type=tcp&security=none#91.107.147.213:40886
 vless://c0625efa-c901-441b-da4d-45ed3cb0f84e@91.107.147.213:40886?type=tcp&security=none#91.107.147.213:40886
 vless://9a84e4a2-731d-4dd5-a22d-796c7a345e39@www.speedtest.net:443?type=ws&security=tls&path=/aboutws&sni=v4.kiava.workers.dev#www.speedtest.net:443
-trojan://v1q1v3t0-eb91-me0k-loor-woozw3z5guld@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://lme3blgd-mymm-jfyf-6f8z-0u2ecgfl2i5d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://b7c332ua-0crn-zshc-pyre-su9yjixfnaz1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://v0twq3ay-u6sq-2km3-yfz0-zdxlk283l8px@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

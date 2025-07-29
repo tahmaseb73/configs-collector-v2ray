@@ -1,10 +1,10 @@
-trojan://7g1jurm5-ym0v-shod-1ybm-fqeycdunbhiw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
-trojan://pktjuf5i-8qbb-azy0-3nmw-752sbgkaquhe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://r48ifzgd-u7az-mfbz-0sl4-aq4ic0pv4t78@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
-hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.32
-hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.46
+trojan://t4cy3ogm-u2cv-yxzp-n68e-g80zq3uu8fpy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
+trojan://stqy5g7p-qyyj-11na-dclr-mgpl0hgvwqmx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://09bi2bii-cvir-x480-usrl-8ooy5qfc3pfp@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
+hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@163.172.110.153:809#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.110.153
-trojan://g3jbb7dc-eimu-fwvn-rorn-nt2hejjqfl59@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://5tbj6hsz-0sns-r0vr-0jlo-n680w84pv3j3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.46
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
+trojan://mgm5yjjw-elrm-52d7-hwzk-4mejmuydyv01@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://yqow4qk5-n95d-4d2w-vbz0-i4eg55sstg2f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

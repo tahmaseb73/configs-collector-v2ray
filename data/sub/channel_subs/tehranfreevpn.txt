@@ -1,6 +1,6 @@
-trojan://9ozckz0p-9r41-ya66-p04s-7li4h3nms0t2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
-trojan://5xqz9jn1-4kyl-7ouw-86yr-8nhe77ot27mf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://wy0zseur-306e-3diy-77f5-17rjmyboqehz@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://k4rd1z0u-vfil-urjs-9rti-ro8ojzdhxhvj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
+trojan://wyvdwpqc-es5w-p6p6-86xv-uui4qqs6jsuw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://q69szs9c-pcxu-sn9f-usx8-zrw47fntfofu@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQFRlaHJhbkZyZWVWUE4gLSBGcmVlUHJveHkiLCJhZGQiOiJmcmVlLm11c2VsYW5kLmluZm8iLCJwb3J0Ijo4MDgwLCJpZCI6IjMzNTg4YzYyLTNiYWUtNGVhYS1hMDFlLWM2MjJiOTI1N2EwNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQFRlaHJhbkZyZWVWUE4gLSBGcmVlUHJveHkiLCJhZGQiOiIxOTkuMjQ3LjMwLjQ1IiwicG9ydCI6ODA4MCwiaWQiOiI1MjBkNTlhYy1mOTkxLTQ2MjktOGU1OC05MWRkNjMyM2YzMzUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQFRlaHJhbkZyZWVWUE4gLSBGcmVlUHJveHkiLCJhZGQiOiIxOTkuMjQ3LjMwLjQ1IiwicG9ydCI6ODA4MCwiaWQiOiJjYTgwNDUxZS03NjhhLTQ2OWYtOTkxMy01N2EyNzI2OGZkNzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
@@ -9,5 +9,5 @@ vless://c977623c-7ee3-42aa-ac8c-b01f31ea898f@199.247.30.45:2053?type=grpc&securi
 vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:2053?type=grpc&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#199.247.30.45:2053
 vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:8443?type=tcp&security=reality&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#199.247.30.45:8443
 vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:2053?type=grpc&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#199.247.30.45:2053
-trojan://guvonesf-7dt5-mna5-z6s1-11ifmyvzf2li@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://rq6af8li-podi-zg1r-n3up-m8711yjekfx3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://e7v1a4na-8i08-jykk-58gx-uxifjhjuc6ex@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://h1u1skeh-wl27-4lzj-95f1-sufbg5911pn6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

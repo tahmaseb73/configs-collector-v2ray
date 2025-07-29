@@ -1,9 +1,14 @@
-trojan://ca5xx801-rdgx-ufy9-t3we-g2v7cgf3y6i7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
-trojan://bvfg1pfl-opkw-8n9o-77q4-v0yt8ui2jh0t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://82mjjgkq-5i04-tcg0-cy51-u36nzb3w6gd6@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2NcdWRmODFUaWNrVjJib3RAIiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6MTEwNTIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
-vless://829e5113-632d-46b1-aed8-3637f19b9322@45.131.4.147:8080?type=xhttp&security=none&path=/dashboard?ed=2560#45.131.4.147:8080
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-trojan://aaqdg0ea-9bgr-c36y-haer-vu8f52rkhyas@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://bbwl3zec-erfp-o2gv-fkgr-fq5dzwbjeop4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://e0z9n1z9-ly3u-xyjt-lznu-wtxe4969160c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
+trojan://qz9xitf6-6p4n-suri-b4i0-2igrxoajp90q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://ypo1t4vl-f9n6-t0n1-12fi-uf6w664ixidc@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2VcdWRlZTYiLCJhZGQiOiJ3d3cubWV0ZXIubmV0IiwicG9ydCI6MjA4MywiaWQiOiJjMjA4ZTBhZS02ZjZkLTQ3NDUtOTlkYS00NGE0NDc0NGM1MzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2xpbmt3c3J0P2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2RcdWRlY2NcdWQ4M2NcdWRmZmIiLCJhZGQiOiIxMDQuMTguMTQ5Ljc2IiwicG9ydCI6NDQzLCJpZCI6ImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1cy5ra3AubWUuZXUub3JnIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6InVzLmtrcC5tZS5ldS5vcmcifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2RcdWRjOGMiLCJhZGQiOiI0NS42Ny4yMzAuNzkiLCJwb3J0IjoxMTA1MiwiaWQiOiIzMTQxODVmNy05MzFkLTQ2NTYtOTIyZC0wODU3ZTdhZmQyMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?type=ws&security=tls&path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&sni=vNgSUppLy.IP-dDnS.COm&fp=randomized#104.24.171.107:443
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?type=tcp&security=none#128.140.95.33:2020
+vless://b01537ce-8cab-43c1-80e6-4ef9319f6e6d@victor2.nepton5050.tech:32950?type=ws&security=none#victor2.nepton5050.tech:32950
+trojan://yeyxajl4-dld3-ez61-9iwb-xr5xvzbucniu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://flc8yi8z-bupi-3ae7-l43y-5oorhr969ndd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

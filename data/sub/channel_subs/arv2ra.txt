@@ -1,6 +1,6 @@
-trojan://n8dgc7hs-pdme-uwl1-t0s0-2dufukthbzfk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:49
-trojan://fo0jy1vp-b77z-zobj-49en-ydjkz1bx033v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://zszb0038-88x6-y4l2-jqs6-op1s261q2z1w@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://0qpml5ue-gtqj-h95w-2qha-w0mpwulyuxh9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
+trojan://dmc5lfxm-wcc2-dk7x-p312-l6vbpqjshusd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://ygbhdrce-mqri-8r3l-v85g-th3wbcv4de72@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUWlUczNLNXBZVTV0VE1HRFdnN05VR29UZ3RIc09Ud3grb05Ib1JMaWg0PQ@3.68.228.77:2082#3.68.228.77:2082
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWHhBVzN1Zk5rcDRlZDR2NTlKcmJYZGltN0c0aVo5YlBzekEwbzlmMkpjPQ@3.68.104.129:2082#3.68.104.129:2082
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Z01oRzlQYTFnTzRKbVVzV0VnRzhERExRL2ZGNTVTS1ZPUEtEeGVubVZVPQ@3.78.251.215:2082#3.78.251.215:2082
@@ -66,5 +66,5 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@trump.com:2087?type=grpc&security=t
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@ipt.ai-app-list.buzz:2087?type=grpc&security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&fp=chrome#ipt.ai-app-list.buzz:2087
 vless://542d6d26-e374-432a-a1d4-f20d62eae00f@141.105.130.118:21109?type=tcp&security=none#141.105.130.118:21109
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@zula.ir:443?type=ws&security=tls&path=Path/Telegram@V2ray_Alpha/?ed=2048&sni=test39.pages.dev&fp=chrome#zula.ir:443
-trojan://kikwyq74-0if3-evxs-3uhx-dhprmeyuuzvo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://j15bp4bx-3q2k-71dw-f4u1-dt3hmk9qqg3p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://ugfz5sa8-ae0g-5ht9-givv-3xra7ecvrl2v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://ztvhkc9w-1dr8-jtfa-zo7n-huhtaqxxmwhw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

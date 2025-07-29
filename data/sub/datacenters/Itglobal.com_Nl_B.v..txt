@@ -1,6 +1,7 @@
-trojan://id3wrl2n-tjp0-lrdc-xz7r-k54oe4uea6yj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:23
-trojan://5twwzdq3-6bdv-7ja9-mk12-lbyys5jz52hs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jx37h8kd-h2qd-wgra-pwyr-buxlmyjd4rhx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ub3iyp5b-2tzk-0iuz-psjv-w0e9qr13o2a4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:53
+trojan://ug3pt6t4-2c4d-clpr-z0tf-hw75i4ymqjy4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://pq95jyv3-nnoi-gx56-w0lp-j3mt8731wn8v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&sid=08d8a4e0#NL 🇳🇱 ┇ VLESS-TCP-RLT - Itglobal.com Nl B.v. ┇ 188.227.84.78
-trojan://exe3ftdp-ki1c-3abb-sjqj-pnmcwki8iev7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://eucn3a1o-9nhb-jqc0-gltd-8uzwtpzjeh24@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://e84e0eac-7ac9-4029-bdf9-0d79219e60ce@31.44.2.219:8443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=r5t0FMNYQZ6MyEjittGRVQtAtyV8miQC3Cqzcx_cRG4&sid=37c6859775#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Itglobal.com Nl B.v. ┇ 31.44.2.219
+trojan://c041sc9h-25hg-2ajg-sm84-ziropnbb1grz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://a6lt8xx8-qjzm-vbv4-e13r-4579hr1vfk51@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,10 +1,10 @@
-trojan://twmnlmtu-qilj-lal9-xhkc-3x8l2hqt0o10@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:33
-trojan://97zeskcd-6iww-42d2-6gfm-9r2r82d1crjh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fygy1f36-7bc1-8vay-nbkg-ljdnarcmw8hh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://puw5skxq-17sx-4egn-f00h-08lrxrww7hnu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:52
+trojan://um8yyozt-wi0b-v2e1-qwcu-ldyga4bywqhq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5vay5rmw-furr-i4wb-sqzm-7ymzwh9xp2z2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#45.87.175.164:8080
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls#155.117.228.70:26193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#45.87.175.164:8080
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?security=tls#stirring-parakeet.shiner427.skin:443
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net&peer=13c2c931-swin40-swy6li-tni2.cu.plebai.net&security=tls#13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?security=tls#391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229
@@ -19,5 +19,5 @@ vless://--------NORBERT-VPN--------@46.245.66.198:1232?type=tcp&security=none#46
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@159.246.55.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#159.246.55.251:8880
 vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?type=ws&security=tls&path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&sni=fishlab.ucdavis.edu#fishlab.ucdavis.edu:443
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#162.120.94.251:8880
-trojan://b7lgc1ko-8050-p762-6sus-a3zvupqztq0p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0rn9pkm0-fu4y-l815-pfgx-sv2kyx23x5rs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://l6ze24yg-99e2-6fjw-smkj-ethrblts41u3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8oza35q5-m636-9caw-6z7z-mh9n6pjaqq0h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

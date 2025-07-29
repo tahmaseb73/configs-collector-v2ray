@@ -1,10 +1,6 @@
-trojan://e4i7x4yo-xuhs-tkr2-e2aa-9p6g01mgzxmp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:33
-trojan://umukzff7-djat-lmfc-43iw-ljfdc2u9jdb3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wpmyr7qp-jmwk-ldk7-2w9a-npk36wbeh4kn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:8080
-vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grounded-brother.seotoolsforyou.co.uk:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none#95.164.45.90:8880
+trojan://kbxl48g3-78ms-ey7m-keew-j0oknl9xzzz2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:52
+trojan://tvkh6adu-ivgt-t135-emz1-csdb1wrwzacs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ixoqezio-17ln-v8j3-1xwd-9r1yubinwoc0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grounded-brother.seotoolsforyou.co.uk:80
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
@@ -19,6 +15,7 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&sec
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?type=grpc&security=none#91.107.155.155:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU12&sni=freexxx.xhamster.biz.id#freexxx.xhamster.biz.id:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU11&sni=freevpn.xhamster.biz.id#freevpn.xhamster.biz.id:443
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.131.208.14:443?type=ws&security=tls&path=/@rayan_config&sni=rAyAn-12.LeIlA.DpDnS.OrG#45.131.208.14:443
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
-trojan://n3c1267s-aa71-bkvj-jiao-57qfllhisg0s@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ejyq3qn9-lb61-x9ud-lhwc-inaujhy09d4e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ptd1uq0u-jwkm-cpzr-tv29-dcdc9too8jzq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dyezod0m-lzxx-9ywg-wkbd-0n91ad9rt7m8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -252,6 +252,9 @@ Access configurations from leading global providers:
 
 [🔗 View All Data Centers](https://github.com/tahmaseb73/configs-collector-v2ray/tree/main/data/sub/countries)
 
+If you're experiencing issues with the links above on your client, please check this folder:[Base64](https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/subscribe/base64.txt)
+
+
 
 ---
 

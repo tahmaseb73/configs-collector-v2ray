@@ -1,6 +1,6 @@
-trojan://5f37xdzk-1wzs-ai68-nyjh-ljssh3p8covf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:50
-trojan://lnwi9g7r-xovb-eez7-4xjj-ou7axuzimgf6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4tpcjmnp-dfmv-uy16-sv27-e1unc9izhvhq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://pflyw7gp-nuav-98ls-00pz-w7c9gxpdzfxp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:23
+trojan://l1l6vwh7-7mbt-wrcr-lswz-p2kipca80jfv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://15o2ye80-lbha-obol-0ife-w4m8pdkdooo3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://0081a47d-9396-48ac-a3e5-d4fce010e33f@mci-itv2ray.ddns.net:2087?type=grpc&security=tls&sni=ViP.iTV2RAY.lol#mci-itv2ray.ddns.net:2087
 vless://b27da426-107a-477a-961a-572a593a68e0@mci-itv2ray.ddns.net:2087?type=grpc&security=tls&sni=tm.iTV2RAY.fun#mci-itv2ray.ddns.net:2087
 vless://cdc75e44-12f2-4368-a7d7-61e3e46ea94b@mtn-itv2ray.ddns.net:2083?type=grpc&security=tls&sni=tm.iTV2RAY.fun#mtn-itv2ray.ddns.net:2083
@@ -26,5 +26,5 @@ vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@itv2ray.ddns.net:999?type=http&secu
 vless://Channel-iTV2RAY@itv2ray.ddns.net:696?type=grpc&security=reality&fp=chrome&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c#itv2ray.ddns.net:696
 vless://Channel-ITV2RAY@itv2ray.ddns.net:969?type=tcp&security=reality&path=/iTV2RAY&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4#itv2ray.ddns.net:969
 vless://Channel-iTV2RAY@itv2ray.ddns.net:696?type=grpc&security=reality&fp=chrome&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c#itv2ray.ddns.net:696
-trojan://qoqlfgsn-dlbp-p872-ch7w-xyg6o9rs39dy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ac00tlbq-h9sf-7brm-be0h-9hn5ad33ftcx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ewu1y7vg-b13w-gbv9-lk2w-oo4qz0g8mcju@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5sdnsxgp-pvfm-0is6-oc4p-wu6wogt9i1m3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

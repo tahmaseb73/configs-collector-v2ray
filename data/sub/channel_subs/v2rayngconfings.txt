@@ -1,6 +1,6 @@
-trojan://mmqcb01u-sykm-4tnz-bwpi-13609fhc3zjy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:50
-trojan://msb2s5n2-wieq-o7xw-u7uj-h0ocnfmdso6c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q19pk5dr-s9w8-ghii-igjc-qqdlzdvmmkhn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://kl7s8xb5-o3g7-91s7-6zll-k2zfj3di5ipq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:23
+trojan://g7bx7tlb-8jsg-ax7o-lgi9-wqgg7kpna9ek@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cwg4njwc-fyxj-gy0z-g7xt-ba0f5y2tj1fs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODM1XHVkZDQ2XHVkODM1XHVkZDY2XHVkODM1XHVkZDYzIFx1ZDgzNVx1ZGQ1NFx1ZDgzNVx1ZGQ1OVx1ZDgzNVx1ZGQ1Mlx1ZDgzNVx1ZGQ1Zlx1ZDgzNVx1ZGQ1Zlx1ZDgzNVx1ZGQ1Nlx1ZDgzNVx1ZGQ1ZDpAdjJyYXluZ2NvbmZpbmdzIiwiYWRkIjoiMTA0LjE4LjIxMi4xMiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzdWIueWlmZW5qaWNoYW5nLnRvcCIsInBhdGgiOiIvb2xpdi5iZWF1dHk6NDQzL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdWIueWlmZW5qaWNoYW5nLnRvcCJ9
 vless://89b3685a-64b3-42d9-a5b4-4baeb316d589@rog.vizviz.online:8443?type=tcp&security=none#rog.vizviz.online:8443
 vless://a68b6857-73e4-47e8-b39b-190ca1b8a758@j--o--i--n.outline-vpn.cloud:37331?type=tcp&security=none#j--o--i--n.outline-vpn.cloud:37331
@@ -47,5 +47,5 @@ vless://6b7376dd-11d8-443c-804a-996072aefd81@13.50.247.208:8443?type=tcp&securit
 vless://6b7376dd-11d8-443c-804a-996072aefd81@13.53.140.177:8443?type=tcp&security=reality&sni=coinmarketcap.com&fp=chrome&flow=xtls-rprx-vision&pbk=NizZMupHRSzM7TTzE48Gj3-tIgTpbxhPhuY_vw9MaQk&sid=5e#13.53.140.177:8443
 vless://738c5e99-7faa-4893-81a8-4d6655adde47@5.75.215.191:443?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&sid=ab7b40b2#5.75.215.191:443
 vless://42873f71-9718-4f3d-9907-de43001e2284@618-join.v2raytz.sbs:8080?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&sid=356dc0#618-join.v2raytz.sbs:8080
-trojan://q6fhk6g2-g060-4edm-nclx-pu7w353fh69t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vfdssw8z-0iz8-whms-pv8k-f26vgsuq88oi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lkow7sbm-vcwz-h80p-p82n-usyi9lrjtl78@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sdsrhtza-qciy-mtv1-cne2-ve8ei35sq61z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

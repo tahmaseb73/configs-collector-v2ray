@@ -1,14 +1,14 @@
-trojan://s3621bjs-wc17-29o3-3p7w-ej796bse0eks@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:50
-trojan://0p8yia5z-remu-hz3v-r96g-bc5894xvrslz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wcuvn1nj-hyax-d9b3-e2ma-aroud2yteex9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTTkVUIFx1MjUwNyAxOTMuMTI0LjQ2Ljc5IiwiYWRkIjoiMTkzLjEyNC40Ni43OSIsInBvcnQiOjU2MzY0LCJpZCI6IjQ1YTJkMTU5LWIyMmEtNDdmZi1iYjVjLTdiZmE3OGQ1NmM0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 212.192.221.221
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?sni=flyhg.flylink.cyou&insecure=1&obfs=salamander#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 203.32.26.70
+trojan://9ninicao-bh5u-qfiy-iroj-vss0ke6vc4rb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:23
+trojan://yhs38k52-3s64-dqq0-mqzy-m0r852jo9cls@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cryrdqy4-wc51-ez2r-mb5i-1thrjhiz0ox8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4V0Uxd3RkS2hFbkU5WDkya3FoNlV0@167.17.190.41:63089#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 167.17.190.41
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTTkVUIFx1MjUwNyAxOTMuMTI0LjQ2Ljc5IiwiYWRkIjoiMTkzLjEyNC40Ni43OSIsInBvcnQiOjU2MzY0LCJpZCI6IjQ1YTJkMTU5LWIyMmEtNDdmZi1iYjVjLTdiZmE3OGQ1NmM0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxghy.flylink.cyou:35260?sni=flyxghy.flylink.cyou&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 103.136.150.23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtcnRyNmk3bzhvOG83@pt-1-sst.medicaldream.ir:8444#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 195.133.92.56
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280?sni=flyjnd.flylink.cyou&insecure=1&obfs=salamander#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 212.193.6.166
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 212.192.221.221
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 185.193.102.7
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?sni=flyhg.flylink.cyou&insecure=1&obfs=salamander#KR 🇰🇷 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 203.32.26.70
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280?sni=flyjnd.flylink.cyou&insecure=1&obfs=salamander#CA 🇨🇦 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 212.193.6.166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtcnRyNmk3bzhvOG83@pt-1-sst.medicaldream.ir:8444#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 195.133.92.56
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&sid=86#FI 🇫🇮 ┇ VLESS-TCP-RLT - ASNET ┇ 94.156.116.5
-trojan://l3iropvj-0jbe-g6am-t9kd-1wgb9exaqo51@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9b9i33is-kfgj-5rby-58fj-mxmdvqx0p75r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ibgwyave-1soj-pasr-taze-e1m724pelq0d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1uq8ldwo-mnua-21qe-82mm-d7kqzyf6ain4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

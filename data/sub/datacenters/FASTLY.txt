@@ -1,9 +1,9 @@
-trojan://6w13j5wc-7kvj-1cq0-jmpk-laque409lg2y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:53
-trojan://7phnu7v5-pjjs-ge4c-vwwu-e9bxor4v2wxu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tbw1wzov-hajh-d7pg-1sqw-1np5r9ub0nnw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuNjYuMjE5IiwiYWRkIjoiMTUxLjEwMS42Ni4yMTkiLCJwb3J0Ijo0NDMsImlkIjoiNWJjOTM4ZWQtZDRmYy00MTM0LTgyZTYtOGY2NmY1OGFmN2Y4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiIvP2VkPTEwMjQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzcGVlZHRlc3QubmV0In0
-trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443?sni=pscresearch.faculty.ucdavis.edu&peer=pscresearch.faculty.ucdavis.edu&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.2.228
+trojan://oy5u3d22-goxa-9e3g-uay8-1hqkgxwb54w3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 03:18
+trojan://zz495mk5-mlh0-d6l0-y9le-smr948xzvgr7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sousczoh-1cvk-wn77-ujq9-40cnodnts486@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuMjAyLjU5IiwiYWRkIjoiY29vaW5nLWx1eHVyaWFudC1ibHVlLmdsaXRjaC5tZSIsInBvcnQiOjQ0MywiaWQiOiI4MGU3ZGQ1OS1iMWZjLTQ1YTAtOThiZS0xNDc4YTlhZjg5ZjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5NS44IiwiYWRkIjoieHZvbi5mYXN0Lmhvc3RpbmctaXAuY29tIiwicG9ydCI6ODAsImlkIjoiMzlkYmU4M2EtM2RhYy00M2U3LThjMTQtOTcyNzA3NDlmNDIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3M/ZWQ9MjA0OCJ9
-trojan://20gr12u8-u5zm-bhg5-9mdb-27k3ioik97vn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mnphc59k-7pml-grif-161n-qdn4dyhxyshf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443?sni=pscresearch.faculty.ucdavis.edu&peer=pscresearch.faculty.ucdavis.edu&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.2.228
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuNjYuMjE5IiwiYWRkIjoiMTUxLjEwMS42Ni4yMTkiLCJwb3J0Ijo0NDMsImlkIjoiNWJjOTM4ZWQtZDRmYy00MTM0LTgyZTYtOGY2NmY1OGFmN2Y4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiIvP2VkPTEwMjQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzcGVlZHRlc3QubmV0In0
+trojan://3arcnm8j-9fyw-vtqr-hunp-95wj3yniwb1i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://quf4ok58-pab7-euhl-hw1b-wq29fb8nk3rk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

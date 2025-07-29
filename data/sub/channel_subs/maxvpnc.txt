@@ -1,6 +1,6 @@
-trojan://al13xse6-zuf8-ohqe-y408-g9czwvdf35as@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:23
-trojan://xtqj45xd-uzu7-fnz8-vr0z-g5x8tec24wdn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6dbzya0j-o1kx-zxqc-nsb1-htb640e3fm1n@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://x3qneimm-u4od-8p0x-ikg2-xh4o4t6bk6vr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:55
+trojan://7546awk6-g7e7-aeh0-9x3y-0xdl39v6eyie@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9p9m8ziv-xphu-alw5-l8tx-nm9ebslljmly@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://30751956-0e39-4b40-a208-1ff32e616834@tnl2.omidkiani1.top:4600?type=grpc&security=tls&sni=panel.omidkiani1.top#tnl2.omidkiani1.top:4600
 vless://4ab4a065-1325-42e7-98c6-d5516ec4db6d@cloud.flaresub.online:8443?type=grpc&security=tls&sni=config10.radvin.online#cloud.flaresub.online:8443
 vless://4dc4d7d7-e5d8-4596-b4b4-abd9f7f75709@tnl2.omidkiani1.top:4600?type=grpc&security=tls&sni=panel.omidkiani1.top#tnl2.omidkiani1.top:4600
@@ -11,5 +11,5 @@ vless://5bb6b085-411e-4808-8c73-d4e17a7f49a4@cloud.flaresub.online:8443?type=grp
 vless://d04b9da6-2bd1-4022-86a8-915bb6b69660@tnl3.omidkiani1.top:30300?type=tcp&security=tls&sni=panel3.omidkiani1.top#tnl3.omidkiani1.top:30300
 vless://77b84bf9-4ced-447c-a629-061a74f9578d@cloud.flaresub.online:8443?type=grpc&security=tls&sni=config1.radvin.online#cloud.flaresub.online:8443
 vless://4285d575-6c97-4f24-b1e5-f424fa727ff6@tnl4.omidkiani1.top:31018?type=tcp&security=none#tnl4.omidkiani1.top:31018
-trojan://y4y8tj6g-g306-tcse-6ovb-a322qgtvavww@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7i5wh0xy-c99a-woyt-eeft-s28lswqyx6nk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://113bhqcl-fhrf-dmq8-fbun-2c6t8h4x9pwt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dsbztld3-6ujp-u6hf-hr0x-srf4jlc68qsz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://sjr39a2t-9ws3-4a2l-3mkv-krqnsypyli0c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://bw0qxv6d-dsv9-wfxz-uzqa-lvywgd8yzbp8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://o2rp7xlb-hv5i-ab3y-oa6f-8w4mnhgwco3n@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://dx618xbj-zkih-f8rc-5wpe-cn74xf3j6ox3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://fxmcpxuh-zrpj-4os8-0e8l-mpkavgg2y0mg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://a04uky7v-8a6e-ub0s-m0ha-nciqyl586ule@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://c9bd654b-9836-47e1-daaa-719fb1e18564@95.179.244.134:2053?type=grpc&security=tls#95.179.244.134:2053
 vless://c9bd654b-9836-47e1-daaa-719fb1e18564@95.179.244.134:2053?type=grpc&security=tls&sni=nard.numallas.top#95.179.244.134:2053
 vless://c9bd654b-9836-47e1-daaa-719fb1e18564@95.179.250.90:2053?type=grpc&security=tls#95.179.250.90:2053
@@ -20,5 +20,5 @@ vless://fbf6b625-ddd6-430e-c4b7-f6006c5d07d4@ipv2ray-mci.ddns.net:2096?type=grpc
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&security=none&path=/#narcod-ping.numallaf.shop:58978
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&security=none&path=/#narcod-ping.numallaf.shop:58978
 vless://narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/#85.133.228.198:41546
-trojan://mvq5aelb-d6kx-xw0s-auid-8nt8pg91vlzb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://2kv956fm-gr3w-rmy0-p20p-a9cnoqbup5r1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://oz6rynwr-rbiv-q9hc-8k68-kddprtds084i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://hxyojlmn-du9y-zn9k-pbb2-dacx40jy95kl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

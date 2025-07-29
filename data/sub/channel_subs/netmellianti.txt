@@ -1,8 +1,7 @@
-trojan://gu25mbsj-6vg5-rtnp-mvyb-t9weh8xhh8c6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://3h6h5whv-g62d-0p5s-dyc2-n1wgzqobz3ze@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://bu87ms4l-rf8a-mmzv-fvcs-4b8terzcwvdl@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://i6xfskrd-gvz0-47o8-0tay-k1kdfwhi6sb6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://hqvy5bwg-rqr9-1bqq-wn9h-6s4lgyj51vwt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://2cyrm4vu-la85-ymcm-1iob-ej55hk32ioia@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQE5FVE1lbGxpQW50aSIsImFkZCI6InNoLnNydi50ZTE0NTAuaXIiLCJwb3J0Ijo0MDMxLCJpZCI6ImM0MDI5ZDJiLTE2NjEtNGIxMC1iMDUxLWQ4NzY1NjRkNTE5ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s5.1dnt.k-l.cloud:80
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@91.99.229.238:2095?type=tcp&security=none#91.99.229.238:2095
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@89.34.230.152:2095?type=tcp&security=none#89.34.230.152:2095
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpn?ed=2560#104.16.191.195:80
@@ -13,10 +12,11 @@ vless://b84d0935-cc07-471d-a49a-dafe21cba2ea@dl.yndl.ir:2087?type=grpc&security=
 vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?type=ws&security=none&path=/?ed=2590#n0.asmdns.net:2082
 vless://a4fd6b14-5c2d-4c5a-8bd6-319da73dd50d@alexde.hpcdn.info:80?type=httpupgrade&security=none&path=/13225/hMMad#alexde.hpcdn.info:80
 vless://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086?type=httpupgrade&security=none&path=/www.adsl.tci.ir?ed=1024#http.gozaroshloreshin.ir:2086
+vless://db38758e-5ecb-4b07-bb19-4226a96f7e84@uk.shokolatroshd.xyz:18907?type=tcp&security=none#uk.shokolatroshd.xyz:18907
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@de1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#de1.configlinepanel.com:8443
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
-trojan://z9iovzqo-odvh-87hq-g7cr-xcv73cymwhtd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://b8z7t4un-4o6m-7l1y-llbx-1a3e798e5uzo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://o6udhs3r-aql1-nc7w-1afd-l6d5eox3c45y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://6zh0iw3m-5nui-gknh-lfsd-fjiccvlhgv58@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

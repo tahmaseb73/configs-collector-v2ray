@@ -1,6 +1,6 @@
-trojan://zmcgurm4-nj5o-1zcc-kk5k-2vt5p4p3r13y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://643mu7my-syyc-5toi-a8ol-6lag6hzrf74k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ctdojal1-ft2w-inaa-6jx4-51oue6j47cs8@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://4udg2251-v2lo-yapt-izpd-ynlpnpohiae3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://s5z2oa7c-dlq8-y9u5-4yfg-8v4ys15awl7r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://b8vcp95z-6dke-3523-ffzp-qf1c5gm0xm1x@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://67fea8d3-a217-4e51-8703-906a7d1c793e@104.16.85.3:8880?type=httpupgrade&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:8880
 vless://492e8973-6f9a-429e-e60a-f7b844cf8786@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://0e00aafb-b813-42f8-bea5-dabae7a2d18b@104.16.85.3:8880?type=httpupgrade&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:8880
@@ -45,5 +45,5 @@ vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?type=gr
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&security=reality&path=/&sni=www.black-moai.com&fp=firefox&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&sid=a862ded52ae3ea#80.240.23.101:47567
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
-trojan://c29qrnq2-ybaq-8hac-m94i-dazbh1spuz1t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://clfri9qm-1lh7-tus0-58ns-7owukg9ubx24@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://h59hvmaa-nwzx-th3b-u5cs-8mtr0qte0lvq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://ob4k90eq-br41-gi3h-ebl8-k1e33fpvuvsl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

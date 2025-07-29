@@ -1,6 +1,6 @@
-trojan://s25fdh0t-ou32-x9pm-mcuh-p26nyzzyr4p1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://a4bq8oub-fozc-7zk3-34nh-sm9u4k9h1df3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://uf7bq6p1-r1lv-h3ru-013s-o7zzy6p8dgu4@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://r2s24k59-k5i0-eb94-7bfb-7fv7t12395f0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://xpvxtlcy-lel7-xzoj-jtpk-ceiv6h94xnd4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://pjpk0gq3-klh0-ytcc-r17g-ys3pusrzurcv@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#193.108.119.230:8080
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#184.170.241.194:443
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#184.170.241.194:443
@@ -74,5 +74,5 @@ vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?type=tcp&securi
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?type=ws&security=none&path=/&sni=register.tunnelbreaking.shop#104.24.158.0:2052
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?type=ws&security=none&path=/&sni=light-presence.oneeat.co#light-presence.oneeat.co:80
 vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?type=ws&security=none&path=/?ed=2560&sni=blaze-can-118.blazecanada.site#104.18.26.90:80
-trojan://4wpf6ipp-6j5o-96jr-bfoi-axx0bya6miro@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://wl2ya7vl-bjka-zft4-dxe7-1t0kyhqjn9l8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://c8apqs2c-krj4-ffgt-lts3-pw00hrs3nmym@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://8riar32v-uo1c-shfl-5jt1-q61sxqhrhad5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

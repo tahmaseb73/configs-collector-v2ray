@@ -1,6 +1,6 @@
-trojan://qh2nc9c6-3iel-q1u1-kw24-9z84p5znhr2e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://o4b9ocnl-66hw-1ptt-g2a4-g1tflz00dh36@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://kmpwuqi6-6v9s-sboe-hsk5-ms54n1cfdag2@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://qjjxoego-djnk-3j6s-1n6c-1w2y3ftow2oq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://9ziuibx3-09kr-bqo1-zb3x-5flneywqm0ij@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://1uza4aqd-e0ls-ldx1-ij7q-1cv1yjplnjno@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://6f0dd694-2cdf-4c82-8616-814a5e60d250@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://4c00baa2-2263-4a19-801c-c629e9ff8c31@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://96c03731-ea2e-4019-86f8-04c33140a1d1@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
@@ -12,5 +12,5 @@ vless://76c9e0b5-9253-449e-98db-137ae1a4348f@german.vp22ray.site:2087?type=tcp&s
 vless://2179abfc-2435-4b64-8c96-cb39184a4348@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://290719bc-bd21-4467-bdcd-33396fa88394@german.vp22ray.site:2087?type=tcp&security=reality&sni=Ftp.debian.org&fp=firefox&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&sid=32c43ca1#german.vp22ray.site:2087
 vless://eb7f17f3-4715-4b2d-87e5-39d12b1c962c@german.vp22ray.site:40130?type=tcp&security=reality&sni=Seed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=XEpHiKs6YbcMrBR4YTRXLlIlO5RfGcVUUcbt4KZc7TY&sid=d90b293e#german.vp22ray.site:40130
-trojan://ieac76zj-1twb-whoe-gtul-4ncq8046eguv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://2ybj8cy3-4bpf-tp96-c6oa-iy11ziwvezud@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://41fmntpb-zpdp-z4a5-izwu-hi80pp6dji85@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://inga7h57-8e5m-m2b2-q9ub-045jtjwujexc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

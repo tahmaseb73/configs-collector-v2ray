@@ -1,6 +1,6 @@
-trojan://qefbf9gk-7qsl-j7i7-cpdn-urx9eq8jyo1q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://od430zco-dmas-4efw-9pce-5cyb6lf5kyha@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://or9fd3ej-optx-j52a-tbo3-ajijhts2ui3m@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://piqqffa7-1zd9-5xyc-k1oj-417m54tv3vkl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://7ypnau8s-3q7t-4zus-lw4c-r99t7v7hlkxy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://2fcqgc6o-426l-q5ro-c7kt-kwh8e9e0d59x@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?type=ws&security=tls&path=/#45.15.127.184:8443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:8443?type=ws&security=tls&path=/#45.15.127.188:8443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:8443?type=ws&security=tls&path=/#92.118.233.43:8443
@@ -184,5 +184,5 @@ vless://a24d9ff5-8247-45e5-803d-177e3352a405@92.112.125.164:59330?type=tcp&secur
 vless://0c4a9085-2207-4ba5-93e0-7edfedfbc7d3@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@de1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#de1.configlinepanel.com:8443
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#in1.configlinepanel.com:8443
-trojan://2hc5vt8y-fwz7-7fin-7ow5-5r73cd7mppok@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://7mjnfi2g-96g0-rmri-4ws8-cd7zrqt09ezc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://i2v88ydj-w4vl-vf2c-yu7d-gjwhgm1gqeqr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://bxgejg5x-0tpn-y8sx-vfmz-xgib3iw0hptx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,6 +1,6 @@
-trojan://ho6p21f8-omym-qga3-4z2m-34pnxnzbdn4k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:22
-trojan://wt5xd0lq-evzp-s9sf-2rbb-bq6siaao3qbr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ojuepjam-5e1z-2qdc-1jj1-evbmjx0e2nu1@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://7cfsaq38-3byc-xtfr-bkcp-y72dlawr3r5x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:51
+trojan://p3iim0f7-h8eu-u1e1-hwgy-2kgs57mpafx4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://py50abs2-5svx-ppiy-hup4-8hv847bkoenb@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#45.87.175.190:8080
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?type=tcp&security=none#91.99.160.41:443
@@ -17,5 +17,5 @@ vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?type=tcp&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&security=none#185.231.205.231:8880
 vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&sid=877fa74f#91.99.234.241:18730
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#5.75.197.120:2025
-trojan://pmgqwdly-ax6x-6w0e-kat0-r1mqtbuwkw7f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://j8o3s3bz-nnxb-qr2j-v7an-2mr8hel5l3wi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://xoq55tw8-u2mz-5kxg-uprp-0nloec1heot8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://i79t6yaq-rmod-5brt-qbqo-pdvi340o8x99@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -65,7 +65,7 @@
     <td align="center">
       <strong>⚡ Vmess</strong><br>
       <code>Standard V2Ray protocol with robust features</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/protocols/vmess.txt">📡 Subscription Link</a>
+      <a https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protousage/vmess.txt">📡 Subscription Link</a>
     </td>
   </tr>
   <tr>

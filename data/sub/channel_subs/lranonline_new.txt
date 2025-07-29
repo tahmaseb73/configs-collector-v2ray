@@ -1,6 +1,6 @@
-trojan://97bb2749-rtas-gdcs-duui-p2a4kg7qtfrk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:24
-trojan://ifrq79jm-39q7-7d5z-ftlt-63u4mph8picv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7736t9t9-6isa-z6gf-1263-2d4hkban55th@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://u3h8gyq7-5g61-hw8l-zd5r-vwylh7dh7smb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:52
+trojan://j23xp9fp-k6ag-r4nn-pvsj-hp96lcynknwd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wshakgvi-kac3-97rk-jnqv-7xoelp3dwdyb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#104.167.197.25:57456
@@ -12,5 +12,6 @@ vless://362870a8-70e8-4a1b-c4a7-27c8a6c14797@www.speedtest.net:2082?type=ws&secu
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-trojan://c2dvuexk-7emb-1zsk-5mq2-m6tmaj5xblcv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g7hvu3j6-jdok-xmfu-wnsx-5i6626y7x5s3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8880#172.66.40.99:80
+trojan://am4ma2sk-ifv1-aoss-nv4n-sn8413ghl5a5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://81407gp9-wzoq-g4g7-5cat-4zczmcjqgxpm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

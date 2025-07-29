@@ -72,33 +72,44 @@
     <td align="center">
       <strong>🚀 Vless</strong><br>
       <code>Next-gen V2Ray protocol for minimal overhead</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/protocols/vless.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protocols/vless.txt">📡 Subscription Link</a>
     </td>
     <td align="center">
       <strong>🏛️ Trojan</strong><br>
       <code>Advanced protocol with enhanced security</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/protocols/trojan.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protocols/trojan.txt">📡 Subscription Link</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>🔥 Hysteria2</strong><br>
       <code>High-performance protocol for low-latency connections</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/protocols/hysteria2.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protocols/hysteria2.txt">📡 Subscription Link</a>
     </td>
     <td align="center">
       <strong>🔗 TUIC</strong><br>
       <code>Efficient and secure protocol for modern networks</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/protocols/tuic.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protocols/tuic.txt">📡 Subscription Link</a>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <strong>🔗 WARP</strong><br>
+      <code>A low-latency, high-throughput protocol for gaming</code><br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protocols/warp.txt">📡 Subscription Link</a>
+    </td>
+    <td align="center">
+      <strong>🔗 ShadowSockSR</strong><br>
+      <code>An older protocol compared to Shadowsocks</code><br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/protocols/shadowsocksr.txt">📡 Subscription Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <strong>🌐 Mixed Configurations</strong><br>
       <code>20 curated configs combining Vmess, Vless, Shadowsocks, Trojan, Hysteria2, and TUIC</code><br>
-      <a href="https://raw.githubusercontent.com/eQnz/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt">📡 Subscription Link</a>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/all_configs.txt">📡 Subscription Link</a>
     </td>
-    <td></td>
   </tr>
 </table>
 

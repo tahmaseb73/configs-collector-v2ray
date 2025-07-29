@@ -1,6 +1,6 @@
-trojan://igm9karg-26dy-ex5q-gjwj-wvrj9uulufld@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
-trojan://p8rwt17b-r8gl-5c5r-m78l-znu8azrrfmgz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2nmiw7gy-6zjy-r0hd-4jvj-t6sk3nr4p0qs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://t6r8yhxv-1fad-dd5o-o82x-vz5s3d6b1d6q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:54
+trojan://4v5o6ros-6dxk-64an-zlw1-i47w2sfkyzxg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nd9wxqhy-kc48-n70d-p9ud-182fxs2h89ro@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#218.237.185.230:4652
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.37:38388#103.186.154.37:38388
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#62.100.205.48:989
@@ -21,5 +21,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYV10Lm1lL0FzYWtfVnBu
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVhXHVkODNjXHVkZGVjQFNpbUNoaW5faVIgXHUwNjJjXHUwNjQ4XHUwNmNjXHUwNjQ2IFx1MDYzNFx1MDZjY1x1MDYyZiIsImFkZCI6InBhbmVsMy5pcHlhci5vcmciLCJwb3J0IjozMjAxNywiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.225.112:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#51.44.225.112:22224
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
-trojan://akbl1m5o-qt3b-c09j-3oyo-pc952rpyklo7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://v7z2p4zq-mwpm-ucbx-6jes-gb8jt4ms7xuu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://c0xd9lsi-u0kl-k2wp-67zm-ea0ycwigvncr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jaygz5ab-4cww-pavx-e1wy-8oo8hddnq077@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

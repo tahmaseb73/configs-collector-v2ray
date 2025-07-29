@@ -1,6 +1,6 @@
-trojan://o43tvxs7-avvj-d0x3-1w4p-li366o8evl2o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
-trojan://6jt8e3ze-b5hh-0rpt-o3fl-x7bdv6gc8gjh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9mfoss44-g3kc-uvka-c04r-2d452nsjrdsg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://z2xh7v5l-ga65-fwgw-xm97-hc54r7em7kdg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:54
+trojan://f77cu5mr-ajol-hd9c-xx31-641qdffspng2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xqce17rh-bg0u-0z4h-8e7r-qweacmt28ems@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://telegram-id-ArV2ray@arv2ray.mashtimji.ir:443?type=grpc&security=tls&sni=TO.Mashtimji.IR&fp=firefox#arv2ray.mashtimji.ir:443
 vless://telegram-id-ArV2ray@185.146.173.37:80?type=ws&security=none&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#185.146.173.37:80
 vless://telegram-id-ArV2ray@185.146.173.237:80?type=ws&security=none&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#185.146.173.237:80
@@ -20,5 +20,5 @@ vless://telegram-id-ArV2ray@www.speedtest.net:2095?type=ws&security=none&path=/t
 vless://telegram-id-ArV2ray@zula.ir:2087?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=Vh.bahrane.ir&fp=firefox#zula.ir:2087
 vless://telegram-id-ArV2ray@www.parsvds.ir:2095?type=ws&security=none&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2048#www.parsvds.ir:2095
 vless://telegram-id-ArV2ray@188.245.65.59:443?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=L9bSYVGhk9ZTB__8Ue_yfkIJ4nANnYpqtlFljBhRiG8&sid=d7d4b0f4#188.245.65.59:443
-trojan://k3uod2e3-xfcq-097k-qjzn-vc6496uol1aa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ajf1cxzc-ooxb-v6gr-93vo-koj5mgki8ia4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://nwpz510w-g4pm-jvbe-3vc8-8bfzrr30zugg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jlvhnrc7-gywl-n4wv-emmg-qldbtt02a0ka@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

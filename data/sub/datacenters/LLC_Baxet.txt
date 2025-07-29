@@ -1,16 +1,16 @@
-trojan://y733g6zr-71lm-f5gu-a5v6-5fpdq4s8s0v4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
-trojan://bx3hkew5-x2zk-xn3g-aa23-we86rfqvijkc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://epthaskq-629k-ubb2-9s64-81z06xnbru72@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206NDBiZGM1MmRjZmZhNjk0Mg@176.32.35.51:10601#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.51
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.147.200.61
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
-ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@185.22.152.35:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 185.22.152.35
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyels.flylink.cyou:35270?sni=flyels.flylink.cyou&insecure=1&obfs=salamander#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.130.146.158
+trojan://u1nx8jeu-8a4p-5fag-psux-s5ww9hbdsnwb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:54
+trojan://1fx4xi5u-fan3-eej5-i4yw-txnzvz0lftdo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://kwrxj4fb-i9uo-l286-a2e2-048fxqr14mqw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDkuMTIiLCJhZGQiOiIxOTUuNTguNDkuMTIiLCJwb3J0Ijo0OTAwLCJpZCI6IjFhYWFhYzNjLWQxZjItNDc2ZS1hZTU0LTFmOTE5OWJhMWM2ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDguMjIwIiwiYWRkIjoiMTk1LjU4LjQ4LjIyMCIsInBvcnQiOjg2MzksImlkIjoiMWFhYWFjM2MtZDFmMi00NzZlLWFlNTQtMWY5MTk5YmExYzZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.129.2.108
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
+hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.147.200.61
 hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 46.17.41.189
-trojan://azntlc0s-c46r-01uw-4897-k5n0il1nveke@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ah6hmhf2-6mk9-en6t-lo41-tai0xq7tejbm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
+ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDguMjIwIiwiYWRkIjoiMTk1LjU4LjQ4LjIyMCIsInBvcnQiOjg2MzksImlkIjoiMWFhYWFjM2MtZDFmMi00NzZlLWFlNTQtMWY5MTk5YmExYzZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyels.flylink.cyou:35270?sni=flyels.flylink.cyou&insecure=1&obfs=salamander#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.130.146.158
+hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@185.22.152.35:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 185.22.152.35
+ss://YWVzLTI1Ni1nY206NDBiZGM1MmRjZmZhNjk0Mg@176.32.35.51:10601#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.51
+hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.129.2.108
+trojan://9u07s1gv-db6q-uy6w-knt9-40mhigju12yz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wa4u6i6a-cbat-mbor-ecd1-1h557j6it9gp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

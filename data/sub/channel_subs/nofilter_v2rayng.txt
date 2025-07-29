@@ -1,10 +1,10 @@
-trojan://0le6faqr-kf4c-efse-3asj-6hzwq1iwx7fh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:34
-trojan://c2h5320k-r55q-33xi-mv8s-hhmwl9gwwru4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://r120vwx2-0bp5-s0f9-cmkx-6b38brcmwmpc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://qmw3up84-1vxi-bzyv-rzem-j0mu9f8tug6n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:54
+trojan://ilnu7uk5-o4y5-re3d-himv-pyvs0by2aduk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://aipszw88-0i1d-8w2o-7i55-73qxlld2ihz1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG5vZmlsdGVyX3YycmF5TmciLCJhZGQiOiJnZXJtYW55LXNvbHV0aW9uLmJuaXdyaW5nLnh5eiIsInBvcnQiOjc5NzcsImlkIjoiMzQ3NGViYTktNmY0Ni00MTRjLWE5NGYtYmYyNzkyOGE2NGEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?type=grpc&security=none#212.86.94.176:31388
 vless://ad9d0af6-e350-450b-844f-9c29b88da80b@104.18.26.90:8880?type=httpupgrade&security=none&path=/2048#104.18.26.90:8880
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&security=none#300232332.webnama.com.tr:1517
 vless://dd667c85-ca3c-49e2-9775-de9c6af179bc@230920393.f-sub.com:3799?type=tcp&security=none#230920393.f-sub.com:3799
-trojan://i17bnazf-t76u-tffy-fiez-0n3g0327ba1k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://oao93h5c-gip1-qao1-abb0-wcn7foutzvho@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://q2nsdzp4-sew5-7e9v-5dk0-950x27ewps6q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://x4p7j1ih-ug9z-79kh-isi5-vepo43dif7nt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

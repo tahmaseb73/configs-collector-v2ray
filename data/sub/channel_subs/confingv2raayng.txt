@@ -1,6 +1,6 @@
-trojan://54z2fgue-8jsz-n5o6-hkpc-ex17ayu8la4z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
-trojan://b17e61x3-gtxi-hd3k-nai9-sbxf08ffu5pg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://1lulh7js-yp5m-hcnc-8sma-zl6399whufd1@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://5c3gpttj-0psv-i1u6-5akv-ux7zod6dg8sg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:01
+trojan://dn42h73c-z6rk-1kwa-m6w5-2vswge3ywwm1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://4wzohv25-ndvh-zpaz-zfn3-03ee16tl0mrb@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vless://91908c25-f357-438c-b547-fabd9f0231c3@www.speedtest.net:8880?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#www.speedtest.net:8880
 vless://91908c25-f357-438c-b547-fabd9f0231c3@104.16.53.15:443?type=ws&security=tls&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&sni=paMchall.cOm&fp=firefox#104.16.53.15:443
 vless://85bf8959-34aa-4b84-828f-ca891380b7ff@www.speedtest.net:8880?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#www.speedtest.net:8880
@@ -9,5 +9,6 @@ vless://b63bd3c2-fa0f-435d-abbb-081d9f404b9a@www.speedtest.net:80?type=ws&securi
 vless://249de927-f5fc-4b6e-a4c9-f95b973ad1e4@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://ec80ee4b-8c32-479e-b683-6612608e3437@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://deadf791-6837-4354-8eca-25d695b3cb78@188.114.98.112:8880?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560#188.114.98.112:8880
-trojan://cf4r6k44-r216-ghtx-s8oe-rscv797ayxx2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://32zj0q40-4syr-1r3m-1y9e-dyej2hz1h4lr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
+trojan://94kri9f5-36z7-pnql-cvsx-4pd3e0oht734@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://lmduyqxj-9e4i-r21n-6jgo-e3hq62mypl60@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

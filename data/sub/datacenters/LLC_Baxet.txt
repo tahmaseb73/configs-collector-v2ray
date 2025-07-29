@@ -1,15 +1,16 @@
-trojan://tvy7i9ec-0h7b-2vbd-wj1i-ixhsxakfc7cz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
-trojan://1uiuaugv-k3za-bd2s-hxce-jq2voobtk5ma@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://oh2qq2zo-x4ae-40kx-o3gt-f8yaa4vp8thd@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.147.200.61
-ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDguMjIwIiwiYWRkIjoiMTk1LjU4LjQ4LjIyMCIsInBvcnQiOjg2MzksImlkIjoiMWFhYWFjM2MtZDFmMi00NzZlLWFlNTQtMWY5MTk5YmExYzZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 46.17.41.189
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
-hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.129.2.108
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@185.22.152.35:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 185.22.152.35
-ss://YWVzLTI1Ni1nY206NDBiZGM1MmRjZmZhNjk0Mg@176.32.35.51:10601#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.51
+trojan://3huwf37m-dije-wf5l-t2ky-yi64bkwc5kvo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:01
+trojan://pym81v8a-gsjj-6sku-yovv-2nlsqms7rawn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://34byz55c-a42h-ll3w-pyfk-mhtkzm73eb2r@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyels.flylink.cyou:35270?sni=flyels.flylink.cyou&insecure=1&obfs=salamander#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.130.146.158
-trojan://bz7gikat-mhdz-zr7b-pi6s-vuv7m951zzds@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://m521lj52-dh0h-oelj-q7bd-n7gj8gq96vbx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
+hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 46.17.41.189
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDguMjIwIiwiYWRkIjoiMTk1LjU4LjQ4LjIyMCIsInBvcnQiOjg2MzksImlkIjoiMWFhYWFjM2MtZDFmMi00NzZlLWFlNTQtMWY5MTk5YmExYzZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.129.2.108
+hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.147.200.61
+hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@185.22.152.35:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 185.22.152.35
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxOTUuNTguNDkuMTIiLCJhZGQiOiIxOTUuNTguNDkuMTIiLCJwb3J0Ijo0OTAwLCJpZCI6IjFhYWFhYzNjLWQxZjItNDc2ZS1hZTU0LTFmOTE5OWJhMWM2ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+ss://YWVzLTI1Ni1nY206NDBiZGM1MmRjZmZhNjk0Mg@176.32.35.51:10601#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.51
+ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
+trojan://k37v6hor-lxpo-7yjc-e635-3fytgekszo1x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://sk1ji8el-fxfw-t902-60zp-hlr1kwwem94q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

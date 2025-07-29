@@ -1,6 +1,6 @@
-trojan://e0z9n1z9-ly3u-xyjt-lznu-wtxe4969160c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:16
-trojan://qz9xitf6-6p4n-suri-b4i0-2igrxoajp90q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ypo1t4vl-f9n6-t0n1-12fi-uf6w664ixidc@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
+trojan://qo81jqvh-ocjg-q3no-on2z-yo7i2vovzkj2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:01
+trojan://bmlg4xtc-cz7a-ko37-8ifx-8nw1005gzat9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://i41yder8-4ii8-hm38-c0cz-z7f64s90durx@127.0.0.1:4080?security=tls&type=tcp#「 Telegram @eQnz_github ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2VcdWRlZTYiLCJhZGQiOiJ3d3cubWV0ZXIubmV0IiwicG9ydCI6MjA4MywiaWQiOiJjMjA4ZTBhZS02ZjZkLTQ3NDUtOTlkYS00NGE0NDc0NGM1MzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2xpbmt3c3J0P2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2RcdWRlY2NcdWQ4M2NcdWRmZmIiLCJhZGQiOiIxMDQuMTguMTQ5Ljc2IiwicG9ydCI6NDQzLCJpZCI6ImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1cy5ra3AubWUuZXUub3JnIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6InVzLmtrcC5tZS5ldS5vcmcifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2RcdWRjOGMiLCJhZGQiOiI0NS42Ny4yMzAuNzkiLCJwb3J0IjoxMTA1MiwiaWQiOiIzMTQxODVmNy05MzFkLTQ2NTYtOTIyZC0wODU3ZTdhZmQyMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -10,5 +10,8 @@ vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&secu
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?type=tcp&security=none#128.140.95.33:2020
 vless://b01537ce-8cab-43c1-80e6-4ef9319f6e6d@victor2.nepton5050.tech:32950?type=ws&security=none#victor2.nepton5050.tech:32950
-trojan://yeyxajl4-dld3-ez61-9iwb-xr5xvzbucniu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://flc8yi8z-bupi-3ae7-l43y-5oorhr969ndd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
+vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
+vless://c714b70f-43c4-4970-90b8-fca089009f64@151.101.242.172:80?type=xhttp&security=none&path=/download#151.101.242.172:80
+trojan://dz7cuv84-811f-lqsy-x0fk-ln6f0bb5lu4q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://6zhcjds9-fohs-ycin-27o8-1e1k7o6wl7gq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

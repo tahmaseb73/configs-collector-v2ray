@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 00:49:17
+Timestamp: 2025-07-30 01:18:29
 Total Channels: 502
 Successful Scrapes: 469
 Failed Scrapes: 0
@@ -20,13 +20,13 @@ v2rayng_1378: 127 configs
 selinc: 126 configs
 tgvpn6: 126 configs
 outline_vpn: 117 configs
-satellitenewspersian: 116 configs
 freev2rng: 114 configs
 appsooner: 114 configs
+satellitenewspersian: 111 configs
 armodchannel: 108 configs
 mtproxy22_v2ray: 108 configs
 v222ray: 102 configs
-config_proxy: 100 configs
+config_proxy: 101 configs
 mftizi: 100 configs
 filter_breaker: 99 configs
 farahvpn: 90 configs
@@ -60,6 +60,7 @@ mester_v2ray: 57 configs
 mr_vpn123: 56 configs
 v2rayngc: 56 configs
 v2ray_youtube: 55 configs
+bored_vpn: 54 configs
 free_serverir: 53 configs
 tobevasl: 53 configs
 v2rayngconfig: 52 configs
@@ -68,7 +69,6 @@ vpn451: 50 configs
 expressvpn_420: 47 configs
 free1_vpn: 47 configs
 sobyv2ray: 47 configs
-bored_vpn: 46 configs
 maradona_vpn: 46 configs
 v2rayngconfings: 46 configs
 freenet_melli: 45 configs
@@ -130,7 +130,6 @@ vmesskhodam: 24 configs
 serverv2ray00: 23 configs
 v2ray_n: 23 configs
 v2ray_sos: 22 configs
-ghalagyann: 21 configs
 confing_chanel: 21 configs
 falcunargo: 21 configs
 fastvpnorummobile: 21 configs
@@ -146,25 +145,26 @@ freev2rays: 20 configs
 key_outline: 20 configs
 lockey_vpn: 20 configs
 mpproxy: 20 configs
+nofiltering2: 20 configs
 outlinereleasedkey: 20 configs
 v2ray_free_conf: 20 configs
+v2raych: 20 configs
 vpnfail_v2ray: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
 free1ss: 19 configs
 narco_nett: 19 configs
-nofiltering2: 19 configs
 outlinevpn_ru: 19 configs
 parsashonam: 19 configs
 proxycrone: 19 configs
 proxyfn: 19 configs
 red2ray: 19 configs
 v2logy: 19 configs
-v2raych: 19 configs
 vmesc: 19 configs
 vpngate_config: 19 configs
 vpnplusee_free: 19 configs
 arv2ray: 18 configs
+ghalagyann: 18 configs
 fastshovpn: 18 configs
 flyv2ray: 18 configs
 freedom_config: 18 configs
@@ -176,6 +176,7 @@ narcod_ping: 18 configs
 novinology: 18 configs
 orange_vpns: 18 configs
 outline_ir: 18 configs
+proxie: 18 configs
 shadowsockskeys: 18 configs
 ultrasurf_12: 18 configs
 v2ray_vmes: 18 configs
@@ -189,8 +190,9 @@ jeyksatan: 17 configs
 kingofilter: 17 configs
 mastervpnshop1: 17 configs
 netmellianti: 17 configs
-proxie: 17 configs
+proxy_mtproto_vpns_free: 17 configs
 proxy_v2box: 17 configs
+v2rayfree: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
 Fr33C0nfig: 16 configs
@@ -215,18 +217,17 @@ connectshu: 15 configs
 free4allvpn: 15 configs
 minovpnch: 15 configs
 outlinev2rayng: 15 configs
-proxy_mtproto_vpns_free: 15 configs
 proxy_net_meli: 15 configs
 realvpnmaster: 15 configs
 server_nekobox: 15 configs
 tiny_vpn_official: 15 configs
-v2rayfree: 15 configs
 v2rayvmess: 15 configs
 v2rayvpnchannel: 15 configs
 v_2ray1: 15 configs
 vpn_zvpn: 15 configs
 xnxv2ray: 15 configs
 summertimeus: 14 configs
+DailyV2Config: 14 configs
 dailytek: 14 configs
 fastkanfig: 14 configs
 freevv2rayng: 14 configs
@@ -236,7 +237,6 @@ kurdvpn1: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
 v_2rayngvpn: 14 configs
-DailyV2Config: 13 configs
 father_vpn: 13 configs
 hopev2ray: 13 configs
 miov2ray: 13 configs
@@ -257,7 +257,6 @@ persian_proxy6: 12 configs
 v2ray_reality_new: 12 configs
 v2rayexpress: 12 configs
 v2rayngninja: 12 configs
-v2rayvpn2: 12 configs
 mcv2rayng: 11 configs
 v2raymelliii: 11 configs
 WedBaZtel: 11 configs
@@ -269,6 +268,7 @@ iranproxypro: 11 configs
 net_azad_1: 11 configs
 proxy_emperor: 11 configs
 renetvpn: 11 configs
+v2rayvpn2: 11 configs
 v2rplus: 11 configs
 v2ryngfree: 11 configs
 vipvpn_v2ray: 11 configs
@@ -302,6 +302,7 @@ vpnandroid2: 9 configs
 configasli: 9 configs
 configforvpn01: 9 configs
 freev2raym: 9 configs
+ghalagyann2: 9 configs
 irv2rey: 9 configs
 lemonshopvpn: 9 configs
 mahan_ping: 9 configs
@@ -319,7 +320,6 @@ ch_a2l: 8 configs
 dargiiriis: 8 configs
 ehsawn8: 8 configs
 gervpn: 8 configs
-ghalagyann2: 8 configs
 goodbyefiltering: 8 configs
 iraniv2ray: 8 configs
 iranvipnet: 8 configs

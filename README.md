@@ -125,15 +125,16 @@
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_4.txt">📡 Mix Shadowsocks 4</a><br><hr>
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_5.txt">📡 Mix Shadowsocks 5</a>
     </td>
-    <strong>⚡ Mix Vmess</strong><br>
-      <code>Curated Vmess configurations</code><br>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_1.txt">📡 Mix Vmess 1</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_2.txt">📡 Mix Vmess 2</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_3.txt">📡 Mix Vmess 3</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_4.txt">📡 Mix Vmess 4</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_5.txt">📡 Mix Vmess 5</a>
+    <td align="center">
+      <strong>🏛️ Mix Trojan</strong><br>
+      <code>Curated Trojan configurations</code><br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_1.txt">📡 Mix Trojan 1</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_2.txt">📡 Mix Trojan 2</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_3.txt">📡 Mix Trojan 3</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_4.txt">📡 Mix Trojan 4</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_5.txt">📡 Mix Trojan 5</a>
     </td>
-    </tr>
+  </tr>
   <tr>
     <td align="center">
       <strong>🚀 Mix Vless</strong><br>
@@ -145,14 +146,13 @@
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vless_5.txt">📡 Mix Vless 5</a>
     </td>
     <td align="center">
-      <td align="center">
-      <strong>🏛️ Mix Trojan</strong><br>
-      <code>Curated Trojan configurations</code><br>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_1.txt">📡 Mix Trojan 1</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_2.txt">📡 Mix Trojan 2</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_3.txt">📡 Mix Trojan 3</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_4.txt">📡 Mix Trojan 4</a><br><hr>
-      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_5.txt">📡 Mix Trojan 5</a>
+      <strong>⚡ Mix Vmess</strong><br>
+      <code>Curated Vmess configurations</code><br>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_1.txt">📡 Mix Vmess 1</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_2.txt">📡 Mix Vmess 2</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_3.txt">📡 Mix Vmess 3</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_4.txt">📡 Mix Vmess 4</a><br><hr>
+      <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_5.txt">📡 Mix Vmess 5</a>
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
-trojan://0fyh2hxf-tahi-jnmf-5eum-34pb8pj0wzr0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:52
-trojan://gb5rno7s-6ovz-ts1e-g2mv-44opfsl1efl2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://x36dh2de-4eqm-iwic-7g8m-xsswocxgs66x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://t4f80jwj-ives-25q3-ggmn-u4yu053x29iv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:31
+trojan://mafkdwku-lmd0-4nl2-blqe-s7005dudprhf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3gjcbwbs-175c-90rx-d9we-h901s2pb2qqe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989#190.103.176.29:989
 vless://824fd081-bca0-48b4-9133-d6b0b47f41f7@37.32.11.207:777?type=tcp&security=none#37.32.11.207:777
 vless://6d968cf7-a23f-4cf8-cd13-df0ba89bc226@62.60.172.231:2083?type=tcp&security=none#62.60.172.231:2083
@@ -75,5 +75,5 @@ warp://188.114.96.83:894?#188.114.96.83:894
 warp://188.114.99.165:1014?#188.114.99.165:1014
 warp://188.114.99.138:8742?#188.114.99.138:8742
 warp://188.114.99.221:2506?#188.114.99.221:2506
-trojan://xwsui1nz-wuxi-erxe-8dks-x11ioras0spj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://d72enq7o-odo2-18bv-ih4v-h4i2z6urdq4o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6fvwf0p4-iz66-dzgg-tqkn-1zwf6sp5688i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k655b4dg-8s05-w1r2-xujw-bsxg1zsckd7d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

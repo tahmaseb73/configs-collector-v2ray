@@ -1,8 +1,6 @@
-trojan://1ot7vi4l-nrw6-vgfb-emns-vzhidlkbq9ag@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:52
-trojan://6ebp1gzx-r0fc-zzwn-3btn-9thyz3hznisd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0s5law6w-2hfz-l1y2-qk5f-upajnrv2w2d0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?type=xhttp&security=none&path=/dashboard?ed=2560#5.10.214.123:8080
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.193.213.10:8080?type=xhttp&security=none&path=/dashboard?ed=2560#141.193.213.10:8080
+trojan://fth12qpy-yz0w-lbfq-bct0-h0hkzeeto31s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:31
+trojan://0r0tijle-g10c-m54t-mghu-i5xf3tth7n0x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jh9cd8wo-v7j5-qn8h-o4zx-zsgqfhnvu9v2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080?type=xhttp&security=none&path=/dashboard?ed=2560#45.131.4.147:8080
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.101.121.108:8080?type=xhttp&security=none&path=/dashboard?ed=2560#141.101.121.108:8080
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
@@ -19,5 +17,6 @@ vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2027?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2027
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2028?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2028
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@api.node.snap.com.digi-gamingzone.koalavault.ae.zeparo-love.ir:2029?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#api.node.snap.com.digi-gamingzone.koalavault.ae.zeparo-love.ir:2029
-trojan://leqojedf-i9rh-zl2k-qgow-w1htr2ocwuyx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5pjuj84l-mp12-efde-fgkn-a3ehxnvjaf48@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://b47cb428-097a-4987-b195-c9d983253be2@ecohopetamiz2.ivy-net.ir:1616?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BySjBybAQUJzCP66kzVrN5fRYorgUGnY4TuCO8mRFjA&sid=150210e2e45b002e#ecohopetamiz2.ivy-net.ir:1616
+trojan://90k60bhc-i61f-09tt-ysh6-7md0sc0qjf86@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://flv0w8y4-jpzn-nog2-hr03-hnp08tqrxqh4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://7np2j014-u57t-7rxq-inxl-gfw5ohgofaa1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:52
-trojan://j70nlx8l-g07q-a8d7-hew1-2lhh3cchrdns@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://d1qomqcm-hvvt-yk0h-q1xn-mtuqbxy0cvlg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://n8x88aa3-jl1c-l3ni-df9q-2e7ha9n02l4i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:31
+trojan://9odsnlf4-ikgg-siir-0gzx-ve3c95gjtbek@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ty7zkj1g-1oaa-0ed0-pvox-cp77zzqb1tah@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#138.186.142.4:989
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#38.114.114.69:7002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
@@ -21,5 +21,5 @@ vless://468d811a-8540-4517-9779-0f542b5150d2@104.24.7.232:80?type=ws&security=no
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
 vless://turboo-server@telegram.turboo-server.com.co:2095?type=tcp&security=none#telegram.turboo-server.com.co:2095
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
-trojan://w94lmvdj-u2qt-npdp-6tbl-orjuo2xy0ix5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qw9pdfat-r4ck-jcck-sqp8-zdjjzcc96bt9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://f48hcjj3-ud32-6p30-m6i1-cg6mw8fqp3x8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lyj1c9x1-9w15-obhe-z86t-x17jhvyoww9i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

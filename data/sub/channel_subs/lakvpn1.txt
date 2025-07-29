@@ -1,6 +1,6 @@
-trojan://3nji76pp-krsm-bwir-1qw2-x9hcu0kc6ge4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:28
-trojan://lskgjsm6-qayi-28kh-lp9j-twuri5dicjzb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hubl3rqu-0xnb-uu9c-ir5j-mplpeo5i9cor@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rjtgkebw-sdkf-4sxq-b6vw-5uibbu8tw1c3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:53
+trojan://s1rqrzbn-nv73-3kpg-r95z-crm3lxrdsgvp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://td1j74qz-y6ss-nkbr-82qi-iebsn6dn3c0u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c78067fe-4e53-4dd5-8346-b9b11f42581d@all.funlifea.shop:8443?type=grpc&security=tls&sni=t5.funlifea.shop#all.funlifea.shop:8443
 vless://5e3527b9-e220-4049-8caf-ebb2dca593f4@all.funlifea.shop:8443?type=grpc&security=tls&sni=t5.funlifea.shop#all.funlifea.shop:8443
 vless://12c39772-94bd-49f5-b0ae-ca7b45eeb583@all.funlifea.shop:2053?type=grpc&security=tls&sni=t5.funlifea.shop&fp=chrome#all.funlifea.shop:2053
@@ -9,5 +9,5 @@ vless://1089c9ea-330f-4896-abaf-70c160cee6c8@all.funlifea.shop:2053?type=grpc&se
 vless://5ba34c00-22be-4362-844c-389d608c2fc8@bn1.iranman.shop:33375?type=tcp&security=none&path=/#bn1.iranman.shop:33375
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?type=tcp&security=none#31.14.118.226:24100
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?type=tcp&security=none#all.yasharteam.com:500
-trojan://o0ic579t-xw8e-u2hy-rpli-i455sff3md1e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://os7nzuee-xkcv-v16a-6027-m9i9aml6hzoh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zazkez23-e1hq-gegq-oyw2-g3jejt71jmdy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1m2vrxp0-020h-wne8-socb-uq797x7f8qkd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

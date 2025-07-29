@@ -1,6 +1,6 @@
-trojan://74snjq0f-d4em-vzkn-qkki-x9ubudqo1li4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:28
-trojan://ahdra36c-rxzy-72k2-tg91-3y3knw837dpt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ufenp2hn-whdx-pt99-bx7l-pqs0awawkerz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0v1ylyjm-gybn-tqjm-emyh-55uobu91hxzx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:53
+trojan://sdz8h6vo-z6pb-i60p-dd2s-4907apxoq6vb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ab9s3enz-ouj3-69u1-7i37-qu72ymixjn19@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:8080
@@ -20,5 +20,5 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&sec
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?type=grpc&security=none#91.107.155.155:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU12&sni=freexxx.xhamster.biz.id#freexxx.xhamster.biz.id:443
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
-trojan://ee3jak8q-gw5g-hebb-psp3-t24o563irxi0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://46akxt9y-5uej-bokm-6gb7-moj5b12sx5j0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://l7n8meka-chdc-89fu-qain-8ceijpg8l7m2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ueg72wnl-5zix-30wz-x88b-dhdzvrkpamgl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

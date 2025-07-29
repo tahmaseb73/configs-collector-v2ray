@@ -1,6 +1,6 @@
-trojan://r6u8af81-l9j6-04yv-4ctl-umq6ukf8205x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:28
-trojan://2voie4rc-h8yl-rgwp-nqnu-436dz4p6z1m2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://buo91agg-fdqu-3q2p-5pzg-opljfx0l2ako@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://w74cf10w-v11p-7xw9-vl2i-dgsybn47d1dz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:53
+trojan://mv7p3xfq-t0gz-x6yx-bpq6-xzz55ht81ow2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qw723g1o-lv28-vcf3-90jp-fnmlg60h6wg8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&security=none#95.164.45.85:8880
@@ -12,5 +12,5 @@ vless://b4a5c9ba-0cd1-462a-ab34-6683cf8f25fa@cert.gamberonvps.ir:28076?type=tcp&
 vless://45beb77a-9413-4e97-b148-cb219cf4a9b5@cert.gamberonvps.ir:28076?type=tcp&security=reality&path=/&sni=www.zula.ir&fp=chrome&pbk=aFAL9AlapF2P4VEIiGOf4O_E-Z1wryr1AnACoBgpgCg&sid=5e8fd8#cert.gamberonvps.ir:28076
 vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@91.99.205.255:443?type=xhttp&security=reality&path=/&sni=tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=98990f747a#91.99.205.255:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&security=reality&path=/&sni=tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=827cc1dd64e679#91.99.153.13:443
-trojan://lun4j2hm-r2z5-am9a-l7yi-9h85manlvsi0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vy8vorjf-yrm7-99tf-9qrp-wypg4ej3cmru@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://i49n6ria-zlzi-1imm-bpda-6xxo5enzyj26@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ihhdir0e-t3yz-h3gh-k4id-6apqaoc31hqd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

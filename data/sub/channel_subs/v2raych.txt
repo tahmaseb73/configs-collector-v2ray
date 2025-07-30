@@ -1,6 +1,7 @@
-trojan://ykpk2fzl-r1oo-dr2l-w899-yoaunl710c99@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 01:50
-trojan://q7vzfhlb-4ygk-s5mr-cbl4-bn4stj10b4e7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kmcaibpk-eq9w-z4hs-f2p9-32ti4akk6jbz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://qxs8akue-yky7-kq4e-4i7k-9m6wwpc887f6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 02:22
+trojan://k9djnt60-mrw6-jhpr-wm6a-w7exayyatn4w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://j60f5kel-9wmq-w3ee-b4b2-3fcmmzx4c1e8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#38.121.43.71:2376
 trojan://NISHIKUITAN111@104.24.130.166:443?security=tls#104.24.130.166:443
 trojan://NISHIKUITAN111@104.25.10.14:443?security=tls#104.25.10.14:443
 trojan://NISHIKUITAN111@198.41.218.39:443?security=tls#198.41.218.39:443
@@ -9,17 +10,16 @@ trojan://NISHIKUITAN111@172.67.234.222:443?security=tls#172.67.234.222:443
 trojan://NISHIKUITAN111@45.8.211.242:443?security=tls#45.8.211.242:443
 trojan://NISHIKUITAN111@104.27.105.8:443?security=tls#104.27.105.8:443
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNzIuNjcuNjUuMSIsInBvcnQiOjQ0MywiaWQiOiJhZjZlZWRmNS1mMmI0LTQ0N2YtOGI5My01ZmNhMzNhZjA2ZjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vless://a90a8e5b-8561-4799-9de5-a7c35662cfa2@vip1.zxhost.sbs:80?type=tcp&security=none#vip1.zxhost.sbs:80
-vless://6f773786-1fe1-4bc1-9ca6-8026564076c7@www.speedtest.net:2087?type=ws&security=tls&path=/vless&sni=de-1-cbt.medicaldream.ir&fp=chrome#www.speedtest.net:2087
-vless://775152cc-c811-496a-b222-d9764146203f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/ldtzopws&sni=638885878652634282.stockholm-prx-dnraaao.info#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?type=ws&security=tls&path=/tel-@v2ray_alpha&sni=faruzan.changli.ddns-ip.net#172.66.132.196:2096
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6tvg8d6himxkgdp2?ed=#@v2ray_confing33#104.16.85.3:8880
 vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.184.58:443?type=ws&security=tls&path=/proxyip&sni=frieren.albedo.ddns-ip.net#104.17.184.58:443
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?type=ws&security=tls&path=/inqabcws#45.128.54.15:443
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@114.129.43.251:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#114.129.43.251:8880
 vless://54c5231c-7379-4%657%65-%6163%65-d50b4c72350c@31.58.144.49:6666?type=grpc&security=none#31.58.144.49:6666
+vless://0582e1d7-95cc-41fd-b79c-53832705e539@91.99.224.243:2081?type=tcp&security=none#91.99.224.243:2081
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.202:443?type=tcp&security=none&path=/#91.99.179.202:443
 vless://3edb4d4b-cb91-42ac-8135-756318d857a3@5.75.195.253:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=2jslY7dFcR14gsOun3LqiXXgqp_72YBk35VDWGwTajs#5.75.195.253:443
 vless://Telegram---SRCVPN@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
 vless://Telegram---SRCVPN@91.107.129.66:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3080
-trojan://pghw9e4i-algp-0b6f-y1o7-k9cydskdatjm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://utyc90lu-w6uf-zg7v-mni0-liw0xturudto@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4lql182s-eqyl-5tim-qai9-z9ysc5g50u0m@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://disqoiki-dxnl-st3k-9p2w-bh8iib7ip9nk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

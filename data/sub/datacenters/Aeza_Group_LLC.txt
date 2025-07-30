@@ -1,9 +1,9 @@
-trojan://9kkveg25-x2so-2elg-rxdc-y3xmvwmbc4ol@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:20
-trojan://6ohyycvg-5toy-umu3-d68v-ucn4jh8xo124@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zwd7fqd8-i5lb-cqni-4ij3-3y0emg1uj5ym@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dlA2bEJFaW0wUHFpeWp6ZmVLMlpv@109.107.189.5:53064#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.5
+trojan://mr6ns1ws-7yo9-uc4d-69d0-x9wxlebrs4ca@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:49
+trojan://8m08sqiu-rtg2-jn5q-zf4i-43494sdgzfn4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8aecwpv3-duev-4cug-ov4i-ftgwcztuzsd5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.185
-vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@45.134.12.5:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 45.134.12.5
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?type=tcp&security=reality&sni=zula.ir&fp=firefox&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&sid=5292cb10#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 194.113.106.139
-trojan://giiua1h0-1f46-n0vu-8099-rheu1lfnxsj5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xvz8npi4-xu2g-j18u-jifi-qec08huv98p4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@45.134.12.5:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 45.134.12.5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dlA2bEJFaW0wUHFpeWp6ZmVLMlpv@109.107.189.5:53064#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.5
+trojan://qqg51zdb-3oem-6b3a-tweh-9cw43db64na8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i4t30cov-tgmt-54md-b46h-2z22xvbgxwn7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

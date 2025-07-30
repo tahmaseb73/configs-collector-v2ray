@@ -1,55 +1,56 @@
-trojan://a8giam09-8rzu-u4l9-c4j5-s4hmyouap03v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:20
-trojan://9zztsvrb-kndm-knq9-w73u-d0de9wilzd9e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2clmbrmh-gw7w-9n7k-0a5z-rb05utfwx76m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://NISHIKUITAN111@104.19.179.218:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.19.179.218
-trojan://saMgiangGt@art4.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
-trojan://xxoo@138.124.183.226:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 138.124.183.226
-trojan://telegram-id-privatevpns@52.57.84.177:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.57.84.177
-trojan://maradona_vpn@maradona_vpn3.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://telegram-id-directvpn@15.222.9.61:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.222.9.61
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@hdfy8d1.cpi1.eu.org:443?sni=hdfy8d1.cpi1.eu.org&peer=hdfy8d1.cpi1.eu.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=none#XX 🏳️ ┇ TROJAN-TCP-NTLS ┇ None
-trojan://82ccfd98-7a28-4b84-b609-b8d151cb6d6a@frankfurt.artunnel57.host:80?security=none#XX 🏳️ ┇ TROJAN-TCP-NTLS ┇ None
-trojan://c6a6376a-2c09-4bcc-971a-8cbecaea1291@45.146.232.172:43583?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.172
-trojan://2a7fdc9d-5811-464d-b30d-50e831c12a3f@london.artunnel57.host:80?security=none#XX 🏳️ ┇ TROJAN-TCP-NTLS ┇ None
-trojan://telegram-id-privatevpns@54.220.73.232:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.220.73.232
-trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou:12324?sni=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou&peer=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://saMgiangGt@art2.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://NISHIKUITAN111@190.93.244.84:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 190.93.244.84
-trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
-trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.25.165.81
-trojan://maradona_vpn@maradona_vpn12.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://Maradona_vpn@maradona_vpn14.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://8b22cw1o-if54-mry9-vs13-86lnc9n84s2f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:49
+trojan://ow4v7w0c-r0pw-h1ja-6jon-6b1tpi715i8m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hm9kqyw1-aa0d-j3dc-fexj-2somrjbickju@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@t3.teslacdn2.live:443?sni=t3.teslacdn2.live&peer=t3.teslacdn2.live&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net:15229?sni=e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net&peer=e312e558-sxusg0-t3f7qr-141tv.cu.plebai.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://saMgiangGt@maradona3.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://telegram-id-privatevpns@35.181.22.149:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.22.149
+trojan://NISHIKUITAN111@190.93.246.45:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 190.93.246.45
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?sni=uk2.safecdn.site&peer=uk2.safecdn.site&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 94.131.122.157
-trojan://saMgiangGt@maradona6.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://NISHIKUITAN111@198.41.208.37:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 198.41.208.37
-trojan://Maradona_vpn@maradona_vpn1.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?sni=666666Y.999165.XYZ&peer=666666Y.999165.XYZ&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.172.71
-trojan://telegram-id-directvpn@51.44.225.112:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.225.112
-trojan://bpb-trojan@185.176.24.2:443?sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&peer=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.176.24.2
-trojan://656aeb77-1cee-4900-b412-f9cbb6df9b5f@cn-hk-30.fnhffffe4.cc:50110?sni=cn-hk-30.fnhffffe4.cc&peer=cn-hk-30.fnhffffe4.cc&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 119.147.118.191
-trojan://saMgiangGt@maradona1.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://NISHIKUITAN111@104.24.186.143:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.24.186.143
-trojan://FiSo7J6vfS@51.68.13.106:1935?sni=x1fr-ovh.devefun.net&peer=x1fr-ovh.devefun.net&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 51.68.13.106
-trojan://bpb-trojan@104.18.37.111:443?sni=mindrOOm-5cz.pAgEs.dEV&peer=mindrOOm-5cz.pAgEs.dEV&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.37.111
-trojan://NISHIKUITAN111@172.67.23.69:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 172.67.23.69
-trojan://maradona_vpn@maradona_vpn14.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://bpb-trojan@45.205.0.93:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 45.205.0.93
-trojan://telegram-id-directvpn@15.236.182.90:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.182.90
-trojan://62c4eec5-87f0-47e8-8850-78158acfdd96@148.59.74.196:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 148.59.74.196
-trojan://telegram-id-privatevpns@3.9.161.192:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.9.161.192
+trojan://telegram-id-privatevpns@3.78.152.130:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.78.152.130
+trojan://bpb-trojan@164.38.155.246:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 164.38.155.246
+trojan://Maradona_vpn@maradona_vpn9.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://saMgiangGt@art5.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://telegram-id-privatevpns@15.188.226.27:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.188.226.27
+trojan://Maradona_vpn@maradona_vpn11.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://abf931d0-5be1-440c-802f-a66bcb850139@45.146.232.171:34014?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.171
+trojan://e6b506e9-2d37-40cb-aff9-35678d0e6c69@amin.karkas1.ir:443?sni=amin.karkas1.ir&peer=amin.karkas1.ir&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://NISHIKUITAN111@185.162.231.92:443?security=tls#IM 🇮🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.162.231.92
+trojan://208ec973-48f8-4fbb-9879-11d569e8e5ed@london.artunnel57.host:443?sni=london.artunnel57.host&peer=london.artunnel57.host&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://395ab0f4-5fed-40e1-a96f-1a9568a2ccfc@id.artunnel57.host:443?sni=id.artunnel57.host&peer=id.artunnel57.host&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://NISHIKUITAN111@190.93.244.84:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 190.93.244.84
+trojan://maradona_vpn@maradona_vpn6.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://oZAugtgF5T@146.190.87.238:443?sni=aka.ms&peer=aka.ms&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 146.190.87.238
+trojan://saMgiangGt@art1.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://3e6ae2e4-a8a5-11ef-8578-f23c913c8d2b@76b15373-swd340-tcudgo-1sa5k.cu.plebai.net:15229?sni=76b15373-swd340-tcudgo-1sa5k.cu.plebai.net&peer=76b15373-swd340-tcudgo-1sa5k.cu.plebai.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://NISHIKUITAN111@188.114.96.153:443?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 188.114.96.153
+trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org&peer=store.timimi.dpdns.org&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 109.234.211.66
 trojan://telegram-id-directvpn@15.188.242.55:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.188.242.55
-trojan://telegram-id-directvpn@18.192.52.65:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.192.52.65
-trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.81
-trojan://maradona_vpn@maradona_vpn7.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
+trojan://telegram-id-privatevpns@35.159.103.214:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.159.103.214
+trojan://xxoo@146.19.230.241:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 146.19.230.241
+trojan://aTArbZ2F0E@172.66.168.213:443?sni=uSa-vp-27.bLAzECLOUD.SITE&peer=uSa-vp-27.bLAzECLOUD.SITE&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.66.168.213
+trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?sni=206.237.5.220&peer=206.237.5.220&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
 trojan://22dxmxezsm@pouriya.cf:443?sni=brec3xLN7Zl2.pouriya.cf&peer=brec3xLN7Zl2.pouriya.cf&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz&peer=sg01.freeflyingcloud.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.248.169.48
-trojan://maradona_vpn@maradona_vpn11.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
-trojan://telegram-id-privatevpns@13.48.199.142:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.48.199.142
-trojan://telegram-id-directvpn@35.181.225.185:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.225.185
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?sni=hk03.trojanyyds.xyz&peer=hk03.trojanyyds.xyz&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.139.234.73
-trojan://gxiz9rxr-ioq1-b7lw-nabn-915u46llfqtg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xyfeeoki-9s8y-o61u-9w7x-siia09u7mb0c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://04dce2ad-97b3-445a-b26b-dc1b9a58914f@asia.artunnel57.host:443?sni=asia.artunnel57.host&peer=asia.artunnel57.host&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?sni=666666Y.999165.XYZ&peer=666666Y.999165.XYZ&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.172.71
+trojan://telegram-id-privatevpns@15.236.215.37:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.215.37
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#TR 🇹🇷 ┇ TROJAN-TCP-TLS - Meric Internet Teknolojileri A.S. ┇ 194.146.26.40
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@148.59.74.200:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS ┇ 148.59.74.200
+trojan://96c5f18c-9390-11eb-86a4-f23c913c8d2b@68e85139-sxc9s0-t1jkae-18y1l.cu.plebai.net:15229?sni=68e85139-sxc9s0-t1jkae-18y1l.cu.plebai.net&peer=68e85139-sxc9s0-t1jkae-18y1l.cu.plebai.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
+trojan://telegram-id-directvpn@15.236.182.90:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.182.90
+trojan://NISHIKUITAN111@216.205.52.233:443?sni=za.ylks.xyz&peer=za.ylks.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 216.205.52.233
+trojan://saMgiangGt@maradona1.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://ba7a37e3-033a-e1ab-06f6-9027aa4630f5@e0fc3fd6-sxc9s0-t5cryd-4w8.cu.plebai.net:15229?sni=e0fc3fd6-sxc9s0-t5cryd-4w8.cu.plebai.net&peer=e0fc3fd6-sxc9s0-t5cryd-4w8.cu.plebai.net&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 15.204.234.166
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?sni=series-v1.samanehha.co&peer=series-v1.samanehha.co&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.131.245
+trojan://Pooria@104.17.148.22:443?sni=301.pOORiAm.ir&peer=301.pOORiAm.ir&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.17.148.22
+trojan://bpb-trojan@45.205.0.93:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 45.205.0.93
+trojan://Maradona_vpn@maradona_vpn14.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://6bb546f2-5528-31b2-8d8e-cf1eed4076a0@phxv002.jd0001.top:44303?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.190.219
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.250.177.51
+trojan://hZ7JkYVAfB@141.227.138.29:1935?sni=x1ch-ovh.devefun.net&peer=x1ch-ovh.devefun.net&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.138.29
+trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ None
+trojan://lzykg1d0-xqmh-d1di-mqrq-d9n9brl8ukse@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://8gfizt4e-jhhf-vp7n-q4nu-0dxb61acuuzy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

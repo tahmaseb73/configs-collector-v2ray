@@ -1,6 +1,6 @@
-trojan://6whxh3o9-cwxm-yhwl-44vn-dmp6uyd9ztfc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:34
-trojan://9143hjzd-zfk5-beys-k8xd-5l6owtxhxmmq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g9zj053a-2gm4-ot7p-qu0y-7bg0jh2gj0fa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://amfnvr54-5ulf-f1kj-xx8x-8by8m3w31vzn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:51
+trojan://259v26m7-b1wx-ts8j-45wr-mv5vkuwltg99@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://sh7us133-n4aa-1dgo-zxnj-s8w1jtgy6e18@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTXNoMHN0c1dCUHlhWmNFVVpiTkdK@77.105.166.12:8594#77.105.166.12:8594
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#83.147.216.70:64519
@@ -316,5 +316,5 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=non
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org#104.26.15.69:2096
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
-trojan://ixod7qpd-yh4b-ropm-3rn4-ji9sbqgn051y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pif7rx0r-exzb-dfao-6xum-cwrowy1frpnq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://5ngwpppe-854l-9iwd-st80-bfgh4mu1npiu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://drxw0yjd-8rgw-wmmg-xver-diomoi79lnxh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

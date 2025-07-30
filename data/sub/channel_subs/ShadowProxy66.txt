@@ -1,6 +1,6 @@
-trojan://2rop13eg-d7re-4aog-cqma-aemfyueijxr9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:34
-trojan://ctho9he5-26vm-vluz-p6vm-m0z3mhjha2a3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v33oys55-aobz-wcqn-k9l4-mxxx4lfqw1g1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://yaa29bss-2c5b-ak4w-3dyb-yfhja6vpcval@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:51
+trojan://n3bfdho1-a1nq-zpsh-08f1-5xfvo2q9hkwi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://d91ndfbu-mh6p-2t9v-gkc2-fupnh1ay17bt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=random#www.bankonbasak.com:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?ShadowProxy66&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
@@ -46,5 +46,5 @@ warp://::ffff:162.159.195.255:1387?#::ffff:162.159.195.255:1387
 warp://8.39.214.207:1387?#8.39.214.207:1387
 warp://8.35.211.171:500?#8.35.211.171:500
 warp://::ffff:8.39.214.207:1387?#::ffff:8.39.214.207:1387
-trojan://blyki1x0-m72d-2y41-v54t-k3nedorm3gqb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rggrwx16-952b-9g8b-ard1-l6owncol82dy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bwii2r8a-27f3-tyl9-rcyy-dkfupp0b0e1u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0qef2usy-9ddv-roqz-gy4b-bl5j0a4nyf5q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://vzytf0mn-6hrb-nptt-yy56-88tc52nm389w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:34
-trojan://s3gan5qh-xk3v-wpr0-51pt-5p1z3nghc10z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://p1wpsu5n-6c7c-q5xx-rug7-4tofx5e28trl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://yok3fea2-nhzf-n4hp-d09t-j2bmt6j1xy57@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:51
+trojan://8xet2bbm-ahpl-0baz-ncbh-ayscn7hfhwa6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dtqs3e0c-x9p8-60bu-ga4i-2ud0djzkdga1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6f6af4b5-950f-404b-93ed-5307b16f9e4a@binex.tv.jaricopen.fun:2053?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#binex.tv.jaricopen.fun:2053
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
 vless://ba56e95b-10fe-43d3-aaa2-417b0df52adf@de2.leperfume.ir:2323?type=xhttp&security=none&path=/Bmarz#de2.leperfume.ir:2323
@@ -21,5 +21,5 @@ vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&secur
 vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#103.175.79.10:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&security=reality&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=cd0b#91.99.153.13:443
-trojan://5gx1p40j-6zkg-srbf-uvp9-rp9rofnr9ut7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8bzxg1ry-7pop-br9z-5sq0-6nnkz3cplikd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9o53blri-1jfx-pii2-6502-lp7t59v8tbmc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0gm8qpru-wy1s-facr-cuv4-lfsd5uqfddlc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

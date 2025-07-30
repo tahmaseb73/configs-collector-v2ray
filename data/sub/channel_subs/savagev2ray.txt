@@ -1,6 +1,6 @@
-trojan://j3qp2phk-j9rl-chhm-avzm-u4mfurmrs884@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:29
-trojan://zlfw4jvu-gnel-x2x6-hoqh-qol4r8c1li62@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xlkt11ph-2skt-m7wc-tg9c-kzx1bj7a0rly@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://sv9e7pmj-sa3e-2zw8-fkmq-xwt05hnm2vjl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:57
+trojan://pcl5uusk-1ak3-u9qd-kltd-u9bca6z70vdk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2b9sj0h5-790q-9pka-1399-0yqpji734bxk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://1fe30846-29da-473d-9959-17e02447638a@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
 vless://b703c909-61e9-4945-9bfc-c82bca433dd1@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://5855da6d-0dbb-4fa2-9c89-3674b7a71a18@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
@@ -41,5 +41,5 @@ warp://188.114.97.204:1002?#188.114.97.204:1002
 warp://188.114.97.2:903?#188.114.97.2:903
 warp://188.114.98.180:903?#188.114.98.180:903
 warp://188.114.98.193:1002?#188.114.98.193:1002
-trojan://ei26igp5-1vay-xyp9-318m-7l9qu2eaxd2q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mroe9b1x-00gp-x0hq-kobc-6f86nfevlyty@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://38p96h50-5avq-xhsi-im1p-02owt74tlnvl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://mwhl86dk-e81m-3iew-coev-fhzdg5u1nj3q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

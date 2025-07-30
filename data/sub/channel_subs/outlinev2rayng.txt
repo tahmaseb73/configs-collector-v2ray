@@ -1,6 +1,6 @@
-trojan://c8400f12-gwjj-2wb3-sypq-jaheiakyrluq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:34
-trojan://nk7x532j-nviu-48sx-nfm3-snvcb5kbpgfu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kvsvd7tn-tlu7-nixi-g8ps-65cnt4s41g65@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://sti1mqjh-wczs-78wy-gwvw-runv2v76a7lg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:56
+trojan://3m6qb8nn-y51w-179n-312f-9bvsl9oetmd0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8vsrrfix-2ofq-rxxr-zoht-bi86fsndev09@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?type=ws&security=none&path=/#enthusiastic-century.oneeat.co:80
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#dedicated-development.seotoolsforyou.co.uk:80
@@ -17,5 +17,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&secu
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443?type=ws&security=tls&path=/@rayan_config&sni=rAyAn-11.LeIlA.DpDnS.OrG#45.8.211.254:443
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
-trojan://oot8h4n2-vrzz-inua-ijgg-g64zl2sye99b@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://q49pdcoo-d4wc-c5pu-ync6-pa8ufhiyjo37@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qyr7n6ui-0tzr-kij3-6wq9-4g4eej7bftlv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://33uwmygj-90e0-33a9-ncpf-rv40pbs0b0ci@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 10:34:12
+Timestamp: 2025-07-30 10:55:46
 Total Channels: 502
 Successful Scrapes: 470
 Failed Scrapes: 0
@@ -24,12 +24,12 @@ freev2rng: 114 configs
 appsooner: 114 configs
 filter_breaker: 111 configs
 satellitenewspersian: 111 configs
-config_proxy: 110 configs
+config_proxy: 109 configs
 armodchannel: 108 configs
 mtproxy22_v2ray: 108 configs
-v2ray_configs_pool: 106 configs
 v222ray: 102 configs
 mftizi: 100 configs
+v2ray_configs_pool: 90 configs
 farahvpn: 90 configs
 icv2ray: 89 configs
 info_2it_channel: 89 configs
@@ -99,21 +99,21 @@ meliconfing: 34 configs
 v2ry_proxy: 34 configs
 frev2rayng: 32 configs
 meli_v2rayng: 32 configs
-mowjproxy: 32 configs
 v2aryng_vpn: 32 configs
 vaynora: 32 configs
 x4azadi: 32 configs
 capoit: 31 configs
-configx2ray: 31 configs
-ConfigX2ray: 31 configs
 filtershekan_channel: 31 configs
 v2rayprotocol: 31 configs
 configms: 30 configs
 configtrapi: 30 configs
 melov2ray: 30 configs
 v2rayngseven: 30 configs
+configx2ray: 29 configs
+ConfigX2ray: 29 configs
 canfing_vpn: 29 configs
 configfa: 28 configs
+mowjproxy: 28 configs
 vmessiranproxy: 28 configs
 darkma3ter24: 27 configs
 dgkbza: 27 configs
@@ -235,6 +235,7 @@ hoshmasnoiyfarsi: 14 configs
 kurdvpn1: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
+v2rayvpn2: 14 configs
 v_2rayngvpn: 14 configs
 father_vpn: 13 configs
 hopev2ray: 13 configs
@@ -267,7 +268,6 @@ iranproxypro: 11 configs
 net_azad_1: 11 configs
 proxy_emperor: 11 configs
 renetvpn: 11 configs
-v2rayvpn2: 11 configs
 v2rplus: 11 configs
 v2ryngfree: 11 configs
 vipvpn_v2ray: 11 configs

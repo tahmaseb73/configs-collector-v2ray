@@ -1,10 +1,7 @@
-trojan://vmn1lgjc-ct7l-mrsr-cr1z-8gdhrwaynd3z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 21:23
-trojan://cjoejaop-bwig-xeo5-hwsp-fiqfeq9c9ljk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qc8slhnl-co6p-dyx7-o4vx-z2qc2pgazx4b@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rynqcfff-u93b-gid7-ksu7-tmbunqaau9pa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 21:54
+trojan://oiaex1a1-g1dl-8fv6-dlv0-p6weiq5ra74z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5shmt0s4-46bc-dvof-bb7q-dygyysa13mqb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcHJoUng3alRRdTdhZmNHWTNhbXNE@85.208.139.158:25607#85.208.139.158:25607
-vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiMTUuMjM1LjQxLjIwMCIsInBvcnQiOjgwLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiJ9
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/#104.16.86.73:8880
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=KtT44fPtXh.DaStAtSaRd.OrG#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
 vless://Parsashonam-288@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
@@ -38,5 +35,5 @@ vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security
 hysteria2://UnYCJJ9AQy@146.19.56.21:28165?insecure=1&obfs=salamander#146.19.56.21:28165
 hysteria2://Jj0FrgSd85@165.140.166.78:50163?insecure=1&obfs=salamander#165.140.166.78:50163
 hysteria2://F6HtMurQGt@185.211.101.15:16666?insecure=1&obfs=salamander#185.211.101.15:16666
-trojan://dfd204fn-ohlx-3lm8-4pf5-qflnew65alju@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4ulefovr-14m9-daxc-evu0-joe549e92re5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://bjdw016g-cmqb-vbda-vz39-k5vyksksiryr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ew3m5akd-pptr-xgqh-fxez-o5cb3paid0fn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

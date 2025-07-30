@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 09:08:10
+Timestamp: 2025-07-30 09:31:56
 Total Channels: 502
-Successful Scrapes: 470
+Successful Scrapes: 469
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -26,8 +26,8 @@ filter_breaker: 111 configs
 satellitenewspersian: 111 configs
 armodchannel: 108 configs
 mtproxy22_v2ray: 108 configs
-config_proxy: 102 configs
 v222ray: 102 configs
+config_proxy: 100 configs
 mftizi: 100 configs
 farahvpn: 90 configs
 icv2ray: 89 configs
@@ -98,7 +98,6 @@ v2ry_proxy: 34 configs
 meliconfing: 33 configs
 frev2rayng: 32 configs
 meli_v2rayng: 32 configs
-mowjproxy: 32 configs
 v2aryng_vpn: 32 configs
 vaynora: 32 configs
 x4azadi: 32 configs
@@ -113,6 +112,7 @@ melov2ray: 30 configs
 v2rayngseven: 30 configs
 canfing_vpn: 29 configs
 configfa: 28 configs
+mowjproxy: 28 configs
 vmessiranproxy: 28 configs
 darkma3ter24: 27 configs
 dgkbza: 27 configs
@@ -148,6 +148,7 @@ nofiltering2: 20 configs
 outlinereleasedkey: 20 configs
 proxie: 20 configs
 v2ray_free_conf: 20 configs
+v2raych: 20 configs
 vpnfail_v2ray: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
@@ -160,7 +161,6 @@ proxycrone: 19 configs
 proxyfn: 19 configs
 red2ray: 19 configs
 v2logy: 19 configs
-v2raych: 19 configs
 vmesc: 19 configs
 vpngate_config: 19 configs
 vpnplusee_free: 19 configs
@@ -239,10 +239,8 @@ hopev2ray: 13 configs
 kingofilter: 13 configs
 miov2ray: 13 configs
 mtpv2ray: 13 configs
-proxy_mtproto_vpns_free: 13 configs
 public504: 13 configs
 turboo_server: 13 configs
-v2rayfree: 13 configs
 v2rayng_v2_ray: 13 configs
 v_2rayng0: 13 configs
 PASARGAD_V2rayNG: 12 configs
@@ -254,8 +252,10 @@ iranbaxvpn: 12 configs
 kkkkkoabvbbvbvv: 12 configs
 lranonline_new: 12 configs
 persian_proxy6: 12 configs
+proxy_mtproto_vpns_free: 12 configs
 v2ray_reality_new: 12 configs
 v2rayexpress: 12 configs
+v2rayfree: 12 configs
 v2rayngninja: 12 configs
 mcv2rayng: 11 configs
 v2raymelliii: 11 configs
@@ -446,7 +446,6 @@ v2rayng_my2: 2 configs
 vpnfree85: 2 configs
 zerov2shop: 2 configs
 am20094: 1 configs
-v2ray_configs_pool: 1 configs
 eleutheriavpn: 1 configs
 fast_config_info: 1 configs
 godv2rang: 1 configs

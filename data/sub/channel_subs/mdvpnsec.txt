@@ -1,6 +1,6 @@
-trojan://rgu1y5cu-pkht-pkzk-zece-ja7if2gn6nwa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 20:52
-trojan://gbndbjcw-jfkm-epo5-8vdu-2jvcqy7qbgbq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://j9le4abo-5zcv-mgld-yjhy-i4xqmyk3ys16@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cxuj2wcm-qrsg-1goa-z95q-4kb2c894dzzj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 21:23
+trojan://4thda6lh-aijs-zvkm-wshg-x7ivmb25doms@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://djotgwrr-q6l6-4ez0-l2m9-iopa8zpw4ied@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://39c29fbe-2b3a-4828-b1ec-f4cd25510a1e@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
 vless://2a9ba055-472b-4be6-a14f-eaed14f8a494@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
 vless://5141a65a-c367-4b13-9a6e-f91a31925e14@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
@@ -9,5 +9,6 @@ vless://48137ea2-8cfd-4726-9ff2-d6e8bd09454a@kafshu.ir:8080?type=ws&security=non
 vless://5141a65a-c367-4b13-9a6e-f91a31925e14@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
 vless://5425664b-d46d-4754-9de0-422faab3b2a8@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
 vless://2f0eb6a7-d57d-4b53-8dea-3f3f9e87c581@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
-trojan://eh27qfmn-70jf-bv7l-tgvk-gny29b36tuy8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ij5ymmia-jv36-5ayb-avov-c74u8u8x2tbt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f30162f6-1125-4517-be1c-041eba90a1d1@kafshu.ir:8080?type=ws&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#kafshu.ir:8080
+trojan://tnrmrbtj-w22d-xa5a-ox1y-yqiz8bx8ke63@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nmd3kghb-zhxf-836u-3b7a-ce8hv12vgafd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

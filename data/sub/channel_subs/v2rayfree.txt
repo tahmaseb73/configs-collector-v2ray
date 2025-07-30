@@ -1,16 +1,18 @@
-trojan://rk7vf4kf-908h-uerb-3ftw-6f08gzvbwp95@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 07:39
-trojan://3rlwn5wp-tdun-r2cg-mv2g-80easznlo1lh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mjr9t9kg-nfk0-ihc6-16vq-czrb6bvzg2hi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8gdmqylp-6kkv-b52s-mee5-n3hleuw7ak03@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 08:38
+trojan://1dx9ylnl-a9qy-xpvz-2vu1-pibvs3cgu1ep@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6jbyfdhu-h12j-odw2-pimx-pfebtuh1k1ug@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoiOTEuMjI4LjEwLjEyNSIsInBvcnQiOjQ3NjgyLCJpZCI6IjZiODM3ZGRkLTdkZmItNDUyMC1kZDljLTY1ZDYxZDY0MDg5NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.17.1.197:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AE19&sni=freexxx.xhamster.biz.id#freexxx.xhamster.biz.id:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
-trojan://qqmx1vv3-x1mh-y3gq-86yy-o08to1xezc76@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://363qcdoz-z3ov-57s4-08ke-9csv0vkrnthf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+trojan://pj2i0nxa-gzv4-kjxd-om93-5btv3ww94ymt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ighvy1h4-jy1h-h7cw-nvh6-es4fosip1cfd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

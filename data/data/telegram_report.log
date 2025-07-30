@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 07:39:24
+Timestamp: 2025-07-30 08:38:36
 Total Channels: 502
 Successful Scrapes: 470
 Failed Scrapes: 0
@@ -22,11 +22,11 @@ tgvpn6: 126 configs
 outline_vpn: 117 configs
 freev2rng: 114 configs
 appsooner: 114 configs
-config_proxy: 114 configs
 filter_breaker: 111 configs
 satellitenewspersian: 111 configs
 armodchannel: 108 configs
 mtproxy22_v2ray: 108 configs
+config_proxy: 104 configs
 v222ray: 102 configs
 mftizi: 100 configs
 farahvpn: 90 configs
@@ -42,9 +42,9 @@ vpnod: 77 configs
 v2raytg: 77 configs
 Tweety_Proxy: 75 configs
 ai_duet: 75 configs
-hope_net: 73 configs
 jiedianssr: 73 configs
 v2rayopen: 73 configs
+hope_net: 72 configs
 freevirgoolnet: 71 configs
 v2ra_ng_iran: 69 configs
 arv2ra: 66 configs
@@ -148,11 +148,11 @@ outlinereleasedkey: 20 configs
 proxie: 20 configs
 v2ray_free_conf: 20 configs
 vpnfail_v2ray: 20 configs
-vpnplusee_free: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
 falcunargo: 19 configs
 free1ss: 19 configs
+ip_cf_config: 19 configs
 narco_nett: 19 configs
 outlinevpn_ru: 19 configs
 parsashonam: 19 configs
@@ -163,6 +163,7 @@ v2logy: 19 configs
 v2raych: 19 configs
 vmesc: 19 configs
 vpngate_config: 19 configs
+vpnplusee_free: 19 configs
 arv2ray: 18 configs
 ghalagyann: 18 configs
 fastshovpn: 18 configs
@@ -184,7 +185,6 @@ vpn_ioss: 18 configs
 tehranargo: 17 configs
 WarV2Ray: 17 configs
 guard_revil: 17 configs
-ip_cf_config: 17 configs
 iran_mehr_vpn: 17 configs
 jeyksatan: 17 configs
 mastervpnshop1: 17 configs
@@ -239,8 +239,10 @@ hopev2ray: 13 configs
 kingofilter: 13 configs
 miov2ray: 13 configs
 mtpv2ray: 13 configs
+proxy_mtproto_vpns_free: 13 configs
 public504: 13 configs
 turboo_server: 13 configs
+v2rayfree: 13 configs
 v2rayng_v2_ray: 13 configs
 v_2rayng0: 13 configs
 PASARGAD_V2rayNG: 12 configs
@@ -265,9 +267,7 @@ foxnt: 11 configs
 iranproxypro: 11 configs
 net_azad_1: 11 configs
 proxy_emperor: 11 configs
-proxy_mtproto_vpns_free: 11 configs
 renetvpn: 11 configs
-v2rayfree: 11 configs
 v2rayvpn2: 11 configs
 v2rplus: 11 configs
 v2ryngfree: 11 configs

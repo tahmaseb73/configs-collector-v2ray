@@ -1,31 +1,15 @@
-trojan://dbjhvkft-qbk9-5l6s-yx03-6b2pl2nh8c6f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:56
-trojan://3iqpk8tx-85nc-ypio-8cwh-g56p1wersg4l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://c2z6zqy3-u2ht-2ji3-k0k9-luyqvkfm9j4i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#212.102.53.196:443
+trojan://ozeg9ocr-esir-apxz-ya39-dth2gl3n6e8v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 11:22
+trojan://c2ydah65-zrx1-ua1m-j8nr-bu6bf5jrllu4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://pl2hel5c-djmh-jqql-b0ne-6wxeatx99uw0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?sni=aio.zipzap.biz.id&peer=aio.zipzap.biz.id&security=tls#aio.zipzap.biz.id:443
-vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06QGNvbmZpZ19wcm94eSBcdWQ4M2RcdWRjYTYiLCJhZGQiOiIxMDQuMjEuMy4xODkiLCJwb3J0IjoyMDUzLCJpZCI6IjJmYzM3NzEzLTMwMTctNDk3ZS1mZjJkLTk2NWY4MjZhMTlhMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiY2MyZDQuODkwNjAwMDQueHl6IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjYzJkNC44OTA2MDAwNC54eXoifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#185.47.255.22:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06QGNvbmZpZ19wcm94eSBcdWQ4M2RcdWRkMjUiLCJhZGQiOiJoazIubHJ6ZHgudWsiLCJwb3J0Ijo0NDMsImlkIjoiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaGsyLmxyemR4LnVrIiwicGF0aCI6Ii9yZWdpc3RlciIsInRscyI6InRscyIsInNuaSI6ImhrMi5scnpkeC51ayJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06QGNvbmZpZ19wcm94eSBcdWQ4M2RcdWRkMjUiLCJhZGQiOiIxNzIuNjcuODYuODEiLCJwb3J0Ijo0NDMsImlkIjoiYWY2ZWVkZjUtZjJiNC00NDdmLThiOTMtNWZjYTMzYWYwNmY4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?type=ws&security=tls&path=/lfcinsws#103.231.75.17:443
-vless://b4087492-8a91-443f-b98c-74ac3b34e490@94.131.111.200:8775?type=tcp&security=none#94.131.111.200:8775
-vless://930e2d97-c3e4-4840-9289-748ae4fde82e@www.speedtest.net:443?type=ws&security=tls&path=/downloader.php?ed=2560&sni=matoride2.sabzipolo.site&fp=chrome#www.speedtest.net:443
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#104.16.191.195:80
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh26v2.hiddendom.shop#all.tellmethetrue.shop:443
-vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?type=tcp&security=none#ro.dtmezon.com:49750
-vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?type=ws&security=tls&path=/kcknkyws#95.164.6.214:443
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#92.243.75.251:8880
-vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?type=ws&security=none&path=/#51.38.207.189:2082
-vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?type=tcp&security=none#91.107.146.208:13304
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?type=ws&security=none&path=/#51.75.246.193:2052
-vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-ir.panelfreedom.com:2093?type=tcp&security=none#xpanel-ir.panelfreedom.com:2093
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
-vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@cert.realtechshop.top:666?type=tcp&security=none#cert.realtechshop.top:666
 vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?type=ws&security=none&path=/#51.38.207.189:2082
 vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?type=tcp&security=none#91.107.146.208:13304
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?type=ws&security=none&path=/#51.75.246.193:2052
@@ -75,10 +59,17 @@ vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?type=tcp&secur
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?type=ws&security=none&path=/#51.75.246.193:2052
 vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-ir.panelfreedom.com:2093?type=tcp&security=none#xpanel-ir.panelfreedom.com:2093
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
-vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-us.panelfreedom.com:20111?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#xpanel-us.panelfreedom.com:20111
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=firefox&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
+vless://1bc33710-140c-40ea-ac6b-35f7c36a7ecf@172.66.40.99:443?type=ws&security=tls&path=/admin&sni=2free2.aparatir.xyz#172.66.40.99:443
+vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
+vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082?type=ws&security=none&path=/#51.38.207.189:2082
+vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?type=tcp&security=none#91.107.146.208:13304
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?type=ws&security=none&path=/#51.75.246.193:2052
+vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-ir.panelfreedom.com:2093?type=tcp&security=none#xpanel-ir.panelfreedom.com:2093
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
+vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?type=ws&security=none&path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048#power.teampluss.ir:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&security=none#95.164.45.95:8880
+vless://7c05cbda-3034-4b0d-8e76-eee13986b3de@mmdamin.2.dragonspeed.top:5701?type=tcp&security=none#mmdamin.2.dragonspeed.top:5701
+vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?type=tcp&security=none#91.107.142.123:2052
 vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-us.panelfreedom.com:20111?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#xpanel-us.panelfreedom.com:20111
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
@@ -110,5 +101,8 @@ vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-us.panelfreedom.com:20111?ty
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=firefox&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
-trojan://rerljpk8-pcun-av8q-ukvt-6dexv3xlbxwe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mklodon8-ezpa-eo6o-g3m2-8zzvcbwz8bfd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-us.panelfreedom.com:20111?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#xpanel-us.panelfreedom.com:20111
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
+trojan://134q9qbj-bl6i-eie3-biba-40lulgvgoe0f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vsn8wdmq-pfw6-1ju2-a6h9-52nutais1oj6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

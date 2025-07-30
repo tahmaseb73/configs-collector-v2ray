@@ -1,6 +1,6 @@
-trojan://1tcea7m3-jr2h-i24j-8smw-wfusj307f4yd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 20:27
-trojan://o7ziqv6y-3j0z-7at9-ms71-owvhcaj3k2ea@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kqtp9p4p-cpjm-rr8c-3ql3-05dvy3ovzji2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7l5c9rzl-rcvg-3btj-ci3i-nlfng1b43jr9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 20:52
+trojan://dzsypxko-z2c8-c2w6-4o92-4bhvxd26o0h0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mpvpeakq-vh7a-ntuh-w8v8-nbgtc9a0wc6w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://157cb924-2adc-4f4e-9d54-ba105b6dff30@www.speedtest.net:443?type=ws&security=tls&path=/&sni=vip.hackers855.sbs&fp=chrome#www.speedtest.net:443
 vless://1d57f77e-e42c-4dab-923f-81925e3b00ae@www.speedtest.net:443?type=ws&security=tls&path=/&sni=vip.hackers855.sbs&fp=chrome#www.speedtest.net:443
 vless://3a067aa4-8434-4975-99b9-010e66064859@vip.hackers855.sbs:721?type=tcp&security=none&path=/#vip.hackers855.sbs:721
@@ -12,5 +12,5 @@ vless://882ed1e8-41ff-491f-8134-e0ead86b78ab@www.speedtest.net:443?type=ws&secur
 vless://dfebe207-5353-4da4-af9c-8fcbf45342b3@vip.hackers855.sbs:721?type=tcp&security=none&path=/#vip.hackers855.sbs:721
 vless://bd3aebac-d170-40c1-8e01-32f628c02b2c@vip.hackers855.sbs:721?type=tcp&security=none&path=/#vip.hackers855.sbs:721
 vless://6dbbbdfa-7368-4124-a224-f32f40fe9f89@www.speedtest.net:443?type=ws&security=tls&path=/&sni=vip.hackers855.sbs&fp=chrome#www.speedtest.net:443
-trojan://qbbj0jv1-x3zs-cx5o-esjm-q4k1lx3leut3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e82643ff-n25v-vl3j-9o54-wnjr3m7v1z80@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zmijz3aw-1m2m-jv31-mfn3-pvuuijl3744d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7a205zsv-jab5-7d8y-jiqe-i6vau2wlurvz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

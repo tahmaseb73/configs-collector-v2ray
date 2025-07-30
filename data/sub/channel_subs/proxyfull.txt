@@ -1,6 +1,6 @@
-trojan://153k1n7x-5dy6-9wfm-1ltv-d4yx7b0n7rb1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 20:27
-trojan://mi3df0j6-kxgz-8nc3-v00q-977hacq5rgi0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mnrvae5i-h25q-wzga-zf5o-ejcku9ofxqln@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://wncybjne-z8qo-9z4l-fmmy-8k2o6icgysxy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 20:52
+trojan://8k21qg11-vang-wkkv-5wi6-2idtjzr4xbmc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ouk37eeu-lmbi-16hv-b0u2-5pe88ev1yc8k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#45.87.175.190:8080
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?type=tcp&security=none#91.99.160.41:443
@@ -17,5 +17,5 @@ vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?type=tcp&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&security=none#185.231.205.231:8880
 vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&sid=877fa74f#91.99.234.241:18730
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#5.75.197.120:2025
-trojan://r8fcgzg6-wjxt-2muu-830q-a59j08wctn8o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://uyaczd3h-8eut-db42-vh35-zynv2jr04gbi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hv9trnt1-y6oo-q6yu-bogg-axf6v748swxy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qv8eu2ep-nyw2-1j66-tpj2-ztk33ogt21y2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

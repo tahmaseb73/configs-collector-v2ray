@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 01:18:36
+Timestamp: 2025-07-31 01:49:44
 Total Channels: 502
 Successful Scrapes: 468
 Failed Scrapes: 0
@@ -30,7 +30,7 @@ info_2it_channel: 107 configs
 mtproxy22_v2ray: 105 configs
 v222ray: 102 configs
 mftizi: 100 configs
-icv2ray: 92 configs
+icv2ray: 91 configs
 v2trayproxy: 89 configs
 freevpn3327: 88 configs
 Tweety_Proxy: 82 configs
@@ -44,12 +44,12 @@ v2raytg: 77 configs
 ai_duet: 75 configs
 ZibaNabz: 73 configs
 manzariyeh_rasht: 73 configs
-v2rayopen: 73 configs
 freevirgoolnet: 71 configs
 v2ra_ng_iran: 69 configs
 jiedianssr: 67 configs
 netfreedom0: 67 configs
 arv2ra: 66 configs
+v2rayopen: 64 configs
 torang_vpn: 63 configs
 v2ray_sub: 62 configs
 fastfreeconfig: 60 configs
@@ -166,6 +166,7 @@ proxyfn: 19 configs
 red2ray: 19 configs
 v2logy: 19 configs
 vpngate_config: 19 configs
+vpnplusee_free: 19 configs
 tehranargo: 18 configs
 vistav2ray: 18 configs
 freedom_config: 18 configs
@@ -179,7 +180,6 @@ parsashonam: 18 configs
 shadowsockskeys: 18 configs
 v2ray_vmes: 18 configs
 vpn_ioss: 18 configs
-vpnplusee_free: 18 configs
 WarV2Ray: 17 configs
 guard_revil: 17 configs
 iran_mehr_vpn: 17 configs
@@ -275,7 +275,6 @@ vpnkanfik: 10 configs
 catvpns: 10 configs
 eliteproxyv2: 10 configs
 ge2ray: 10 configs
-ghalagyann2: 10 configs
 imhdiyvp: 10 configs
 kurdistan_vpn_perfectt: 10 configs
 limootuursh: 10 configs
@@ -301,6 +300,7 @@ DailyV2Config: 9 configs
 configasli: 9 configs
 configforvpn01: 9 configs
 freev2raym: 9 configs
+ghalagyann2: 9 configs
 grizzlyvpn: 9 configs
 irv2rey: 9 configs
 lemonshopvpn: 9 configs

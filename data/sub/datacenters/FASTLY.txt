@@ -1,9 +1,9 @@
-trojan://13vfhiwc-1fxi-0zyt-ywa5-tfk1dwxuoilq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 08:38
-trojan://kroi9kqe-cofe-y4kw-13sd-7c9u9y5i2ktw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://j2fj19m9-4uyf-qd15-z9gs-ajhvzwh0s9wq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://54ufkiwy-78qa-amly-k4j1-ypl7t2tvgqtc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:08
+trojan://a2v64wei-x0z2-3zgz-6hz6-pl07nk1a0rtp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://t34zdx56-9jkf-i11z-21wf-qtgqvdcbx1vd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE1MS4xMDEuNjYuMjE5IiwiYWRkIjoiMTUxLjEwMS42Ni4yMTkiLCJwb3J0Ijo0NDMsImlkIjoiNWJjOTM4ZWQtZDRmYy00MTM0LTgyZTYtOGY2NmY1OGFmN2Y4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiIvP2VkPTEwMjQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzcGVlZHRlc3QubmV0In0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjY3LjgiLCJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJwb3J0Ijo4MCwiaWQiOiIzOWRiZTgzYS0zZGFjLTQzZTctOGMxNC05NzI3MDc0OWY0MjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93cz9lZD0yMDQ4In0
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443?sni=pscresearch.faculty.ucdavis.edu&peer=pscresearch.faculty.ucdavis.edu&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FASTLY ┇ 151.101.2.228
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE0Ni43NS43OC41OSIsImFkZCI6ImNvb2luZy1sdXh1cmlhbnQtYmx1ZS5nbGl0Y2gubWUiLCJwb3J0Ijo0NDMsImlkIjoiODBlN2RkNTktYjFmYy00NWEwLTk4YmUtMTQ3OGE5YWY4OWYyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpIiwidGxzIjoidGxzIn0
-trojan://7l4nlkhx-uilj-2pkc-gkf8-zc35mmqk8oro@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1g0fbz0g-kv1z-xnil-z37s-da6ejhs7yi8j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjE5NS44IiwiYWRkIjoieHZvbi5mYXN0Lmhvc3RpbmctaXAuY29tIiwicG9ydCI6ODAsImlkIjoiMzlkYmU4M2EtM2RhYy00M2U3LThjMTQtOTcyNzA3NDlmNDIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3M/ZWQ9MjA0OCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGQVNUTFkgXHUyNTA3IDE0Ni43NS45NC41OSIsImFkZCI6ImNvb2luZy1sdXh1cmlhbnQtYmx1ZS5nbGl0Y2gubWUiLCJwb3J0Ijo0NDMsImlkIjoiODBlN2RkNTktYjFmYy00NWEwLTk4YmUtMTQ3OGE5YWY4OWYyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYXBpIiwidGxzIjoidGxzIn0
+trojan://mmv0xq7m-8fot-u5mp-blv7-abpvk3x9hljs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0thyywfr-hc0q-d1m9-6dby-d0cdx2zif60c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

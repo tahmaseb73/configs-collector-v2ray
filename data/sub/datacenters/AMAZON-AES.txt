@@ -1,8 +1,10 @@
-trojan://h2xty394-vrro-l2n3-f0e9-95vff3gqbc5p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 08:38
-trojan://ydwjxwd5-myzg-hyr5-6m8f-geg7fl465y5u@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://p4xp302j-azqw-yasb-va4p-5eehnslzyhsy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AMAZON-AES ┇ 54.166.221.95
+trojan://yydvi5b3-btwy-emwt-knvj-jxfste70fi2h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:08
+trojan://e6f04qsu-tsok-8nhs-5tcn-qs5oepktzyfr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://son1zjvm-eepi-ckib-tuth-p8g3bb5bhtse@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://693f9dec-6cd9-4da2-b939-44a8acc2cff3@3.216.124.166:443?type=xhttp&security=reality&path=/client&sni=api.cloudflare.com&fp=chrome&pbk=QVt7gXuW_MWGO8RQmyaIPPRi16AuUmlR0ipE__dEWWA&sid=75#US 🇺🇸 ┇ VLESS-XHTTP-RLT - AMAZON-AES ┇ 3.216.124.166
 vless://e6be8281-680a-4758-de5f-fbf1a8461b3b@de1.iranbax.com:8443?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=nfAanecTjMD0xoIHRGsSW7coDymKsby8MmETOVwFr2o&sid=b5#US 🇺🇸 ┇ VLESS-GRPC-RLT - AMAZON-AES ┇ 13.216.111.180
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 13.216.159.175
-trojan://3wcajvq7-sljr-zavi-zesf-8uwsyztays2q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://i316mnj6-ot52-ag77-1f3s-m8c1q14r8g46@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 34.200.110.215
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-AES ┇ 44.211.47.17
+hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AMAZON-AES ┇ 54.166.221.95
+trojan://nde6z495-wa5f-wcsg-zw10-m2pgov7ve2j5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0iilyjf8-k3b1-dh61-mhfy-61sfi96rkuze@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

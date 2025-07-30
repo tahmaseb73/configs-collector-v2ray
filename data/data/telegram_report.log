@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 06:35:11
+Timestamp: 2025-07-30 07:39:24
 Total Channels: 502
-Successful Scrapes: 469
+Successful Scrapes: 470
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -20,9 +20,9 @@ v2rayng_1378: 127 configs
 selinc: 126 configs
 tgvpn6: 126 configs
 outline_vpn: 117 configs
-config_proxy: 116 configs
 freev2rng: 114 configs
 appsooner: 114 configs
+config_proxy: 114 configs
 filter_breaker: 111 configs
 satellitenewspersian: 111 configs
 armodchannel: 108 configs
@@ -33,9 +33,9 @@ farahvpn: 90 configs
 icv2ray: 89 configs
 info_2it_channel: 89 configs
 freevpn3327: 88 configs
+v2trayproxy: 87 configs
 manstervpn: 80 configs
 v2raycrow: 80 configs
-v2trayproxy: 80 configs
 manzariyeh_rasht: 79 configs
 qrv2ray: 78 configs
 vpnod: 77 configs
@@ -130,7 +130,6 @@ serverv2ray00: 23 configs
 v2ray_n: 23 configs
 v2ray_sos: 22 configs
 confing_chanel: 21 configs
-falcunargo: 21 configs
 fastvpnorummobile: 21 configs
 v2graphy: 21 configs
 v2rayngn: 21 configs
@@ -146,12 +145,13 @@ lockey_vpn: 20 configs
 mpproxy: 20 configs
 nofiltering2: 20 configs
 outlinereleasedkey: 20 configs
+proxie: 20 configs
 v2ray_free_conf: 20 configs
-v2raych: 20 configs
 vpnfail_v2ray: 20 configs
 vpnplusee_free: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
+falcunargo: 19 configs
 free1ss: 19 configs
 narco_nett: 19 configs
 outlinevpn_ru: 19 configs
@@ -160,6 +160,7 @@ proxycrone: 19 configs
 proxyfn: 19 configs
 red2ray: 19 configs
 v2logy: 19 configs
+v2raych: 19 configs
 vmesc: 19 configs
 vpngate_config: 19 configs
 arv2ray: 18 configs
@@ -169,14 +170,12 @@ flyv2ray: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
 garnet_free: 18 configs
-ip_cf_config: 18 configs
 jokerv2ray: 18 configs
 khoneproxy: 18 configs
 narcod_ping: 18 configs
 novinology: 18 configs
 orange_vpns: 18 configs
 outline_ir: 18 configs
-proxie: 18 configs
 shadowsockskeys: 18 configs
 ultrasurf_12: 18 configs
 v2ray_vmes: 18 configs
@@ -185,6 +184,7 @@ vpn_ioss: 18 configs
 tehranargo: 17 configs
 WarV2Ray: 17 configs
 guard_revil: 17 configs
+ip_cf_config: 17 configs
 iran_mehr_vpn: 17 configs
 jeyksatan: 17 configs
 mastervpnshop1: 17 configs
@@ -446,6 +446,7 @@ v2rayng_my2: 2 configs
 vpnfree85: 2 configs
 zerov2shop: 2 configs
 am20094: 1 configs
+v2ray_configs_pool: 1 configs
 eleutheriavpn: 1 configs
 fast_config_info: 1 configs
 godv2rang: 1 configs

@@ -1,6 +1,6 @@
-trojan://4welhurv-xve7-yltc-f4tr-9snes2zx6e5i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 06:35
-trojan://1cnj902i-03jl-55vw-lg5k-walcbpj4st41@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://97atpvvk-rq6s-ppka-rcte-m716h4qt2cy2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://rasdpwtz-qzgu-u1iy-zru2-vi4ye77y97vu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 07:39
+trojan://celzf7dx-ry8c-2i47-i9gt-ycveakpiadki@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qp1v7pb4-zl91-s1uv-kytg-28gk3my12wlt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?sni=inVinciBLe.fafa20.sHop&peer=inVinciBLe.fafa20.sHop&security=tls#104.17.148.22:8443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#185.148.104.141:8880
@@ -63,5 +63,5 @@ warp://::ffff:162.159.195.255:1387?#::ffff:162.159.195.255:1387
 warp://8.39.214.207:1387?#8.39.214.207:1387
 warp://8.35.211.171:500?#8.35.211.171:500
 warp://::ffff:8.39.214.207:1387?#::ffff:8.39.214.207:1387
-trojan://tweasyrv-c6mf-bfot-5iym-3ccqsyx2dzvk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mpjza30d-868t-3vnt-bq0r-t84mzqxq03ql@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8kx5zp73-oeeu-sjop-bq9v-o81na55dfiwo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://omnncacs-xt3g-lubp-6nph-gg4b89xladt6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

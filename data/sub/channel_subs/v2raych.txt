@@ -1,12 +1,8 @@
-trojan://8fs10fh2-9inh-xmbe-bx1w-t4njesgbv6zw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:49
-trojan://u3o27api-5nax-fdvz-6u9k-shmrnkp68j40@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://a609af1m-0dez-jssm-707e-vemwitm2431d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://NISHIKUITAN111@45.131.7.206:443?security=tls#45.131.7.206:443
-trojan://NISHIKUITAN111@204.93.210.216:443?security=tls#204.93.210.216:443
-trojan://NISHIKUITAN111@31.22.116.123:443?security=tls#31.22.116.123:443
+trojan://oa492sg6-r3ot-jt1j-n5hj-ul9i09pjqrre@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 01:18
+trojan://hrw03318-mm7v-jeow-2o9t-66osvpi4pu30@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://53c77hlh-9quv-2faf-upj8-lx0wq5zg6bwd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://NISHIKUITAN111@172.67.123.169:443?security=tls#172.67.123.169:443
 vmess://eyJ2IjoiMiIsInBzIjoiWzU2OTk3XSAtIFRlbGVncmFtIDogQFYyQWxsIiwiYWRkIjoiMTUuMjA0LjIzNC4yMDAiLCJwb3J0Ijo0MTEwMCwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?type=ws&security=tls&path=/b_vMtHG0xAy77bOQ?ed=2048&sni=tEl-PPaL03.CHAYA-duRgan.wOrkErS.dEv&fp=randomized#172.67.203.57:443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?type=ws&security=tls&path=/#94.131.122.76:2096
 vless://a90a8e5b-8561-4799-9de5-a7c35662cfa2@vip1.zxhost.sbs:80?type=tcp&security=none#vip1.zxhost.sbs:80
 vless://6f773786-1fe1-4bc1-9ca6-8026564076c7@www.speedtest.net:2087?type=ws&security=tls&path=/vless&sni=de-1-cbt.medicaldream.ir&fp=chrome#www.speedtest.net:2087
@@ -14,6 +10,9 @@ vless://775152cc-c811-496a-b222-d9764146203f@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?type=ws&security=tls&path=/tel-@v2ray_alpha&sni=faruzan.changli.ddns-ip.net#172.66.132.196:2096
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6tvg8d6himxkgdp2?ed=#@v2ray_confing33#104.16.85.3:8880
 vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.184.58:443?type=ws&security=tls&path=/proxyip&sni=frieren.albedo.ddns-ip.net#104.17.184.58:443
+vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?type=ws&security=tls&path=/inqabcws#45.128.54.15:443
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@114.129.43.251:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#114.129.43.251:8880
+vless://54c5231c-7379-4%657%65-%6163%65-d50b4c72350c@31.58.144.49:6666?type=grpc&security=none#31.58.144.49:6666
 vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@de1.seluna.ir:8990?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#de1.seluna.ir:8990
 vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@usa.seluna.ir:8990?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#usa.seluna.ir:8990
 vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@165.232.82.89:8990?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#165.232.82.89:8990
@@ -21,5 +20,6 @@ vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@sg.seluna.ir:8990?type=tcp&security
 vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@uk.seluna.ir:8990?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#uk.seluna.ir:8990
 vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@ca2.seluna.ir:8890?type=xhttp&security=reality&sni=refersion.com&fp=firefox&pbk=fZlxWuS-vWZhQ5PQ1VwBWsKxL6T5uKn5zSzGvnUeKhM&sid=57dae9386011aceb#ca2.seluna.ir:8890
 vless://eb80a285-5737-4597-9aba-cfcfd25f4f9b@mostaq1.seluna.ir:8890?type=xhttp&security=reality&sni=refersion.com&fp=firefox&pbk=fZlxWuS-vWZhQ5PQ1VwBWsKxL6T5uKn5zSzGvnUeKhM&sid=57dae9386011aceb#mostaq1.seluna.ir:8890
-trojan://yjzo5555-wiuj-x9dx-v2wl-na8lafnl9dd6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7ts4spfi-z70b-042g-mbiu-myb7f23gdc27@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://3edb4d4b-cb91-42ac-8135-756318d857a3@5.75.195.253:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=2jslY7dFcR14gsOun3LqiXXgqp_72YBk35VDWGwTajs#5.75.195.253:443
+trojan://eqpxznxb-lrzb-6xrw-nsyg-fagrgojupi8j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6p11vkmh-7lhx-3bc2-gzuc-iy8b4iz4o0a3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

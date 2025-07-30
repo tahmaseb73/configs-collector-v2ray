@@ -1,6 +1,6 @@
-trojan://wp848549-yr8r-jolw-8q9t-950hviualg1p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:49
-trojan://hm0zgu15-q7hv-le8t-l4lg-f0mjvjmzk69c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9822d386-9a4w-uub3-wk2g-27sjb540vjbt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://24nvw9jo-6ik9-q83h-3v8k-mdphd8dzmtv1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 01:18
+trojan://el21u1wo-cfsd-kzi0-w5t3-efpekzrr8212@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://zt0pcpmx-bryl-apfy-oom0-crjxe8ek6mb0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none#www.speedtest.net.cdn.cloudflare.net:80
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&security=none#179.61.219.170:22934
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AE19&sni=freexxx.xhamster.biz.id#freexxx.xhamster.biz.id:443
@@ -13,5 +13,6 @@ vless://e3a42c00-5212-4f7f-a6fc-61826dbee596@46.62.160.130:8443?type=tcp&securit
 vless://e3a42c00-5212-4f7f-a6fc-61826dbee596@91.99.205.12:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.205.12:8443
 vless://b28ee363-949e-4d2d-bffb-2d14d28e3ebe@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
 vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
-trojan://mbjugida-fopm-y3yd-7db6-ru31oi6z7o23@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://al2nl9c2-gb54-mwi5-uj11-ytzh0rhv90kl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://72efd5fb-8614-4549-881f-136648f914bf@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
+trojan://7g1tfe1f-wx2j-szhd-fyzp-5nczhkvq1tdw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://otasygf1-gxh2-el69-mm43-dndiql4qtkq6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

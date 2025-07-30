@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 04:33:50
+Timestamp: 2025-07-30 06:35:11
 Total Channels: 502
 Successful Scrapes: 469
 Failed Scrapes: 0
@@ -19,8 +19,8 @@ sockss_http: 134 configs
 v2rayng_1378: 127 configs
 selinc: 126 configs
 tgvpn6: 126 configs
-config_proxy: 118 configs
 outline_vpn: 117 configs
+config_proxy: 116 configs
 freev2rng: 114 configs
 appsooner: 114 configs
 filter_breaker: 111 configs
@@ -42,7 +42,7 @@ vpnod: 77 configs
 v2raytg: 77 configs
 Tweety_Proxy: 75 configs
 ai_duet: 75 configs
-hope_net: 74 configs
+hope_net: 73 configs
 jiedianssr: 73 configs
 v2rayopen: 73 configs
 freevirgoolnet: 71 configs
@@ -149,10 +149,10 @@ outlinereleasedkey: 20 configs
 v2ray_free_conf: 20 configs
 v2raych: 20 configs
 vpnfail_v2ray: 20 configs
+vpnplusee_free: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
 free1ss: 19 configs
-ip_cf_config: 19 configs
 narco_nett: 19 configs
 outlinevpn_ru: 19 configs
 parsashonam: 19 configs
@@ -162,7 +162,6 @@ red2ray: 19 configs
 v2logy: 19 configs
 vmesc: 19 configs
 vpngate_config: 19 configs
-vpnplusee_free: 19 configs
 arv2ray: 18 configs
 ghalagyann: 18 configs
 fastshovpn: 18 configs
@@ -170,6 +169,7 @@ flyv2ray: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
 garnet_free: 18 configs
+ip_cf_config: 18 configs
 jokerv2ray: 18 configs
 khoneproxy: 18 configs
 narcod_ping: 18 configs
@@ -274,8 +274,6 @@ v2ryngfree: 11 configs
 vipvpn_v2ray: 11 configs
 vp22ray: 11 configs
 vpnv2rayonline: 11 configs
-DALTON_PING: 10 configs
-dalton_ping: 10 configs
 argo_vpn1: 10 configs
 catvpns: 10 configs
 eliteproxyv2: 10 configs
@@ -297,6 +295,8 @@ v2rayng_o: 10 configs
 v2rayngvpn_1: 10 configs
 v2rayshop_m: 10 configs
 vpn_ocean: 10 configs
+DALTON_PING: 9 configs
+dalton_ping: 9 configs
 mdvpnsec: 9 configs
 vpnandroid2: 9 configs
 configasli: 9 configs

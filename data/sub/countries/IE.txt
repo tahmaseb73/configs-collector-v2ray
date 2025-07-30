@@ -1,8 +1,8 @@
-trojan://ez5nrrs4-y1uq-n1rg-coh9-0wcnxs221dcl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 04:34
-trojan://h6ub27lt-xy0v-825e-vadw-bpt099f7vofy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w0h8qm89-0itq-2iwv-ol89-b2wbpoixy2dp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
+trojan://hxhz05xw-yfvu-d837-sp1l-0xwhd8r01i2z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 06:35
+trojan://99xt0ozx-rpk3-6t5f-gy4e-wuw918f19uy2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://14e6j9sx-g6do-95mh-2yme-9zi54sml73r8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a41ec4d6-1ef3-4a00-bd24-5abcce37a40f@52.156.208.215:33371?type=tcp&security=reality&sni=sourceforge.net&fp=chrome&pbk=XknqXVFBQSpJEmo0oeKsLDeOGfhtmuurXd75BywgUlg&sid=456ad3a1b9f0#IE 🇮🇪 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.156.208.215
 trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
-trojan://kvinihr4-gnrm-w8bw-bzvq-laen7bmjf6rc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8o1c5yke-iv1o-vpp9-orkn-l84x522hav1p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
+trojan://lmawy4b2-15be-hsvp-jkxc-1lm0awuxvm0q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dw6okuil-f988-s101-ma1o-bwsrok08ffco@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

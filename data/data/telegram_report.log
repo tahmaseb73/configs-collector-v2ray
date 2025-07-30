@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 09:31:56
+Timestamp: 2025-07-30 09:57:22
 Total Channels: 502
 Successful Scrapes: 469
 Failed Scrapes: 0
@@ -13,7 +13,7 @@ prrofile_purple: 155 configs
 v2rayng3: 152 configs
 kafing_2: 146 configs
 gh_v2rayng: 145 configs
-meli_proxyy: 143 configs
+meli_proxyy: 140 configs
 wedbazvpn: 140 configs
 sockss_http: 134 configs
 v2rayng_1378: 127 configs
@@ -27,13 +27,14 @@ satellitenewspersian: 111 configs
 armodchannel: 108 configs
 mtproxy22_v2ray: 108 configs
 v222ray: 102 configs
-config_proxy: 100 configs
 mftizi: 100 configs
+config_proxy: 98 configs
 farahvpn: 90 configs
 icv2ray: 89 configs
 info_2it_channel: 89 configs
 freevpn3327: 88 configs
 v2trayproxy: 87 configs
+v2rayopen: 83 configs
 manstervpn: 80 configs
 v2raycrow: 80 configs
 manzariyeh_rasht: 79 configs
@@ -42,9 +43,8 @@ vpnod: 77 configs
 v2raytg: 77 configs
 Tweety_Proxy: 75 configs
 ai_duet: 75 configs
+hope_net: 73 configs
 jiedianssr: 73 configs
-v2rayopen: 73 configs
-hope_net: 72 configs
 freevirgoolnet: 71 configs
 v2ra_ng_iran: 69 configs
 arv2ra: 66 configs
@@ -153,7 +153,6 @@ vpnfail_v2ray: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
 falcunargo: 19 configs
-free1ss: 19 configs
 narco_nett: 19 configs
 outlinevpn_ru: 19 configs
 parsashonam: 19 configs
@@ -168,12 +167,14 @@ arv2ray: 18 configs
 ghalagyann: 18 configs
 fastshovpn: 18 configs
 flyv2ray: 18 configs
+free1ss: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
 garnet_free: 18 configs
 jokerv2ray: 18 configs
 khoneproxy: 18 configs
 narcod_ping: 18 configs
+netmellianti: 18 configs
 novinology: 18 configs
 orange_vpns: 18 configs
 outline_ir: 18 configs
@@ -188,7 +189,6 @@ guard_revil: 17 configs
 iran_mehr_vpn: 17 configs
 jeyksatan: 17 configs
 mastervpnshop1: 17 configs
-netmellianti: 17 configs
 proxy_v2box: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
@@ -408,6 +408,7 @@ mdvpn184: 3 configs
 mehduox_vpn: 3 configs
 mi_pn_official: 3 configs
 nationalproxytelegram: 3 configs
+outlineopenkey: 3 configs
 proxse11: 3 configs
 proxysudo: 3 configs
 vpnepic: 3 configs
@@ -439,7 +440,6 @@ marzazad: 2 configs
 nitrovpne: 2 configs
 oonfig: 2 configs
 orgempirenet: 2 configs
-outlineopenkey: 2 configs
 savagenet: 2 configs
 toucan_vpn: 2 configs
 v2rayng_my2: 2 configs

@@ -1,7 +1,7 @@
-trojan://36fnwb78-9lcz-ykbd-1g39-9lzt0e3w3toz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:57
-trojan://4f46jh1i-2mnr-0nhx-xfpg-4vtbz64c9vjc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v18bz8lc-hoqp-kf9l-2488-rdnanyfen442@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.2.128
+trojan://uud94111-3221-morw-f1ei-tnpgni9sd99h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:34
+trojan://ko9h8fzo-c0e9-h5ia-6k12-yhcndfa7zyv7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8nzm4xnz-gk2e-72pa-woay-xfygg7iq6j0a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?type=tcp&security=reality&sni=Tgju.org&fp=chrome&pbk=S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g&sid=b525ecd2fc#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 188.68.53.100
-trojan://yhpb6wfu-zyfh-lodu-m4e4-mzwtzaasyj2h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vt1avlgr-9vfk-jp4h-ta6b-sojighuka8e7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.2.128
+trojan://bd3bv8mb-42rz-kpac-i6b8-ac4y8ojg510n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://48fyhw7f-gnvi-jlw1-vtn1-1h6lzkpdu3tk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

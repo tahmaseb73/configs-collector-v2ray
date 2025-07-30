@@ -1,6 +1,6 @@
-trojan://nwn2x18b-8hoe-4nfp-3f9t-touslm2ze3wm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:57
-trojan://wvg7d2dd-yuea-1t6w-7bhg-gr5p99m5p7r8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1p8gai12-q46a-87px-ue4k-kb2fs9lz0cgk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://vtt6bx8r-t04g-t9no-9bre-0vbw79cjs0ka@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:34
+trojan://u5dggmd9-pwjg-bp31-ydqs-bkiyxkes5mmu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bs6gkl90-iiiv-h4ac-sdb4-q65dzlyo0iyi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://0081a47d-9396-48ac-a3e5-d4fce010e33f@mci-itv2ray.ddns.net:2087?type=grpc&security=tls&sni=ViP.iTV2RAY.lol#mci-itv2ray.ddns.net:2087
 vless://b27da426-107a-477a-961a-572a593a68e0@mci-itv2ray.ddns.net:2087?type=grpc&security=tls&sni=tm.iTV2RAY.fun#mci-itv2ray.ddns.net:2087
 vless://cdc75e44-12f2-4368-a7d7-61e3e46ea94b@mtn-itv2ray.ddns.net:2083?type=grpc&security=tls&sni=tm.iTV2RAY.fun#mtn-itv2ray.ddns.net:2083
@@ -26,5 +26,5 @@ vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@itv2ray.ddns.net:999?type=http&secu
 vless://Channel-iTV2RAY@itv2ray.ddns.net:696?type=grpc&security=reality&fp=chrome&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c#itv2ray.ddns.net:696
 vless://Channel-ITV2RAY@itv2ray.ddns.net:969?type=tcp&security=reality&path=/iTV2RAY&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4#itv2ray.ddns.net:969
 vless://Channel-iTV2RAY@itv2ray.ddns.net:696?type=grpc&security=reality&fp=chrome&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c#itv2ray.ddns.net:696
-trojan://rokuait2-q2cg-gi0b-ush4-icrkf9njdw50@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://63b4kaev-ub95-t96a-73x0-qx8c8h3qw4gv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zhnjy1j9-vqo8-aqvo-yd0f-cer3pgwv4ki3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rwltvfwe-ooh9-uv12-i4mz-i9o9rz0pwd3x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

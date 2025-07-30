@@ -1,6 +1,6 @@
-trojan://42p0y0oa-s4d2-vsob-wjkh-w32ug92cfi13@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:57
-trojan://3ddehg6b-niw1-xyox-drfq-dmlku7pfo80n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vsgw8vky-crc3-wld4-n8du-tqs8w0ndkxdk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ia2nqgar-vlqo-xkes-v99z-skgz1msvvviu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:34
+trojan://blvs7sws-n8j5-2ms7-npvx-ebdqiymagcb2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rt0cfhml-xizq-auwb-khsf-q6seh9co6q64@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8880#172.66.40.99:80
 vless://8797fcb2-f8a9-47b2-e27c-a3aeba7552b0@binex.tv.jaricopen.fun:6666?type=grpc&security=none#binex.tv.jaricopen.fun:6666
 vless://6f6af4b5-950f-404b-93ed-5307b16f9e4a@binex.tv.jaricopen.fun:2053?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#binex.tv.jaricopen.fun:2053
@@ -13,5 +13,5 @@ vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegra
 vless://48cd341c-6bb8-4e18-a59d-e2813bf02993@45.91.237.48:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&sid=e14b4583c7162e6e#45.91.237.48:443
 vless://Telegram-SRCVPN-@91.107.129.66:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3080
 vless://Telegram-SRCVPN-@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
-trojan://gtfqkdxd-g6xy-suzk-njsi-mw4tmmpqfirk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tx8hxl0o-b9kw-7eo6-jme7-zl42r00inzrl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://7chtp11q-eejx-ur2t-anmh-3glcmshwml77@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://j526kqkd-i8jp-s04e-xlfe-3lb9ud7ncs39@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://7pfslcdw-olwt-nig5-9pra-u6dcqo4z6cxk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 11:22
-trojan://yirk2cqi-ihng-d11q-uq47-elq0u8s4kanm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dlrxtjvb-l004-10li-02b5-ymulwblnh3zm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://t3cd9kp2-9jqw-u34u-eymd-qpt7khlru7lc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 11:54
+trojan://7s15fdle-zi4y-r4dl-y0af-387lvc2giud4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://g82oku3h-7jb5-rel4-j4z7-net65xbfc544@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://8797fcb2-f8a9-47b2-e27c-a3aeba7552b0@binex.tv.jaricopen.fun:6666?type=grpc&security=none#binex.tv.jaricopen.fun:6666
 vless://6f6af4b5-950f-404b-93ed-5307b16f9e4a@binex.tv.jaricopen.fun:2053?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#binex.tv.jaricopen.fun:2053
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#185.148.104.141:8880
@@ -12,5 +12,5 @@ vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegra
 vless://48cd341c-6bb8-4e18-a59d-e2813bf02993@45.91.237.48:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&sid=e14b4583c7162e6e#45.91.237.48:443
 vless://Telegram-SRCVPN-@91.107.129.66:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3080
 vless://Telegram-SRCVPN-@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
-trojan://aqd28tlj-0lr6-surj-uy7r-qy549azx8npf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ivk2fir4-516h-54bc-h69c-wkjqydptjulu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://q13idsqw-x1kd-yekv-ip9c-cbwq5rfja6q5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5a3zk1ew-9308-n4h2-95mn-swhki4h2wwxc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://26fk89mk-ir36-pwkn-xqdo-y7coubxi8sbj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:16
-trojan://jbl4lb1l-q1oh-gq67-9mic-e574wcn41dit@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://x4v3elgj-8mso-3bb7-wxxu-mf9w3djw1ypc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://id2wrttu-up18-7m03-krkf-4u9vif01tpzi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:49
+trojan://q5ha1dnp-i0zq-jm11-70zr-077kut0ggugm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://br9n8v6r-zbsl-9coo-le37-7375mh697c3j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#45.158.171.132:8080
@@ -123,6 +123,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?type=ws&security=t
 vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?type=grpc&security=none#85.209.155.9:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?type=grpc&security=none#185.8.105.254:8880
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#85.90.207.130:16635
+vless://6af1f086-ffa0-4931-a112-0d669a6713ef@37.202.235.32:10000?type=tcp&security=none#37.202.235.32:10000
+vless://50df86c0-f05c-4486-b800-7e1dca975f65@37.202.235.8:20000?type=tcp&security=none#37.202.235.8:20000
 vless://979e4105-7b3a-4ce9-9fdf-992687869d1e@138.197.13.193:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=xxBt4wWYurbjkEOZ1N4T1lOH9enyJ1GHdAynjdsw0hQ&sid=7d5b4f2ce8bbef8b#138.197.13.193:443
 vless://6967fc98-00bc-4180-b92d-b21d46058a22@uk.ukrageshark.shop:47408?type=xhttp&security=reality&path=/&sni=docker.com&fp=chrome&pbk=xCsWzWCD3XYVGHjcF8yDLd-WyTlqvIiqZZ58Rari9lk&sid=0e823321de#uk.ukrageshark.shop:47408
 vless://e2f45773-e553-47d1-b495-4f6063a8d95f@188.245.126.124:44566?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M#188.245.126.124:44566
@@ -141,5 +143,5 @@ hysteria2://22f2c759db51b3d0@109.120.135.123:12122?sni=www.google.com&insecure=1
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?sni=www.google.com&insecure=1&obfs=salamander#62.60.231.189:12123
 hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#46.17.41.189:50717
 hysteria2://123456@192.3.85.237:443?sni=bing.com&insecure=1#192.3.85.237:443
-trojan://ymd3stzz-cvb5-ax2v-3ax8-bhwh9oeuaeo4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://en39lywz-d374-d2by-5duw-i1t8kn28z3wk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://fbyweulb-dku3-2uw0-bo51-g58h5cgejsbv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rj0g016t-m6ub-ddv0-mw0j-25pqqcwwrsb8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

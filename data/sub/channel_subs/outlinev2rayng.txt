@@ -1,8 +1,6 @@
-trojan://4am5k2v8-zwbb-uufo-dv0s-7uge098ey12n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:16
-trojan://oya0c4o6-cxhk-cts4-a8g7-cd5qg80twolz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ubcltodg-00ll-9dra-xnfo-zikclw0q8wf0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.21.56.208:2087?type=ws&security=tls&path=/&sni=smart.v2plusify.org#104.21.56.208:2087
+trojan://q2aaa7zr-k4cn-zrfb-61j6-fs0fuxtq3iiw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:49
+trojan://dg3d9492-75e4-epp1-exvf-rh3hewbma1qa@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://u93tvvzp-5m8k-oxks-wuph-0px8gfb7s94l@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#wonderful-degree.seotoolsforyou.co.uk:80
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AT4&sni=web.xhamster.biz.id#web.xhamster.biz.id:443
@@ -18,5 +16,6 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?type=ws&security=
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.26.90:8443?type=ws&security=tls&path=/client/connection/socket?ed=8080&sni=mycloudproject2025.site&fp=chrome#104.18.26.90:8443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
-trojan://qoae0xyc-6pv4-z0xu-r1g4-k5pe7940dy8g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://je7lm8dk-w2qu-1vyl-7qkb-wl3i8x5ry4vz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none#95.164.45.94:8880
+trojan://dd0zlosj-8qtr-mgei-myaa-wmsvcl12qrjw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lb5gu2db-dfwb-nxul-9obl-qgates83k4c6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

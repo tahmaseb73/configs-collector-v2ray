@@ -1,6 +1,6 @@
-trojan://0vh8x70d-2ddq-kovk-t54p-tvn2nwsqox65@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:00
-trojan://oc7hba5l-7jvs-vu9t-7lh4-zfqyye6cuf0g@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://61lhsyzq-llh1-txog-9iqg-458cfdqdbg5b@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://b4gzqy7w-41jm-71zx-ypfu-937sbhjsa3aq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:50
+trojan://g6tq3xqr-47i4-7827-zgaa-2lpu4q2vxexg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vm8pdlgi-9g1u-ltgv-6rcx-39pmhle0n2aa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://Parsashonam-287@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://Parsashonam-288@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://Parsashonam-288@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
@@ -20,5 +20,5 @@ vless://Parsashonam-292@185.146.173.39:8880?type=httpupgrade&security=none&path=
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://Parsashonam-293@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
-trojan://20z6rc58-a0su-xmtn-69ng-xhvs3e1zrher@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://w2pfjrvl-36u0-lk8d-teki-cw74yngqf199@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8sh8jyxq-jv5q-9n01-v9ka-vgdz78p28e44@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://71h650p1-5mks-lroa-lef4-8egwhdhoxuwy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

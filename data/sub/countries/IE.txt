@@ -1,12 +1,13 @@
-trojan://2pgfas93-4j5w-5dwu-s084-iuo4tu1d402h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:24
-trojan://i1hd36po-qgdc-fhfq-3uup-lbmv4invfdha@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://es191v3w-o6uv-3ges-7qsk-4bs29vjxy3l1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4wgtq80m-qg8c-eg5l-cwhh-ljwvfi223y2o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:50
+trojan://hziu8328-rm3d-25tr-3iji-fdd9sf25r3qv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://p77gj3hk-3wt7-9o6l-deu6-nucbnf7l5qak@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a41ec4d6-1ef3-4a00-bd24-5abcce37a40f@52.156.208.215:33371?type=tcp&security=reality&sni=sourceforge.net&fp=chrome&pbk=XknqXVFBQSpJEmo0oeKsLDeOGfhtmuurXd75BywgUlg&sid=456ad3a1b9f0#IE 🇮🇪 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.156.208.215
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.209.204
-hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.121.222
-trojan://telegram-id-privatevpns@63.33.19.36:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.33.19.36
-trojan://telegram-id-privatevpns@54.220.73.232:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.220.73.232
-trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
-trojan://82o8v338-107d-3me5-w2cc-l5cj6yu11348@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://l6e67hgj-vleu-u8os-lz7d-7cfokr30ps31@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://telegram-id-privatevpns@54.220.73.232:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.220.73.232
+trojan://telegram-id-privatevpns@63.33.19.36:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.33.19.36
+trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#IE 🇮🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.44.237
+hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.121.222
+trojan://inpspo57-az62-cr2j-b1g8-a4v7uovjqpyb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tsebvwaz-4d7q-o2vx-vs0l-jr1aahn3u159@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

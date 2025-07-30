@@ -1,6 +1,6 @@
-trojan://e8i1zt2f-pf0c-bp2t-yson-560h86qkjdk5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:24
-trojan://ox27mivq-6aw3-ndqy-1fnt-2xase6m1tbne@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://nkmwbgjr-6ueg-u0uc-w6ov-wiv7vcugrem8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2xz0jm4q-0w67-2h5b-h4c4-ltxcvmen4h8n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:50
+trojan://jzztgasf-od43-07li-c12g-6rql2eeieimi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4oe17jpk-t3l6-jhq3-ooqb-jnbtuzilxcbi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?type=ws&security=tls&path=/?ed=2048&sni=3k.pureboy.eu.org#104.21.28.62:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?type=ws&security=tls&path=/?ed=2048&sni=3k.pureboy.eu.org#104.21.28.62:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?type=ws&security=tls&path=/?ed=2048&sni=3k.pureboy.eu.org#104.21.28.62:443
@@ -14,5 +14,5 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?type=ws&security=
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?type=ws&security=tls&path=/&sni=Bia.alLhub.Ltd&fp=random#parspack.com:443
 vless://a0dd9d17-8595-461b-bfea-9d7e7943dad6@vip1.blackhats.shop:21130?type=tcp&security=none#vip1.blackhats.shop:21130
 vless://fd1f6a64-e147-4234-a7b6-baed68029302@vip1.blackhats.shop:42592?type=tcp&security=none#vip1.blackhats.shop:42592
-trojan://ab3ubkrt-t5y7-z9n1-zodz-gys0eqglbtbg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jlbm8kos-7t3o-dkj6-72l7-1ihwnbcncq73@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tc9ml5v9-rmnh-dgz4-ood5-kloo3w86ze2y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6txo5ja5-brxh-5tw8-x0d1-t4oi4mae9mh5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

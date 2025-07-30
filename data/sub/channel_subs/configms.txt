@@ -1,6 +1,6 @@
-trojan://3i9rjxpx-36bg-8ozx-yfla-njt3gye6zder@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:24
-trojan://r73qfgun-4dtt-l0m1-zhfa-98v0hld5wz19@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rcv7lo6g-e6k8-5265-zqhb-skmwjsihimxd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://w6ocjner-fks7-807f-zrug-sx3j5q9ux54y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:50
+trojan://7061gdv1-5oeq-eysv-76ey-j7w32jmnerew@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5je644ms-twu2-qxjh-xnkt-cd2mnsfm5ofr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiJTQwY29uZmlnTXMiLCJhZGQiOiI2Mi42MC4yNDYuODYiLCJwb3J0IjoxNjYzNCwiaWQiOiI1MDI2YTRjZi0yN2Y1LTRhMzctYjY4Mi1kMmMxYTRkMTFhNGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.137.129:2096?type=ws&security=tls&path=/vRpve4WyyyBMiVSu/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&sni=FReedOM.pANoToSu.StorE&fp=randomized#172.67.137.129:2096
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?type=ws&security=tls&path=/&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#www.speedtest.net:2096
@@ -17,5 +17,5 @@ vless://204569c4-b51b-4c57-a875-7d9897fc170e@www.speedtest.net:80?type=ws&securi
 vless://5b76aea5-851b-4c51-b28d-0234927b3f7f@www.speedtest.net:80?type=ws&security=none&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80#www.speedtest.net:80
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.10:443
-trojan://7a0ekdkc-s3p2-dno1-vdzq-mdqywr9oedcc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fs7zzbtw-fdzk-8evf-46f3-vrp8vmbsjjfm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://n8p3tnq9-hip8-3xjv-ihso-u9k8t8thxgjx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://v027xrxa-krum-0wbt-pqcr-53pkpux9fdpo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

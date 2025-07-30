@@ -1,6 +1,6 @@
-trojan://7x7l0kpn-kmfr-jgic-dkzy-8kpd9vwvcd6c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:51
-trojan://7526jg52-paey-0cs2-fk5v-svevylevs8m8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kr2ackyq-niif-31a6-hi5l-zut1vc7p7vce@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://x4xzm1nr-i1hn-y3oy-pmlk-zilowgy3936d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:25
+trojan://006i5fkz-vq0d-pz4n-o1wv-h6r98pbds82b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://030nxubz-impp-11wi-qc3i-d4gm4ha7jym8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://30751956-0e39-4b40-a208-1ff32e616834@tnl2.omidkiani1.top:4600?type=grpc&security=tls&sni=panel.omidkiani1.top#tnl2.omidkiani1.top:4600
 vless://4ab4a065-1325-42e7-98c6-d5516ec4db6d@cloud.flaresub.online:8443?type=grpc&security=tls&sni=config10.radvin.online#cloud.flaresub.online:8443
 vless://4dc4d7d7-e5d8-4596-b4b4-abd9f7f75709@tnl2.omidkiani1.top:4600?type=grpc&security=tls&sni=panel.omidkiani1.top#tnl2.omidkiani1.top:4600
@@ -11,5 +11,5 @@ vless://5bb6b085-411e-4808-8c73-d4e17a7f49a4@cloud.flaresub.online:8443?type=grp
 vless://d04b9da6-2bd1-4022-86a8-915bb6b69660@tnl3.omidkiani1.top:30300?type=tcp&security=tls&sni=panel3.omidkiani1.top#tnl3.omidkiani1.top:30300
 vless://77b84bf9-4ced-447c-a629-061a74f9578d@cloud.flaresub.online:8443?type=grpc&security=tls&sni=config1.radvin.online#cloud.flaresub.online:8443
 vless://4285d575-6c97-4f24-b1e5-f424fa727ff6@tnl4.omidkiani1.top:31018?type=tcp&security=none#tnl4.omidkiani1.top:31018
-trojan://bu5x71gu-jdws-5ym6-17kn-6acqsshl6yfq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://swv473i0-12yh-m0kk-qk85-ezuj7f5m3fkb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://5xn0bbw4-330q-5za5-bqbc-h32dxq1tyn37@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cmd59582-alq6-rbkw-m0rh-eae63pfkd7bp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

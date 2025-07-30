@@ -1,11 +1,11 @@
-trojan://9sizp5qz-5opi-u2pn-pbkv-qj0ehy0aoyyu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:50
-trojan://cw8wc94m-of1z-1clv-2ka8-awhx6na5be8c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6ry2pvss-n0f6-hdb9-95dj-n7sglpxbcf1i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
-hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.46
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
+trojan://06nffmn4-n8jg-m7yi-5puz-qx6hgvz9t0ov@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:34
+trojan://aqdky0ta-kt8z-s6lh-w1b3-8yn67qoeggu8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://g0t9f1v8-mpxh-nwcn-vs5h-a99zprb0z6dx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN3JQOFd1bW9BVTJvNFREV1RJZnRh@62.210.88.22:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 62.210.88.22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@163.172.110.153:809#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.110.153
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.32
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN3JQOFd1bW9BVTJvNFREV1RJZnRh@62.210.88.22:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 62.210.88.22
-trojan://bf2pgvp9-mfwg-dnkw-tar3-2kixhkrtb2sp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hdpdewc2-4les-j7mv-0vvm-xago1rb71agv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.46
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
+trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
+trojan://l3tyxihj-8dez-cny4-dtml-tpu7quogelzp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i9t75d2p-t05q-u6ro-e13k-pmgvodxi61hh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

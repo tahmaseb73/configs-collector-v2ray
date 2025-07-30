@@ -1,6 +1,6 @@
-trojan://e2r6kvuh-kifj-0djw-irpz-g79ggk56vn0m@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:50
-trojan://5603s3o6-kxn1-bs3o-xy7e-0xg8i0sofjjy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://f6vqne13-ueic-4821-8v0d-t9gxelqthkg1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8sx0tf39-ikxo-klb8-a1vi-uh41oglvcdwn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:34
+trojan://rwzcl9xg-zhoi-tsta-x7u9-9t7gkxrpuh2w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3ch0k3ze-pgzy-z4op-9b08-ob4s5jtpjfyd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://41c0ff9e-0c4b-49a5-8338-6b9e0ffffda6@104.31.16.65:2087?type=grpc&security=tls&sni=xnxv2ray.mioRay.cfd#104.31.16.65:2087
 vless://41c0ff9e-0c4b-49a5-8338-6b9e0ffffda6@8.208.26.224:2087?type=grpc&security=tls&sni=xnxv2ray.mioRay.cfd#8.208.26.224:2087
 vless://916c9035-b5d2-4afa-a00a-93c44324db48@8.208.26.224:2087?type=grpc&security=tls&sni=xnxv2ray.mioRay.cfd#8.208.26.224:2087
@@ -16,5 +16,5 @@ vless://32f1c148-af93-4c1e-91a0-54edb315e355@xnxv2ray.mioray.cfd:2087?type=grpc&
 vless://603628f7-c8d0-42b8-8c55-907f895fe008@xnxv2ray.mioray.cfd:2087?type=grpc&security=tls&sni=xnxv2ray.mioRay.cfd#xnxv2ray.mioray.cfd:2087
 vless://6d083019-882c-4386-b96f-888a19fbf42d@xnxv2ray.mioray.cfd:8443?type=grpc&security=tls&sni=xnxv2ray.mioRay.cfd#xnxv2ray.mioray.cfd:8443
 vless://a880cb36-1d5c-4cc3-99de-056444f02651@xnxv2ray.mioray.cfd:2087?type=grpc&security=tls&sni=xnxv2ray.mioRay.cfd#xnxv2ray.mioray.cfd:2087
-trojan://rd14d34m-o4h3-8ueq-b49n-5jojxx6skz4k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hmxmq6o7-oayp-1ina-4dnq-hre4habdd5xq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1o7ar7gd-0z0o-op9q-2d3k-onv4sah1ig1k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m0st9icq-dmc7-u5kg-2yjy-be0c2f3wqjfo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

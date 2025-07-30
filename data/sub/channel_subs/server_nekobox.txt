@@ -1,9 +1,6 @@
-trojan://ctorbqdh-7w3s-qt2w-kyd2-58u2d1mph5q0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:50
-trojan://oplsd8hs-8y2p-ckrl-aicy-b1twyg827enn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://d6wkaf08-2w8u-zmv7-6m1h-yhlw4sp7nun5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://50fe59ba-b996-462f-8488-eed55dbd56a1@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
-vless://94f6760a-30f5-49f0-b15c-8bacd3103352@92.114.24.55:248?type=tcp&security=none#92.114.24.55:248
-vless://94f6760a-30f5-49f0-b15c-8bacd3103352@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
+trojan://njjv6uk9-nik5-xq2h-gw2j-1vk1zuxgk09x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:34
+trojan://p79fjr0p-8n2x-ncgw-nuby-oapfbdpwzwz0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://u9s2b9xb-2hfu-nw32-o7q1-r9ip48ggvplu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://94f6760a-30f5-49f0-b15c-8bacd3103352@92.114.24.55:248?type=tcp&security=none#92.114.24.55:248
 vless://87470610-4c08-47c2-b93f-1c3834fa9c70@92.114.24.55:248?type=tcp&security=none#92.114.24.55:248
 vless://87470610-4c08-47c2-b93f-1c3834fa9c70@92.114.24.55:248?type=tcp&security=none#92.114.24.55:248
@@ -15,5 +12,8 @@ vless://21c77329-b3d9-4d12-8e74-70244f6fd00a@92.114.24.55:248?type=tcp&security=
 vless://21c77329-b3d9-4d12-8e74-70244f6fd00a@92.114.24.55:248?type=tcp&security=none#92.114.24.55:248
 vless://59f1a270-e363-49cd-b018-234ab216e418@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
 vless://59f1a270-e363-49cd-b018-234ab216e418@iranvipen.1dlkimi.ir:248?type=tcp&security=none#iranvipen.1dlkimi.ir:248
-trojan://zvug8ani-y89p-9886-bnm4-qyjonfs5l7us@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ipkdqihf-uyvc-u211-1w6t-v0c8ttt1wv3p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://d938bea2-e8ed-4b9b-9ca1-8b5a4a84e5db@iranvipru.1dlkimi.ir:48889?type=tcp&security=none#iranvipru.1dlkimi.ir:48889
+vless://d938bea2-e8ed-4b9b-9ca1-8b5a4a84e5db@iranvipen.1dlkimi.ir:59504?type=tcp&security=none#iranvipen.1dlkimi.ir:59504
+vless://d938bea2-e8ed-4b9b-9ca1-8b5a4a84e5db@iranvipru.1dlkimi.ir:48889?type=tcp&security=none#iranvipru.1dlkimi.ir:48889
+trojan://tbb80zsy-o5ih-wq0z-k0lr-sfdeuqctny3c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7nt7b9ar-iglg-qt61-iqgi-6g1ztd12pb99@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

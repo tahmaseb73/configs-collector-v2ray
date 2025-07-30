@@ -1,6 +1,6 @@
-trojan://7a2b2wt0-5awk-uvju-a6w0-wq862h5p9gl4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:51
-trojan://5p2czubn-56ya-ivbo-4blv-b63xpuv5u3ot@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://y31yvovh-3fhq-o5ei-cdye-cmt7w1jqhi3h@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1sex9nb5-0cgq-oidu-n932-vpz5ld12haal@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:24
+trojan://6inlkp7r-wfz0-bc2w-eu4o-1pt2i5jv9e67@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qnhdtn5o-wmg1-p81n-041q-cztmull5cypb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#64.74.163.218:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#45.87.175.65:8080
 vless://d536a85b-f178-42a4-90cb-69ccc7715eaa@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
@@ -22,5 +22,5 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&security=none&path=/xhttp#91.99.181.47:8443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
-trojan://ss79bpny-8nfo-uocx-7du7-7z3ee9hefcwq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ekdxck5m-1ltn-8q9t-85x6-jxvzgkbnsy0n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://orversy8-aylc-mdny-av4p-676g3p1yyg2j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uyylkjl8-vnix-kop7-cctw-ve9kxzxl3ca3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

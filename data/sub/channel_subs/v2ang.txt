@@ -1,6 +1,6 @@
-trojan://3kd84pr3-uidd-213a-z54q-72j8e7pvk6t4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:51
-trojan://fvp8loa3-spnv-v49r-x3zk-8fn1mt8n2rlp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dt15o5kl-dx05-ehvx-c8aw-qqm5bljg7106@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://734j6qn0-ntb8-ee14-020s-9sbwiwk18imb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:24
+trojan://kpkq9qnx-1bop-h5l0-eev3-tulabk7qyp8v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://raiuaygb-f19w-qt19-z1hd-iddyxzkaqlpu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#series-a2-me.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#series-a2-me.samanehha.co:443
@@ -9,5 +9,5 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?type=ws&sec
 vless://439dbc9e-5519-40ae-9856-47070807d87a@discord.gg:2087?type=grpc&security=tls&sni=blog159.v2box.lol&fp=chrome#discord.gg:2087
 vless://439dbc9e-5519-40ae-9856-47070807d87a@discord.gg:2087?type=grpc&security=tls&sni=blog159.v2box.lol&fp=chrome#discord.gg:2087
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?type=ws&security=tls&path=/fflsws&sni=lmn39.sbs#104.31.16.36:443
-trojan://902y69tr-1wuf-zalu-2xd3-cwy1pyafm1gn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://243wh7fm-i7tn-ett9-uidh-df8avx8n8ljf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8036d6yu-7rf7-6ngx-yu8v-du79t7jfqw9c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5g1m50x3-eju4-vuv4-irqa-bf818xn7jae2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,23 +1,22 @@
-trojan://fskjei83-nmv2-04yx-27oa-pcj69f2xi8wq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:51
-trojan://h0xqc0fu-n7fk-r83b-3v8y-iurznvtgzgl6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://m3ec3f5q-5b7x-o9j8-m9y4-4fsrgusvi0xl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4hs64kd9-u16f-49u2-rrds-fcnuky75vkx1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:24
+trojan://57zdm8oc-itll-dfzg-jnso-e1su2mg6907f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://culkix5f-jewv-qqti-rpba-bw12dj0h2ecn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#fin.outlinebot1.ru:5904
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#45.87.175.192:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#fin.outlinebot1.ru:5904
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?sni=production.tj.ojan.workers.dev&peer=production.tj.ojan.workers.dev&security=tls#production.tj.ojan.workers.dev:443
-trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?security=tls#391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?sni=vzwzasc.cn&peer=vzwzasc.cn&security=tls#104.149.155.13:443
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOC4yMTQuMzMuMTU4IiwicG9ydCI6ODAsImlkIjoiY2I4MWU2YWItMWQ4My00YWMxLWYwYWQtYWU1YzJhN2MyOWVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTEuNzkuMTAyLjI1MyIsInBvcnQiOjgwLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE4LjE0OS43NiIsInBvcnQiOjQ0MywiaWQiOiJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InVzLmtrcC5tZS5ldS5vcmciLCJwYXRoIjoiL2FhIiwidGxzIjoidGxzIiwic25pIjoidXMua2twLm1lLmV1Lm9yZyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjI1My4yNi4xMzQiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE4LjE0OS43NiIsInBvcnQiOjQ0MywiaWQiOiJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InVzLmtrcC5tZS5ldS5vcmciLCJwYXRoIjoiL2FhIiwidGxzIjoidGxzIiwic25pIjoidXMua2twLm1lLmV1Lm9yZyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM0LjE5NS4xOTguMTQ3IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM0LjE5NS4xOTguMTQ3IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#162.120.94.251:8880
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM0LjE5NS4xOTguMTQ3IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM0LjE5NS4xOTguMTQ3IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#162.120.94.251:8880
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@159.246.55.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#159.246.55.251:8880
+vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?type=ws&security=tls&path=/gflzprws&sni=638879176706376779.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
 vless://---WLFVPN---@wlf-v-p-n-id2.dnsfree.one:443?type=tcp&security=reality&sni=www.yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2#wlf-v-p-n-id2.dnsfree.one:443
-trojan://uo0ksrxh-hppr-hsjp-8vop-wvya5j5rvvww@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vsgvjviw-on79-kakv-d73f-ikhkl4h4vt2i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lcctrmp1-17pz-wszb-x03k-zkb1c537cp5g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vtypnwmk-vvmy-63xm-tkz2-gce50wuf46jq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

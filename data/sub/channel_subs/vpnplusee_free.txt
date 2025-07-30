@@ -1,7 +1,6 @@
-trojan://il5771lf-fy3v-d8nu-fgzi-f75xkzsus1pz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:48
-trojan://0yx1pts2-yqsc-8diy-r125-30fb12qdymve@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://r4rufsrl-hm08-2ovx-ibwi-y7ly5eyogmgs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&security=none#86.48.24.154:5900
+trojan://765hylq0-et6i-3871-8v6z-yci895kkbgho@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 15:16
+trojan://9vb6dnie-2eis-fteu-s05h-dd2c4hy0lcj7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2ov2qj3y-mt1h-cqkl-vz6b-4y4qpa2rlgmn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.217:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#51.44.54.217:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.220.128:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.220.128:22224
 vless://4e1be948-3942-4819-826d-6bbe4fc84982@193.169.105.181:14255?type=tcp&security=none#193.169.105.181:14255
@@ -19,5 +18,6 @@ vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegra
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?type=xhttp&security=none&path=/xhttp#91.99.132.59:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.134.157:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.37.134.157:22224
 vless://59f1bf5e-db7f-4360-8cad-a72d66667476@panel.mitojikok.xyz:2087?type=grpc&security=reality&sni=start.ubuntu.com&fp=chrome&pbk=ZASJbDQvPZZEscD-nhtMX6yyaixte9pYYEU8PfIFujY&sid=a031e8#panel.mitojikok.xyz:2087
-trojan://qb2s9elo-sddk-qd6n-4txg-t2rfj9pchc5w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qox09i0k-84m1-9ri4-sxe0-e0c5cja48lxb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://78c22707-acf6-4d32-b172-5f61c3c0f220@direct2.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct2.yasharteam.com:443
+trojan://i8z6xpiw-noq3-ppcq-zild-da3t5u5kr3em@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i9z4f5dg-tbrp-xa20-h4ga-a5679z62vww3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

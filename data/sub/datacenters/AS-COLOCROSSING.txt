@@ -1,13 +1,12 @@
-trojan://o6qofv7p-ohvo-6x10-tvhs-fxi3ft1iyahh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 03:18
-trojan://oguycugl-c9hv-gwv7-rb4u-2b3vee5bw1kd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e15l80qp-x6no-ww2l-sa6o-un9qsdqnm5qv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://noez4odh-1ij2-upcj-b6i4-eusz0wg28nn8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 04:34
+trojan://b8fgw1ut-qpwz-65zr-9fzl-5pedzkgv6vop@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rescin7f-2sh5-wq34-tusv-oey21kwh7231@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&sid=a0209e22#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 198.23.206.26
 hysteria2://123456@192.3.85.237:443?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 192.3.85.237
-hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 107.173.37.52
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 104.168.34.109
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org&peer=rc8.freeguard.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-COLOCROSSING ┇ 192.3.107.252
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org&peer=rc6.freeguard.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-COLOCROSSING ┇ 198.23.229.250
-hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 192.227.152.86
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 107.173.37.52
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtQ09MT0NST1NTSU5HIFx1MjUwNyAyMy45NS4xNjQuMTkwIiwiYWRkIjoiMjMuOTUuMTY0LjE5MCIsInBvcnQiOjgwLCJpZCI6IjIxMTFlYmE0LWZjYTQtNDA2YS1hYTg4LWFiYjUxMzFjNzA4OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2JiIn0
-trojan://94nshmt3-21h5-4fvx-9h5o-b9dgdv1yxcsd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ncus026r-v9yp-1wra-4dzn-i86shlw0yg3p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 104.168.34.109
+hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AS-COLOCROSSING ┇ 192.227.152.86
+trojan://v6jmdy73-o5l1-fcla-kmbt-3ads7ti9sm73@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hj8xvsin-zc3u-47gi-xy6t-hvj6img13m9v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

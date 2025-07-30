@@ -1,6 +1,6 @@
-trojan://6n3fh8vu-un79-p91i-fa3p-c8n4yrg6hrdc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 03:18
-trojan://auu2dxo6-ija5-rqu4-8y6q-0s5k6ottz93k@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2nup7v39-4xrr-7jth-7zye-17wbu079h9eb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://434fxpcb-knn7-3ecf-bavr-krbiqk3gcbaa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 04:34
+trojan://zco9637k-e3vm-mll0-puh2-jd8rcu9xcc4m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://b6mrimh1-gwmu-wgam-msvr-wnyur08o3phe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://180544fa-fe95-4f71-92da-9af1d05ce86d@aule.manwe.ir:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#aule.manwe.ir:443
 vless://a5a14e7d-4267-4fea-895e-82def329d1d4@aule.manwe.ir:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#aule.manwe.ir:443
 vless://bdf79d37-877b-4727-b45a-5ba235a01a24@aule.manwe.ir:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#aule.manwe.ir:443
@@ -19,5 +19,5 @@ vless://b0d51fa0-20e8-447c-832a-c24546a74595@104.21.62.144:443?type=xhttp&securi
 vless://2241fa5e-4187-404e-bb29-a2a3299ddd1b@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://c5c7f099-17fa-40d6-8217-d3f5e44f555f@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://f624d719-b18b-4e9b-8d32-0c987b3348b4@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
-trojan://20tskeh5-85ey-ndlk-9rfa-gzuek4wt78h6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://83e2h5d1-czu9-n867-pddf-6y54jjxa9v7h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://c52529pe-vbf3-n5dj-p9eq-5jj2ed075lzk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://86x2mp0a-hto6-2dt6-9glu-yl539w6f23jo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

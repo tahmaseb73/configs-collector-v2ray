@@ -1,6 +1,6 @@
-trojan://bihgw1z1-xvxu-7089-hmde-53a3ev3aa5g3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 22:31
-trojan://uigtjz8d-zz5b-2lgs-3mfz-h6j5sz496z7r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://c0pgu08x-fdge-7bz8-nfvm-qwzd1lghktkr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zqpdh39h-d60l-daje-ibx9-91rhv9fumhwn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 22:51
+trojan://snwg9zd7-e2fw-c0db-451i-tkpy9bokqcjr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://yh864c0m-qohy-m8il-k7lt-nu4y8v9ojkua@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHdlYXJlc3RhbmQgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjI3XHUwNjQ0IFx1MDY0NVx1MDYyNyIsImFkZCI6IjUuNzUuMTM5LjIwMSIsInBvcnQiOjgwLCJpZCI6IjVlMzM0MDQ5LTE5NzMtNGJiNi04MmIwLTNlYzMzZTI1YWFlMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQHdlYXJlc3RhbmQgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjI3XHUwNjQ0IFx1MDY0NVx1MDYyNyIsImFkZCI6IjE4OC4zNC4xOTkuOTQiLCJwb3J0Ijo4MCwiaWQiOiJhZTkwMWMwZS1jNWQ0LTRiMDAtYWI0NS1hMzllMGMyNzdlZDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQHdlYXJlc3RhbmQgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjI3XHUwNjQ0IFx1MDY0NVx1MDYyNyIsImFkZCI6IjE5NS4yMDEuMjQuMjQ3IiwicG9ydCI6ODAsImlkIjoiNGMzZmI3MzctZGU1OS00Yjc4LWE2NmYtNWY0ZjAzOTI1MmE0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwifQ
@@ -57,5 +57,5 @@ vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@104.16.209.12:8443?type=ws&security
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?type=ws&security=none&path=/http#51.75.30.8:80
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@pardazeshvpn-tg20.pages.dev:443?type=ws&security=tls&path=/&sni=pardazeshvpn-tg20.pages.dev&fp=randomized#pardazeshvpn-tg20.pages.dev:443
 vless://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096?type=ws&security=tls&path=/&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random#avval.ir:2096
-trojan://z8fh6vg8-9gz0-9myr-qjg0-l6v260kygp1r@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://v8g8wjlt-v0nj-6u3f-aw0x-miu3g8ryiqy2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://d96caqwq-h22p-xey4-uruj-icu89ynow3tg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://zt9somuv-qnit-cjvi-kswd-so8gvx31f4ts@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

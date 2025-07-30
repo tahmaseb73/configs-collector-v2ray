@@ -1,6 +1,6 @@
-trojan://ntwdb6nr-sawg-98rn-ykm0-2yirjpxgti0f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 22:31
-trojan://d4ewx8cs-rdrz-6zqd-4dpk-yrh3ka0e2qck@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wdxdqrdz-qcpg-shsc-x1qt-2vw2jc8nfczj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://u1f6kw7q-4m90-1yyv-4lzr-0a01r7jo5f4m@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 22:51
+trojan://l96fb977-tici-k200-46h8-zaq5i3nqfkrz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://f4dvnnk4-y2gl-4ck8-5vma-3qxny4ghbq73@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1QEZyZWFrQ29uZmlnIiwiYWRkIjoiMTkzLjE1MS4xNTEuOTMiLCJwb3J0Ijo1MjI2MiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIEBWcG5tYWxsQm90IiwiYWRkIjoiZmluMS5uc3BheS50b3AiLCJwb3J0IjozNTYwMCwiaWQiOiI1MDMxN2QyOS03MDVmLTRlZTYtODQ2YS1mYTZlNGYyNjA0YzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEB2cG5tYWxsYm90IiwiYWRkIjoiZ3IxLm5zcGF5LnRvcCIsInBvcnQiOjM1NjAwLCJpZCI6IjUwMzE3ZDI5LTcwNWYtNGVlNi04NDZhLWZhNmU0ZjI2MDRjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -27,5 +27,5 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?type=ws&security=
 vless://f328ff4f-8b6f-4c13-bded-bc1e76076b77@gr1.vpnjantit.com:10002?type=ws&security=tls&path=/#gr1.vpnjantit.com:10002
 vless://0f07e95a-0a71-4f43-bd78-243645440ede@am.vpnfreedom.tech:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&sid=64#am.vpnfreedom.tech:443
 vless://0f07e95a-0a71-4f43-bd78-243645440ede@am.vpnfreedom.tech:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&sid=64#am.vpnfreedom.tech:443
-trojan://p2kdwk8r-p1cu-ahov-wltj-5qh3lvob97ca@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://n5r7ciih-t05l-683c-1yv5-qn0vnkdq1rs1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://f15jdi44-oz7r-pei8-qpjv-nyzz623zipkq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yol7ulxq-yli1-h752-0u0k-1etixf2r9xb0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

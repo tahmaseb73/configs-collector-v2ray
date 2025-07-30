@@ -1,9 +1,6 @@
-trojan://765hylq0-et6i-3871-8v6z-yci895kkbgho@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 15:16
-trojan://9vb6dnie-2eis-fteu-s05h-dd2c4hy0lcj7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2ov2qj3y-mt1h-cqkl-vz6b-4y4qpa2rlgmn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.217:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#51.44.54.217:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.220.128:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.220.128:22224
-vless://4e1be948-3942-4819-826d-6bbe4fc84982@193.169.105.181:14255?type=tcp&security=none#193.169.105.181:14255
+trojan://y6ywk3o4-9ntr-t5ji-nol7-hjurv2jttqk0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:00
+trojan://sgwwy14q-yjnw-t78a-hct4-397c4ioypi2c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gnzwa6sn-cqq9-adaf-fk9k-gimq55gxdbas@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f636b3b3-e624-41e2-933d-98a2f96937e9@mci.dl101movis.ir:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#mci.dl101movis.ir:80
 vless://f636b3b3-e624-41e2-933d-98a2f96937e9@fx.ircloudmarket.com:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#fx.ircloudmarket.com:80
 vless://2379092b-964e-4183-8cb9-d6e0044420a2@speedy.mooo.info:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#speedy.mooo.info:80
@@ -17,7 +14,10 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?type=tcp&security=
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=ePi.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?type=xhttp&security=none&path=/xhttp#91.99.132.59:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.134.157:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.37.134.157:22224
+vless://6f6af4b5-950f-404b-93ed-5307b16f9e4a@binex.tv.jaricopen.fun:2053?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#binex.tv.jaricopen.fun:2053
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
+vless://ba56e95b-10fe-43d3-aaa2-417b0df52adf@de2.leperfume.ir:2323?type=xhttp&security=none&path=/Bmarz#de2.leperfume.ir:2323
 vless://59f1bf5e-db7f-4360-8cad-a72d66667476@panel.mitojikok.xyz:2087?type=grpc&security=reality&sni=start.ubuntu.com&fp=chrome&pbk=ZASJbDQvPZZEscD-nhtMX6yyaixte9pYYEU8PfIFujY&sid=a031e8#panel.mitojikok.xyz:2087
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@direct2.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct2.yasharteam.com:443
-trojan://i8z6xpiw-noq3-ppcq-zild-da3t5u5kr3em@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://i9z4f5dg-tbrp-xa20-h4ga-a5679z62vww3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://a92oj8rh-731g-8tck-ky7z-t6f0ablbtuf3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://klsdxvgz-srds-c3mk-bs1a-fdjq1y5kj7cj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,11 +1,6 @@
-trojan://51mnrar0-yeoe-iqrc-jkdf-chtx6qi2unda@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 15:16
-trojan://06wark16-dbn7-pbps-xvzp-1icxzu1c319h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ye0ppdzv-3542-99yc-zkql-eniy4x9dxp2h@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell.sbarshia.ir:2053?type=tcp&security=none&path=/path#irancell.sbarshia.ir:2053
-vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell.sbarshia.ir:8880?type=tcp&security=none&path=/path#irancell.sbarshia.ir:8880
-vless://168ff749-f14d-4092-a456-cdaf25afc290@s3.sbarshia.ir:2065?type=tcp&security=none&path=/path#s3.sbarshia.ir:2065
-vless://168ff749-f14d-4092-a456-cdaf25afc290@s3.sbarshia.ir:6739?type=tcp&security=none&path=/path#s3.sbarshia.ir:6739
-vless://168ff749-f14d-4092-a456-cdaf25afc290@s2.sbarshia.ir:6040?type=httpupgrade&security=none&path=/#s2.sbarshia.ir:6040
+trojan://rj1h0b0b-colr-lnqq-59z7-eviy532s8v84@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:00
+trojan://2ksa70y9-0d6d-s1bp-cwao-c1l7q7ceni00@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4q49wx6t-ggkw-ivkt-xea1-a0q6c6svukzo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?type=ws&security=none&path=/?ed=2590#n0.asmdns.net:2082
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
@@ -63,8 +58,6 @@ vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&secur
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2560&sni=zzula.ir&fp=chrome#www.speedtest.net:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=zzula.ir&fp=chrome#www.speedtest.net:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?type=ws&security=tls&path=/hajmi?ed=2560&sni=parsdl.xyz&fp=chrome#104.26.6.89:443
-vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:2095?type=tcp&security=reality&sni=snap.ir&fp=firefox&pbk=c7S104FqE1TNyQ39PoMoCxYpJkyKpC-gdOuwlzGOphg&sid=14bae9cf136fce37#irancell2.sbarshia.ir:2095
-vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:8443?type=tcp&security=reality&sni=miare.ir&fp=chrome&pbk=GkCxlHoVtlBNunDhQfYrz9QunYg3NhMRsKOscdrG83E&sid=14bae9cf136fce37#irancell2.sbarshia.ir:8443
 vless://c97efd65-10e4-4014-8725-19e4e3014574@geteway.nub-shop.ir:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=sqPEvDuHhNvglx0mxSX1tUharYmm-rb-0yGXEvIrbhA&sid=83b0fe5e2e457b59#geteway.nub-shop.ir:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=ios&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#reality.sbarshia.ir:443
@@ -80,6 +73,7 @@ vless://2be7495d-847b-40ea-a517-b5779effb7ac@s2.sbarshia.ir:8443?type=tcp&securi
 vless://376a6939-9876-4e54-84f7-02376b4c510c@all85-vip.f-sub.com:2434?type=tcp&security=reality&sni=www.chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#all85-vip.f-sub.com:2434
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=ios&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&security=reality&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=cd0b#91.99.153.13:443
+vless://f68c2019-91ee-43b0-803c-e66445f66eba@94.141.123.233:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#94.141.123.233:443
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#flymg.flylink.cyou:35210
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#flymg.flylink.cyou:35210
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210?sni=flymg.flylink.cyou&insecure=1&obfs=salamander#flymg.flylink.cyou:35210
@@ -113,5 +107,16 @@ hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-fr-01.ppldata.xyz:30000
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-fr-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#network-fr-02.ppldata.xyz:30000
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-se-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#network-se-01.ppldata.xyz:30000
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-se-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#network-se-02.ppldata.xyz:30000
-trojan://t45htap2-v028-hvmm-shvz-ajaohxhcnfwe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://57berptc-nx94-gfuu-k76f-1wpezm8iyuf6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651?sni=jnd.dport.top&insecure=1&obfs=salamander#jnd.dport.top:33651
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651?sni=jnd.dport.top&insecure=1&obfs=salamander#jnd.dport.top:33651
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651?sni=jnd.dport.top&insecure=1&obfs=salamander#jnd.dport.top:33651
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@fg.dport.top:33652?sni=fg.dport.top&insecure=1&obfs=salamander#fg.dport.top:33652
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@dg.dport.top:33653?sni=dg.dport.top&insecure=1&obfs=salamander#dg.dport.top:33653
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@bx.dport.top:33654?sni=bx.dport.top&insecure=1&obfs=salamander#bx.dport.top:33654
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@hg.dport.top:33656?sni=hg.dport.top&insecure=1&obfs=salamander#hg.dport.top:33656
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@rb.dport.top:33657?sni=rb.dport.top&insecure=1&obfs=salamander#rb.dport.top:33657
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#teq.dport.top:33658
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@hl.dport.top:33659?sni=hl.dport.top&insecure=1&obfs=salamander#hl.dport.top:33659
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@mg.dport.top:33650?sni=mg.dport.top&insecure=1&obfs=salamander#mg.dport.top:33650
+trojan://lzxbdh4m-d10n-nqhu-jal5-g7s0dphtbc8f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ogucvqmu-a64x-q4fo-12ym-mdpdvr7p4509@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

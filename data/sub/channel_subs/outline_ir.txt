@@ -1,6 +1,6 @@
-trojan://b36qo953-tcih-t243-sxt4-67mg3w7m1r7d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 15:16
-trojan://4c56ephd-qwcr-gtbd-bclt-3ggswuo5j19b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qp60ji3k-pacz-c4pg-6qnp-l84nexl3qtrp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1bjzus8g-umds-pd6h-ur1s-zkwxtuvxejwk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:00
+trojan://58g96ie2-v1rw-yzmw-6h5t-srwure89zbn1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bdl8n1ne-v3f5-k2x9-e9qz-0aq9b5kcsky9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
@@ -8,7 +8,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#92.118.205.228:990
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
-vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&security=none&path=/MsV2ray?ed=80#www.speedtest.net:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?type=ws&security=tls&path=/&sni=teslakit1.pages.dev#188.114.97.202:8443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
@@ -20,5 +19,6 @@ vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952?type=tcp&security
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.187.196:2020?type=tcp&security=none#91.99.187.196:2020
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.21.67.12:443
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?type=tcp&security=none#51.222.84.59:14643
-trojan://q1sstp5g-ur72-4ovp-rhae-bj1nnluk6kcl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3iesevr7-66ky-7ho7-zm8a-f8spmk7kdu36@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?type=ws&security=none&path=/HBRQp44s2AcLDzpm?ed=2560#104.21.54.198:8880
+trojan://f75artjf-jh5y-v1de-tj20-pn2xw9ecfhz9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://zryt4so2-pl1q-khfq-nlmi-b025v1pxp5e4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

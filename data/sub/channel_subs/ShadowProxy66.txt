@@ -1,6 +1,6 @@
-trojan://qbyfurqz-lfqf-qnyi-zc5l-mkbd8ke6fnyw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:50
-trojan://s409cn07-vmio-oyb1-g63n-lknc8i3xzmac@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1acbfhun-lnld-o9qt-us7u-qe4qlf6ot37m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jp6w0g72-1joh-7sp8-xlfm-vb0aastx0dk7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 19:22
+trojan://3pagzpdx-4q9t-qm42-3shf-m3fu9cge27nr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i6n1om6l-ojsc-g5sa-0yur-i7obft8yn4ej@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIiwiYWRkIjoiMjE2LjE3My42OS4yNTAiLCJwb3J0Ijo4NDQzLCJpZCI6IjkxMzgyMDkyLTIzMzAtNDU1Yi04YTFjLTljMTI5Y2ZlNjYxYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwiYWRkIjoiMjE2LjEyOC4xNDkuMzMiLCJwb3J0Ijo4NDQzLCJpZCI6IjczZWI2NDUyLTIxZTUtNDIwNS1iZDM2LTU5YTIwYTUyMTdiYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=random#www.bankonbasak.com:443
@@ -59,5 +59,5 @@ warp://::ffff:162.159.195.255:1387?#::ffff:162.159.195.255:1387
 warp://8.39.214.207:1387?#8.39.214.207:1387
 warp://8.35.211.171:500?#8.35.211.171:500
 warp://::ffff:8.39.214.207:1387?#::ffff:8.39.214.207:1387
-trojan://b3can9rc-hv4n-vcmk-zs7q-9h9y43rjwenb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://9pdadxko-bnwk-4xfm-rp1y-31pxj345gkvd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://871ox4gh-go5b-4c7j-d1pn-gm81u9v24k5g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://mtlpalmt-lhru-57mn-u0gm-sujpf2k6w3qb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

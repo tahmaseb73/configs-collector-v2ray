@@ -1,6 +1,6 @@
-trojan://d8lti9u2-oypu-93ag-x8oq-f5xhvlp7ii5i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:50
-trojan://awiz28zd-zu0r-wdnk-aihp-hp76j0393t51@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w6yqkx64-tuqo-lfpd-qbri-lsvdg8olwnk9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://qe0i6d0p-sqsr-oxcn-73rz-okyrqobddp7a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 19:22
+trojan://ngydjypb-tgqj-k5bb-hr3i-e4kd9k31q12c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://w44nx26l-wtp3-kd3l-oley-3ywmqbz5ysja@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiLiIsImFkZCI6IjUxLjc5LjEwMi4yNTMiLCJwb3J0Ijo4MCwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIifQ
 vless://7a711d4e-6606-4e1c-b228-7979511a8459@172.66.40.99:8080?type=httpupgrade&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080#172.66.40.99:8080
 vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?type=ws&security=tls&path=/tel-@v2ray_alpha=?ed=2560&sni=mmd-p9k.PagEs.Dev&fp=chrome#172.66.132.196:443
@@ -15,5 +15,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none#95.164.45.90:8880
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?type=ws&security=tls&path=/&sni=F1.paRsa.fiLegEar-Sg.Me#188.114.96.6:443
 vless://72059c29-a302-4bbd-a67a-ed0119fb754e@77.110.103.21:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4&sid=19dc3c81#77.110.103.21:50810
-trojan://sou63eyk-sb8z-yfqb-sr9c-ggm0p4wsrk6i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://64pll3aj-59wr-6xe2-3svg-h7eou1yo5ibq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4iv5dble-b5pi-ikdi-zht6-wlz9zpjh34ay@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://p8aovrfl-125a-u3zn-ciez-x7kr0xbr38wk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

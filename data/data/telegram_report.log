@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 14:25:27
+Timestamp: 2025-07-30 14:48:37
 Total Channels: 502
-Successful Scrapes: 469
+Successful Scrapes: 468
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -62,13 +62,13 @@ bored_vpn: 54 configs
 free_serverir: 53 configs
 tobevasl: 53 configs
 v2rayngconfig: 52 configs
+freenet_melli: 50 configs
 mehrosaboran: 50 configs
 vpn451: 50 configs
 v2ray_v_vpn: 48 configs
 expressvpn_420: 47 configs
 maradona_vpn: 46 configs
 v2rayngconfings: 46 configs
-freenet_melli: 45 configs
 vmessorg: 43 configs
 v2rayngalpha: 43 configs
 vpn_meliii: 43 configs
@@ -113,13 +113,13 @@ ConfigX2ray: 29 configs
 canfing_vpn: 29 configs
 mowjproxy: 28 configs
 vmessiranproxy: 28 configs
-zerobaipiao: 28 configs
 darkma3ter24: 27 configs
 dgkbza: 27 configs
 Greenvpn2: 26 configs
 customizev2ray: 26 configs
 itv2ray: 25 configs
 megavpn_link: 25 configs
+zerobaipiao: 25 configs
 spikevpn: 24 configs
 v2rayfast_7: 24 configs
 iran_access: 24 configs
@@ -149,7 +149,6 @@ mpproxy: 20 configs
 nofiltering2: 20 configs
 outlinereleasedkey: 20 configs
 v2ray_free_conf: 20 configs
-v2raych: 20 configs
 vmesc: 20 configs
 vpnfail_v2ray: 20 configs
 arv2ray: 19 configs
@@ -157,12 +156,14 @@ lexernet: 19 configs
 configv2rayforfree: 19 configs
 ip_cf_config: 19 configs
 narco_nett: 19 configs
+outline_ir: 19 configs
 outlinevpn_ru: 19 configs
 parsashonam: 19 configs
 proxycrone: 19 configs
 proxyfn: 19 configs
 red2ray: 19 configs
 v2logy: 19 configs
+v2raych: 19 configs
 vmess_ir: 19 configs
 vpngate_config: 19 configs
 vpnplusee_free: 19 configs
@@ -182,7 +183,6 @@ narcod_ping: 18 configs
 netmellianti: 18 configs
 novinology: 18 configs
 orange_vpns: 18 configs
-outline_ir: 18 configs
 privatevpns: 18 configs
 shadowsockskeys: 18 configs
 v2ray_vmes: 18 configs
@@ -217,7 +217,6 @@ free4allvpn: 15 configs
 minovpnch: 15 configs
 proxy_net_meli: 15 configs
 realvpnmaster: 15 configs
-server_nekobox: 15 configs
 tiny_vpn_official: 15 configs
 v2rayvmess: 15 configs
 v2rayvpnchannel: 15 configs
@@ -234,6 +233,7 @@ hoshmasnoiyfarsi: 14 configs
 kurdvpn1: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
+server_nekobox: 14 configs
 v_2rayngvpn: 14 configs
 father_vpn: 13 configs
 hopev2ray: 13 configs
@@ -414,7 +414,6 @@ vpnepic: 3 configs
 vpnmeg: 3 configs
 colsvpn: 2 configs
 ineronix: 2 configs
-v2ray_configs_pool: 2 configs
 ansel_team: 2 configs
 armod_iran: 2 configs
 artemis_vpn_free: 2 configs

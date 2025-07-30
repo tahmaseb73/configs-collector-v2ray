@@ -1,16 +1,16 @@
-trojan://ydsf6bmg-7wxl-u4u4-4g2w-u90vzspziukq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:25
-trojan://f158wa3o-s2u8-me00-vt5f-nj9f6i1xbysw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qp7x70w2-dn5j-t2ar-usj6-i0o9r7x182ah@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3tocqh0z-zgog-qj9c-dgrd-nu12p4dipm3g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:48
+trojan://yfofafid-5ylq-vo0d-erzo-0hj9e3m890lx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ejfdwaqu-au3h-7myy-yr0e-tph3hcdgtef6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#series-a2-me.samanehha.co:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#104.192.226.106:989
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@217.30.10.18:9019#217.30.10.18:9019
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#217.30.10.18:9088
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#81.19.140.31:65305
 trojan://telegram-id-privatevpns@18.153.144.90:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#18.153.144.90:22222
 trojan://telegram-id-directvpn@63.177.185.232:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.177.185.232:22223
 trojan://telegram-id-directvpn@13.37.134.157:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.37.134.157:22223
 trojan://telegram-id-privatevpns@63.177.185.232:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.177.185.232:22222
 trojan://telegram-id-privatevpns@13.37.134.157:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.37.134.157:22222
-vmess://eyJ2IjoiMiIsInBzIjoiUmF5YW4gLSBTU1QgLSBERSAtIEkgLSBcdWQ4M2RcdWRjYWUgdC5tZS9SYXlhbl9Db25maWciLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBvcnQiOjg0NDMsImlkIjoiMzkzOTIwMzUtMzUyMC00NDM4LWEwMzUtMzcyMDMxMzAzMjIwIiwiYWlkIjowLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkZS0xLXNzdC5tZWRpY2FsZHJlYW0uaXIiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiZGUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVEdcdTk4OTFcdTkwNTNAc3R5bWVpMVx1NGUyODE5IiwiYWRkIjoidjM3LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODM3LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjIyXHUwNjQ0XHUwNjQ1XHUwNjI3XHUwNjQ2IFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBAVjJ4YXkgfCB0dW5uZWwgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IiwiYWRkIjoiMi4xODkuODUuMjE4IiwicG9ydCI6MjAyMCwiaWQiOiI4NGY2N2RlMC02NDI2LTQxM2UtOTI0NS05ODZkOTdkOWUxYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmMiB8IFx1MmIwN1x1ZmUwZiAxLjJNQi9zIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImhrMi5scnpkeC51ayIsInBhdGgiOiIvcmVnaXN0ZXIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoazIubHJ6ZHgudWsifQ
@@ -20,5 +20,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.220.128:22224?type=ws&securit
 vless://4e1be948-3942-4819-826d-6bbe4fc84982@193.169.105.181:14255?type=tcp&security=none#193.169.105.181:14255
 vless://2379092b-964e-4183-8cb9-d6e0044420a2@speedy.mooo.info:80?type=xhttp&security=none&path=/GaMeOpTiMiZeR?ed=2048#speedy.mooo.info:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.134.157:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.37.134.157:22224
-trojan://yivj1rq9-tbqc-infz-u24k-1qun24zvbc5a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://iumzyopd-uqhk-08vj-l08m-l0pc0g5p4y5a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://2ftd7pq4-xoz8-y8vc-728f-798534twlxvh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uf3ek4qs-4jkg-ctts-3a34-83la7sxysjeq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

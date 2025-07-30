@@ -1,8 +1,7 @@
-trojan://tdd0mqty-y5zo-5rq0-jwmr-zr4x09ctgg14@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:25
-trojan://uol32yip-rshd-f5qh-5nvo-5s9m9wq4op8o@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7srwxbsz-n9i8-krll-u3qo-hfjaqc8cdgji@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://avmh6brh-vfvp-gz22-79il-nx1xq9l5htad@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:48
+trojan://pwpj650j-87eb-pqo1-s6so-duok8kn2fj29@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://1u57uio2-7rzd-1nea-5f7i-lkva51och4ze@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?sni=production.tj.ojan.workers.dev&peer=production.tj.ojan.workers.dev&security=tls#production.tj.ojan.workers.dev:443
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net&peer=13c2c931-swin40-swy6li-tni2.cu.plebai.net&security=tls#13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229
 trojan://8OXD5VVt8s@176.32.39.29:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#176.32.39.29:443
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?sni=production.tj.ojan.workers.dev&peer=production.tj.ojan.workers.dev&security=tls#production.tj.ojan.workers.dev:443
@@ -18,5 +17,6 @@ vless://--------NORBERT-VPN--------@46.245.66.198:1232?type=tcp&security=none#46
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#162.120.94.251:8880
 vless://---Parsashonam--10-@www.speedtest.net:8080?type=ws&security=none&path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam#www.speedtest.net:8080
 vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?type=ws&security=tls&path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&sni=fishlab.ucdavis.edu#fishlab.ucdavis.edu:443
-trojan://yl3oyge6-zswa-7v0g-cm9f-38vnjh0ej7rj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ft56fj83-3ta8-g8my-w86d-rwwai4w52iou@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?type=ws&security=tls&path=/gflzprws&sni=638879176706376779.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
+trojan://vyv6begc-br9a-anxp-waid-qo8kwuaueeag@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uu1qv4za-ar5u-uebh-mbq2-3gv0koq982pr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

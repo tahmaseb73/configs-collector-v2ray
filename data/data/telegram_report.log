@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 11:55:00
+Timestamp: 2025-07-31 12:28:11
 Total Channels: 502
 Successful Scrapes: 468
 Failed Scrapes: 0
@@ -17,8 +17,8 @@ prrofile_purple: 147 configs
 wedbazvpn: 147 configs
 gh_v2rayng: 145 configs
 kafing_2: 143 configs
+filter_breaker: 141 configs
 sockss_http: 134 configs
-filter_breaker: 132 configs
 tgvpn6: 126 configs
 outline_vpn: 116 configs
 appsooner: 114 configs
@@ -26,11 +26,11 @@ satellitenewspersian: 111 configs
 selinc: 111 configs
 armodchannel: 108 configs
 info_2it_channel: 107 configs
-mtproxy22_v2ray: 105 configs
+mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
 mftizi: 100 configs
-config_proxy: 98 configs
 icv2ray: 91 configs
+config_proxy: 90 configs
 v2trayproxy: 89 configs
 freevpn3327: 88 configs
 Tweety_Proxy: 82 configs
@@ -106,9 +106,9 @@ vaynora: 31 configs
 configms: 30 configs
 configtrapi: 30 configs
 melov2ray: 30 configs
-v2rayngseven: 30 configs
 canfing_vpn: 29 configs
 v2aryng_vpn: 29 configs
+v2rayngseven: 29 configs
 mowjproxy: 28 configs
 vmessiranproxy: 28 configs
 darkma3ter24: 27 configs
@@ -144,20 +144,22 @@ free1ss: 20 configs
 free_vpn_for_all_of_us: 20 configs
 freeconfigsplus: 20 configs
 freev2rays: 20 configs
+ip_cf_config: 20 configs
 key_outline: 20 configs
 lockey_vpn: 20 configs
 mpproxy: 20 configs
 outlinereleasedkey: 20 configs
 proxie: 20 configs
 v2ray_free_conf: 20 configs
+v2raych: 20 configs
 vmesc: 20 configs
 vmess_ir: 20 configs
 vpnfail_v2ray: 20 configs
 vpnplusee_free: 20 configs
 arv2ray: 19 configs
 lexernet: 19 configs
+configv2rayforfree: 19 configs
 flyv2ray: 19 configs
-ip_cf_config: 19 configs
 narco_nett: 19 configs
 nofiltering2: 19 configs
 orange_vpns: 19 configs
@@ -167,7 +169,6 @@ proxycrone: 19 configs
 proxyfn: 19 configs
 red2ray: 19 configs
 v2logy: 19 configs
-v2raych: 19 configs
 vpngate_config: 19 configs
 tehranargo: 18 configs
 vistav2ray: 18 configs
@@ -194,7 +195,6 @@ cybersoldiersst: 16 configs
 masterserver1: 16 configs
 Fr33C0nfig: 16 configs
 buffalo_vpn: 16 configs
-configv2rayforfree: 16 configs
 customvpnserver: 16 configs
 filterk0sh: 16 configs
 freeiranianv2rey: 16 configs
@@ -393,7 +393,6 @@ v2rayngfreee: 4 configs
 vpn_arta: 4 configs
 vpnv2raytop: 4 configs
 vpnzamin: 4 configs
-v2ray_configs_pool: 3 configs
 amirinventor2010: 3 configs
 bypass_filter: 3 configs
 custom_config: 3 configs
@@ -442,6 +441,7 @@ toucan_vpn: 2 configs
 v2rayng_my2: 2 configs
 vpnfree85: 2 configs
 zerov2shop: 2 configs
+v2ray_configs_pool: 1 configs
 ansel_team: 1 configs
 bolbolvpn: 1 configs
 eleutheriavpn: 1 configs

@@ -1,6 +1,6 @@
-trojan://bz71wqwj-56z2-zk75-70vm-an8qt90wvz28@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:56
-trojan://7rdvialu-jw1n-ly7p-b68r-r3qdi7gv2fhv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o4yh668q-rn6p-011s-tzhd-9isw1n9vxgo0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ei6iiewa-qn4y-dsni-xjtm-x7ns1bc2lzon@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:24
+trojan://i6bwqtng-a4qg-2yzz-u9l7-23npwy2hngdx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nytc8jbi-kx4l-52sg-p2qy-3bp9czr9g63t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#admin.c2.havij.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#45.87.175.199:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#74.177.199.135:443
@@ -140,5 +140,5 @@ vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?type
 vless://5f3ac440-010e-4565-8362-bdb574c2e389@188.132.141.231:2095?type=tcp&security=reality&sni=nobitex.ir&fp=random&pbk=asQh0s7v3gZjfgXExPo7-4bkObpm1y_ODt9Fx3e69SA&sid=0f86044d#188.132.141.231:2095
 vless://8ee4b805-5a65-4977-bcbb-f759fb8d9441@god.mygoldiran.com:11867?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=-mYOfmHHBGIPqR5Uho9lT7MjSXLlSVi4l83ohs3MaTM&sid=d2#god.mygoldiran.com:11867
 hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#45.129.2.108:50850
-trojan://32elaugd-2x6j-xw75-eo14-8gvb97qcagkx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wtqp5ymn-h3rv-2knf-66sy-pjzgdgq18xd5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://b4q5c4ft-j00u-r1n7-qidc-kvv9eiekzn72@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ly886i5y-hkhu-ynku-suq8-5yenw52eb1n7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

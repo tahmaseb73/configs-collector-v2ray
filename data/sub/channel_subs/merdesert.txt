@@ -1,6 +1,6 @@
-trojan://eai29hcp-9csh-ztfs-nbu3-ueeczthkjad6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:56
-trojan://w128s3dx-4jc0-x17j-om8m-f5os06c9wbf4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n7du6q7v-wl0x-7etl-889k-n0tqhgb4t7wa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1hemvczk-v2fk-lxyr-8tz4-wef7j84b2j7i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:24
+trojan://35i3ctt9-tsgp-b11m-rtuw-1p8rklu93vrs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://lckoyqcg-l1fu-l1z3-y093-c1nt4br2b8rt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#45.145.42.70:25366
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#45.145.42.70:25366
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?type=ws&security=none&path=/http#51.75.30.8:80
@@ -11,5 +11,5 @@ vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?type=ws&security=
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?type=ws&security=tls&path=/&sni=3e8B07A5.PUb000bpB.PAGes.Dev#104.21.60.171:443
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?type=tcp&security=reality&sni=oMIdmAHBouBI.ir&fp=chrome&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg#188.245.61.146:8001
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?type=tcp&security=reality&sni=oMIdmAHBouBI.ir&fp=chrome&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg#188.245.61.146:8001
-trojan://u0p5zq9q-fcjx-3m68-ejqj-06wu05ti4nwi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jafd5qqo-myog-3wg8-z3dp-xpdc2nckvx7z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://9tjgt4yo-01tq-l9xt-gwu1-u2o8ymnxf89d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lcv6dfz1-rdzj-ve49-jcos-yy0idphh1d3w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://dcjxes31-tnk1-be3l-t7nv-d7muwtnu4hk4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 04:05
-trojan://97v73av0-up1g-ssao-k8o3-uqtaubcp3xrd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://922jbx1o-fc29-8ycj-c44t-flksojfilbyb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://nxqp04bz-g0i4-ccey-sfg5-2kyodkobdjlp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 04:34
+trojan://swhbfojw-qehb-uct5-ykn9-4hnlxdjxpggm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://bd8k0q6p-t1o2-vdxh-83y7-3hscd6clvbqy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://bb5a9c6a-0721-4aa0-96d9-adbe7c281f12@193.151.145.21:46205?type=tcp&security=none&path=/?ed=1024#193.151.145.21:46205
 vless://7728c8fb-f745-4c77-bab5-6d91675b1220@193.151.145.21:8080?type=grpc&security=none#193.151.145.21:8080
 vless://65b02abb-565e-4414-c683-5fc379e04c55@85.133.201.99:23662?type=tcp&security=none#85.133.201.99:23662
@@ -11,5 +11,5 @@ vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=
 vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
-trojan://3lqw8hov-y8pr-wibx-64wy-03bxk0uteqq4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://toitejeh-njul-1giw-sqsn-clx7vgkwc2x5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dpfvqif6-pr45-b9dl-ylom-qn8gvhxl3j4f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://oasn1bjm-p21x-g34o-b581-u2veff9oqhhy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

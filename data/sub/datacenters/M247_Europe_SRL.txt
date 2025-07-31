@@ -1,11 +1,11 @@
-trojan://wzcj2d1c-qb63-pcw3-do2j-bfeyclgn8wdn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 17:32
-trojan://0myhmanf-9e4x-f8bn-h88a-k268k7hzhk32@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://b3ski3j9-ipde-6wlk-qrex-sjb7tuo89jpf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ewszctgh-b83q-q8kj-vbes-ppa9ottmzaip@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 17:52
+trojan://hzex4czy-hf62-72c8-8wvv-x9si9o255dqh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wi4cp5tc-folv-cxey-8aql-vn109z14bt8o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?type=tcp&security=reality&sni=opensuse.org&fp=chrome&flow=xtls-rprx-vision&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72#DE 🇩🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 151.236.15.72
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.10:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUVNBUk9UaE9iTVcxbksyMnRoajZK@83.172.138.137:8443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 83.172.138.137
-trojan://installshield@38.180.249.177:8443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 38.180.249.177
 vless://00c6043f-a2c6-4b15-bd30-344378f0e5da@146.70.158.111:443?type=tcp&security=reality&sni=equal-eyes.org&fp=chrome&flow=xtls-rprx-vision&pbk=dgepztJbOmZaaP3xQX6K3fozDsrTL7a60w1SjN4jBTw&sid=e120bf2fd2d7453b#FR 🇫🇷 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 146.70.158.111
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@w.w.w.uae.studentcp.ir:20999?sni=w.w.w.uae.studentcp.ir&insecure=0&obfs=salamander#AE 🇦🇪 ┇ HYSTERIA2-TCP-NTLS - M247 Europe SRL ┇ 38.180.27.199
-trojan://c5y4amto-2evf-7o9a-y5zf-f9m0p0evl104@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ebk9kao6-oe5y-exlx-6cqr-7ou1rnasr7d8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUVNBUk9UaE9iTVcxbksyMnRoajZK@83.172.138.137:8443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 83.172.138.137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.138.193.10:808#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 217.138.193.10
+trojan://installshield@38.180.249.177:8443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - M247 Europe SRL ┇ 38.180.249.177
+trojan://oj7foqkf-hlud-83nl-st8a-zicbo4ksqt0a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://z1nyvayv-w7vt-8lk5-drmf-n983hu9xbvx5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

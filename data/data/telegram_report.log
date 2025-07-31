@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 17:32:26
+Timestamp: 2025-07-31 17:52:25
 Total Channels: 502
 Successful Scrapes: 466
 Failed Scrapes: 0
@@ -44,10 +44,10 @@ vpnod: 77 configs
 v2raytg: 77 configs
 ai_duet: 75 configs
 v2rayopen: 74 configs
-ZibaNabz: 73 configs
 shadowproxy66: 71 configs
 ShadowProxy66: 71 configs
 freevirgoolnet: 71 configs
+ZibaNabz: 70 configs
 v2ra_ng_iran: 69 configs
 jiedianssr: 67 configs
 netfreedom0: 67 configs
@@ -69,11 +69,11 @@ tobevasl: 53 configs
 v2rayngconfig: 52 configs
 vpn451: 49 configs
 v2ray_v_vpn: 48 configs
+v2ry_proxy: 48 configs
 vmessorg: 47 configs
 free1_vpn: 47 configs
 maradona_vpn: 46 configs
 v2rayngconfings: 46 configs
-v2ry_proxy: 45 configs
 configfa: 43 configs
 v2rayngalpha: 43 configs
 vpn_meliii: 43 configs
@@ -157,6 +157,7 @@ lexernet: 19 configs
 configv2rayforfree: 19 configs
 fastshovpn: 19 configs
 flyv2ray: 19 configs
+ip_cf_config: 19 configs
 narco_nett: 19 configs
 outline_ir: 19 configs
 proxycrone: 19 configs
@@ -170,7 +171,6 @@ directvpn: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
 garnet_free: 18 configs
-ip_cf_config: 18 configs
 jokerv2ray: 18 configs
 khoneproxy: 18 configs
 narcod_ping: 18 configs
@@ -185,7 +185,6 @@ v2ray_vmes: 18 configs
 v2rayfree: 18 configs
 vlessconfig: 18 configs
 vpn_ioss: 18 configs
-vistav2ray: 17 configs
 WarV2Ray: 17 configs
 guard_revil: 17 configs
 iran_mehr_vpn: 17 configs
@@ -197,6 +196,7 @@ outlinev2rayng: 17 configs
 proxy_v2box: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
+vistav2ray: 16 configs
 Fr33C0nfig: 16 configs
 buffalo_vpn: 16 configs
 customvpnserver: 16 configs

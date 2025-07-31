@@ -1,7 +1,7 @@
-trojan://6wr1io6q-u35y-4sac-8sgv-6p3v8vd1z00u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 17:32
-trojan://u3hkj8b9-0e1j-rnn3-qvhv-lqqxm2y7wxdx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wm8ki2tc-n17j-n94h-dt5b-kw0h79vamv2s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://700b38d8-5ec2-42a8-a608-758ee1388231@v01.gutingting.com:30056?sni=v01.gutingting.com&peer=v01.gutingting.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
+trojan://p8i0cy60-evv2-6yqn-tgpr-oq37o2ne71t9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 17:52
+trojan://g8p0l1j4-v3jt-0pzj-g5or-j08cuf6o1yqh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://z23p4mwv-6h3e-4nax-e6p8-a8u5wzd72emo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@87.254.23.104:443?sni=www.microsoft.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - MoeChuang Network Limited ┇ 87.254.23.104
-trojan://7oiigy1z-mkrv-1uce-l4ih-om39qep69wlf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://23bqkkdc-nk60-ph59-x40y-9j2mrr2oq3t8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://700b38d8-5ec2-42a8-a608-758ee1388231@v01.gutingting.com:30056?sni=v01.gutingting.com&peer=v01.gutingting.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
+trojan://d6xoai99-a7yw-vhpj-l20z-34pokfk9wv72@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1p4wzzys-ivvo-r01t-2r8r-q0u8kmsfgfjw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

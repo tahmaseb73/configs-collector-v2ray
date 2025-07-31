@@ -1,9 +1,9 @@
-trojan://h5rc2psq-w10l-5dm3-fr1n-rviv3d988ua9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 06:34
-trojan://v7na639t-a4e5-uxvc-gfnl-8wortrcp3vcw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jivhgx0e-uxky-jp90-vy1y-zgaww17yqvar@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@bx.dport.top:33654?sni=bx.dport.top&insecure=1&obfs=salamander#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 194.58.38.37
+trojan://wvpn5ofi-gct6-o6u3-jyhw-8wkjq5ys6mip@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 07:38
+trojan://t3dx72se-9y31-h5si-m988-fdoeqcwnnfek@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8mtbqrxr-fhqc-b6bl-o4b7-qkqpvfsrkr7x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTUuMTY0LjQuODgiLCJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsInBvcnQiOjgwLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTQ0LjIyLjE3MS4xODIiLCJhZGQiOiIxNDQuMjIuMTcxLjE4MiIsInBvcnQiOjE3MjA3LCJpZCI6ImEwYTA5OGFmLTZhNzYtNDI3Zi1kZjkxLTNjM2RkNjc5NmUyMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@bx.dport.top:33654?sni=bx.dport.top&insecure=1&obfs=salamander#BR 🇧🇷 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 194.58.38.37
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.54.57.90
-trojan://7fl0iouq-ug3r-z5w5-26j1-p8k06wftyap8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://aa05otfr-ouzl-j0x2-vmqb-1y6m0ar6dyaa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vmess://eyJ2IjoiMiIsInBzIjoiQlIgXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTQ0LjIyLjE3MS4xODIiLCJhZGQiOiIxNDQuMjIuMTcxLjE4MiIsInBvcnQiOjE3MjA3LCJpZCI6ImEwYTA5OGFmLTZhNzYtNDI3Zi1kZjkxLTNjM2RkNjc5NmUyMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+trojan://p75ft0vq-8yd1-lvmw-0ezt-tgqxfiuow1j1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4tdfvmf3-eod3-aogg-qkqg-kdhi32n641r5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

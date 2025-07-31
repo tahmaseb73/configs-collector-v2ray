@@ -1,6 +1,6 @@
-trojan://ctdo4jz9-1082-mpua-doq8-86t0m3d5y3j3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:58
-trojan://pcp66u2w-k3ar-vkaf-uox6-reg7zfwnetli@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zo88h7dr-tq2j-ism7-n8pt-79ri0dww4d4g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://imm3dlo5-m30q-2r43-ioiz-o8tjaqm9srb3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 16:48
+trojan://esarw60c-9hhw-8aef-fc25-dc9os8am0hyo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://q9u5jsts-v99e-t2eg-ughb-71p5bph7kvkc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c9bd654b-9836-47e1-daaa-719fb1e18564@95.179.244.134:2053?type=grpc&security=tls#95.179.244.134:2053
 vless://c9bd654b-9836-47e1-daaa-719fb1e18564@95.179.244.134:2053?type=grpc&security=tls&sni=nard.numallas.top#95.179.244.134:2053
 vless://c9bd654b-9836-47e1-daaa-719fb1e18564@95.179.250.90:2053?type=grpc&security=tls#95.179.250.90:2053
@@ -20,5 +20,5 @@ vless://fbf6b625-ddd6-430e-c4b7-f6006c5d07d4@ipv2ray-mci.ddns.net:2096?type=grpc
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&security=none&path=/#narcod-ping.numallaf.shop:58978
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&security=none&path=/#narcod-ping.numallaf.shop:58978
 vless://narcod_ping@85.133.228.198:41546?type=tcp&security=none&path=/#85.133.228.198:41546
-trojan://iwmjr9av-uw5p-qjw0-niu5-zx49v3nzb4ju@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jdxhliqy-292p-t4nz-m0el-pdnux4t3i4z6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dj2a77h5-quyn-0m8a-cor1-9mrgtvs0d6x9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ayz9vymv-t94t-wgpc-l02f-qn8tze81dlun@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

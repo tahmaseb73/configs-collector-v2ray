@@ -1,6 +1,6 @@
-trojan://d70nxg3j-5jwy-k6xp-4b3r-hz9ww8rxj1wq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 20:51
-trojan://4uplhugd-tn0p-ragc-z873-kgxd60qdfne4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w942y6da-ltw5-158w-3lxn-v0a148cawlyf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zlua9p4w-w8e8-t9s1-g2g3-g6tvazyl15ss@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 21:22
+trojan://27xojxpi-okxa-vb3s-bll9-9kgrj9z0hxbg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2eex3ukp-7vuf-r01x-zg8j-5s1rf4na2fiq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
@@ -21,5 +21,5 @@ vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?type=ws&securi
 vless://5ab849d0-4b05-485a-8f60-832e3a6c3774@mohi.sockcs1.xyz:4430?type=tcp&security=none#mohi.sockcs1.xyz:4430
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&security=none#185.231.205.181:8880
 vless://ServerNett@fr.safeline.12.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=edge&pbk=XetKmjWtt6D08aG4I5F9tETkO4RogFgDaqW6F-HHoyA&sid=64ede3f582de#fr.safeline.12.afterhav.ir:8880
-trojan://38ug1icc-bvor-0rfw-kqpt-lo6amf9cdazl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://07fb8bl9-bc6l-jw98-9l0v-meqi9puagze2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lq046ury-kw4c-qzpc-7zcm-473uf7fpay1f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ptf8fj4o-mnxi-h1xh-yx9d-uuw4qgzfzcs6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

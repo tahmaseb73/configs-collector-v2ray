@@ -1,8 +1,8 @@
-trojan://bpfpn1jb-2j7n-15br-hpar-vzxazffcnmcc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 20:51
-trojan://kuspbqug-xjib-ghz9-gn3v-efgoraqsf5rb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jxl06m04-p4k3-al44-mh9b-xt2n7n78w1sx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AMAZON-AES ┇ 54.166.221.95
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 34.231.90.231
+trojan://7pvavoj2-mf0l-yn86-fcpy-xjyi2ui0h92j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 21:22
+trojan://ydy42f5t-4vlr-2wj4-x0b6-pbeun9m8o7g7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://iy5us7f6-4ffe-jjju-ebj7-qg6lm0x87srx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-AES ┇ 34.202.251.218
 vless://e6be8281-680a-4758-de5f-fbf1a8461b3b@de1.iranbax.com:8443?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=nfAanecTjMD0xoIHRGsSW7coDymKsby8MmETOVwFr2o&sid=b5#US 🇺🇸 ┇ VLESS-GRPC-RLT - AMAZON-AES ┇ 13.216.111.180
-trojan://dgkmnjna-5c3z-et40-mves-9v2ujacpjw7e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://nk4msi9s-hytr-fixg-rh6b-zwvbnov6cv4w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - AMAZON-AES ┇ 54.166.221.95
+trojan://de1ayaq3-mzk6-c3c3-yas5-f8gdft0erlty@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xrkotav4-mdcp-chzn-3eo1-aaa5at0fukz9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

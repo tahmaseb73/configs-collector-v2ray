@@ -1,14 +1,6 @@
-trojan://v2qn2hq7-hics-nvtp-9x6r-cy1jz1pbep77@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 18:50
-trojan://3yisevyn-gnat-3v0z-gkcl-br00ei7iw2rr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hsg42q20-l9pu-6g8d-6zza-gnvu2ydrhopw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2560&sni=nitter.ir&fp=chrome#www.speedtest.net:443
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?*aiojefoijeafiojaoifjoaijfoieajfea4502542---452525252525082850924520759275942592429465265926359832oiejfiaoiefoieaioaeoifiofeaiofeiofeoijeoijfaeoifja7773422834798732498327498huafuawugfuayufu476942652?ed=2050#www.speedtest.net:2095
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2560&sni=nitter.ir&fp=chrome#www.speedtest.net:443
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2560&sni=nitter.ir&fp=chrome#www.speedtest.net:443
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nitter.ir&fp=chrome#www.speedtest.net:443
+trojan://6fwsbiha-khkf-b0pk-k9tn-lbmjai9iuacz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 19:22
+trojan://69inoqq9-xjjt-elhm-fn40-se7xg0w0z0k2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ggojxzz2-6l3x-6olm-z1se-gaq1t7a9m49q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://47d2ef41-bb32-4923-cfee-adb10df57f3c@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
@@ -87,7 +79,6 @@ vless://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@moshkel-dari.com.studentcp.ir:39822
 vless://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@moshkel-dari.com.studentcp.ir:59347?type=tcp&security=none&path=/#moshkel-dari.com.studentcp.ir:59347
 vless://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@irani-bazi.com.fizikade.ir:49371?type=tcp&security=none&path=/#irani-bazi.com.fizikade.ir:49371
 vless://293b72a4-a55e-4319-850e-40514d33afc5@ns.cloudflare.com:8880?type=ws&security=none&path=ws/?ed=2048#ns.cloudflare.com:8880
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=ios&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#reality.sbarshia.ir:443
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@mci.sbarshia.ir:443?type=tcp&security=reality&sni=zoomit.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#mci.sbarshia.ir:443
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:8443?type=tcp&security=reality&sni=snapp.ir&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#irancell.sbarshia.ir:8443
@@ -145,5 +136,5 @@ hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@sw-oh.com.studentcp.ir:44444?sni=sw
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@ww.w.8.8.8.8.arman.com.studentcp.ir:10201?sni=ww.w.8.8.8.8.arman.com.studentcp.ir&insecure=0&obfs=salamander#ww.w.8.8.8.8.arman.com.studentcp.ir:10201
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@turk-gorg.com.studentcp.ir:37243?sni=turk-gorg.com.studentcp.ir&insecure=0&obfs=salamander#turk-gorg.com.studentcp.ir:37243
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@w.w.w.uae.studentcp.ir:20999?sni=w.w.w.uae.studentcp.ir&insecure=0&obfs=salamander#w.w.w.uae.studentcp.ir:20999
-trojan://uk7sqrds-xtpe-2lz0-h4yv-8zbr3c1aa8u6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vczab2j1-c7ze-b1mk-u8z7-uv42b18jch6m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://n1srp6b8-duwk-of7d-27gi-w4f2wso989jy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dqv68snh-hzot-hs1p-76yl-zysguwkjsx50@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

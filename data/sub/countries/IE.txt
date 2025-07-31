@@ -1,11 +1,10 @@
-trojan://l2j2jncj-91sh-bgn2-ylad-gw85pq8r0bqu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 07:38
-trojan://qdjc2h6y-mkzx-4hp3-8oc5-gkw43xcnywn4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tysei2wm-mo5s-1elm-b1mo-8olo8ksa1xcj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.121.222
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
+trojan://5j1oj3ke-yta1-vmv4-t0s8-omtp61k02ll2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:20
+trojan://swtt2ewf-z7fz-eyau-jr1k-0z3ct5yowhnn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://z4erbhdb-bqoj-nz60-28gj-xgi99r0qt0nh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.209.204
-trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&sid=9d90d7ada8#IE 🇮🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.44.237
+hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.121.222
 vless://a41ec4d6-1ef3-4a00-bd24-5abcce37a40f@52.156.208.215:33371?type=tcp&security=reality&sni=sourceforge.net&fp=chrome&pbk=XknqXVFBQSpJEmo0oeKsLDeOGfhtmuurXd75BywgUlg&sid=456ad3a1b9f0#IE 🇮🇪 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.156.208.215
-trojan://9x7piof6-azv1-o2ah-0lzx-kl7yu0wqtdo1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://cndzzbdk-sj1g-9lm1-mz09-i9ws4qg82m1b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
+trojan://uifu9yy1-y96h-73ep-uzb5-q9gyvmd0dkud@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wvrok2ue-fyy1-uiki-ft9i-d03cvi5d9scg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

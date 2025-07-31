@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 07:37:54
+Timestamp: 2025-07-31 08:19:59
 Total Channels: 502
 Successful Scrapes: 468
 Failed Scrapes: 0
@@ -16,16 +16,15 @@ v2rayng_1378: 154 configs
 v2rayng3: 151 configs
 wedbazvpn: 151 configs
 gh_v2rayng: 145 configs
-v2ray_configs_pool: 144 configs
 kafing_2: 143 configs
 sockss_http: 134 configs
 filter_breaker: 132 configs
 tgvpn6: 126 configs
-config_proxy: 122 configs
 outline_vpn: 116 configs
 selinc: 116 configs
 appsooner: 114 configs
 satellitenewspersian: 111 configs
+config_proxy: 109 configs
 armodchannel: 108 configs
 info_2it_channel: 107 configs
 mtproxy22_v2ray: 105 configs
@@ -97,7 +96,6 @@ jiujied: 36 configs
 expressvpn_420: 35 configs
 frev2rayng: 32 configs
 meli_v2rayng: 32 configs
-mowjproxy: 32 configs
 x4azadi: 32 configs
 capoit: 31 configs
 v2ra_config: 31 configs
@@ -111,6 +109,7 @@ melov2ray: 30 configs
 v2rayngseven: 30 configs
 canfing_vpn: 29 configs
 v2aryng_vpn: 29 configs
+mowjproxy: 28 configs
 vmessiranproxy: 28 configs
 meliconfing: 27 configs
 darkma3ter24: 27 configs
@@ -156,6 +155,7 @@ vmess_ir: 20 configs
 vpnfail_v2ray: 20 configs
 arv2ray: 19 configs
 lexernet: 19 configs
+v2ray_configs_pool: 19 configs
 ip_cf_config: 19 configs
 narco_nett: 19 configs
 nofiltering2: 19 configs
@@ -211,9 +211,11 @@ connectshu: 15 configs
 flyv2ray: 15 configs
 free4allvpn: 15 configs
 minovpnch: 15 configs
+proxy_mtproto_vpns_free: 15 configs
 proxy_net_meli: 15 configs
 realvpnmaster: 15 configs
 tiny_vpn_official: 15 configs
+v2rayfree: 15 configs
 v2rayvmess: 15 configs
 v2rayvpnchannel: 15 configs
 v_2ray1: 15 configs
@@ -229,12 +231,10 @@ ghotb_scarf: 14 configs
 hoshmasnoiyfarsi: 14 configs
 kingofilter: 14 configs
 kurdvpn1: 14 configs
-proxy_mtproto_vpns_free: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
 server_nekobox: 14 configs
 v2raxx: 14 configs
-v2rayfree: 14 configs
 v2rayvpn2: 14 configs
 v_2rayngvpn: 14 configs
 proxystore11: 13 configs

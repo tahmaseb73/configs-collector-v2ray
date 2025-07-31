@@ -1,6 +1,6 @@
-trojan://rmssp7z6-6vsn-c940-q5a4-dr3mi3a6zev2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:49
-trojan://rgaw6c4h-zdjj-j0nr-l7ev-p9qjtii8yrc0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mfdyyio4-jagi-zo3b-c1hy-b0bxaswlqf9f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tub3751v-1e4x-v45n-2uot-n8uzqzx4r4ec@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
+trojan://t3wpfthu-sr4o-jq37-6z61-41yudrxc0v5i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dqwqt2or-2inw-dx3o-i78t-11kl5rcmuec5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?type=tcp&security=none#185.201.49.30:58097
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?type=tcp&security=none#185.201.49.30:58097
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?type=tcp&security=none#185.201.49.30:58097
@@ -9,5 +9,5 @@ vless://3d18bdb6-9e63-46e7-a2c9-025f7fa10309@lightning6.tm.12speedtest.store:80?
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?type=tcp&security=none#vip.360store.info:443
 vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?type=ws&security=none&path=/download?ed=2048#151.101.3.8:80
 vless://ad482dbf-8b1e-45ed-ad01-d9348fbf51cc@185.239.2.101:12002?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=wKh_qTcfwcqcHSdTLjRrdJVN-qCCCwacxZ6O6TMJY2o#185.239.2.101:12002
-trojan://5thf8n51-h4p6-mrtg-qsap-9t5qq37ev31h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ohp04y0l-9gl7-9m2c-2c5k-g7qfmshp74y5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://lqvokku9-70y4-luqz-j598-b0lt8jkogn10@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hr50c54k-tjl3-af6w-es34-k1st1j5bkj1i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://b0tfh97f-6mni-2cjc-gy2h-n1ua7o1eyrr8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:49
-trojan://8d4dccvn-qyuo-3kb6-p45n-ol1zzqz5zluq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fj6lciwa-krbq-zfsm-pftu-fus1uzr0gaq3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://sotd5nhd-r0q4-tpa2-qmql-ywd6lb73376s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
+trojan://78hpj7gb-mfg2-1gl0-ufzy-76p955t2nh8y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://20nsg3id-25hu-1t8a-u7xe-uc6ip97hpq1t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://TeL_VPNCUSTOMIZE@vpncustomize.elmahstyle.ir:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#vpncustomize.elmahstyle.ir:8080
 vless://TeL_VPNCUSTOMIZE@zula.ir:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#zula.ir:8080
 vless://TeL_VPNCUSTOMIZE@188.114.98.224:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#188.114.98.224:8080
@@ -25,5 +25,5 @@ vless://DIGIV2RAY@zula.ir:2095?type=ws&security=none&path=/DigiconnecT?ed=1024#z
 vless://DIGiV2RAY@185.146.173.93:2095?type=ws&security=none&path=/DigiconnecT?ed=1024#185.146.173.93:2095
 vless://DIGiV2RAY@www.speedtest.net:2095?type=ws&security=none&path=/DigiconnecT?ed=1024#www.speedtest.net:2095
 vless://DIGiV2RAY@zula.ir:2095?type=ws&security=none&path=/DigiconnecT?ed=1024#zula.ir:2095
-trojan://p0pyzrfn-pn09-2rln-ycfo-3oyqhv2hwjpx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hrtdmrjj-rzrt-fz03-qc2m-zo5vlvxwery5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://c4g13yrl-mw87-hc4x-j3wi-ux2thwq3438w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://myu7cbxp-v57p-ikl4-e1qj-ox5vptmxbd6j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

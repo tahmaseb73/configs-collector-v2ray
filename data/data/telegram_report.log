@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 14:49:04
+Timestamp: 2025-07-31 15:17:16
 Total Channels: 502
 Successful Scrapes: 466
 Failed Scrapes: 0
@@ -7,8 +7,8 @@ Failed Scrapes: 0
 --- Channels with Found Configs ---
 v2raying: 323 configs
 kanfig_majani: 224 configs
-GalaxyMVPN: 196 configs
-meli_proxyy: 179 configs
+GalaxyMVPN: 199 configs
+meli_proxyy: 189 configs
 freakconfig: 175 configs
 v2rayngrit: 158 configs
 v2rayng_1378: 154 configs
@@ -20,12 +20,12 @@ kafing_2: 143 configs
 filter_breaker: 141 configs
 sockss_http: 134 configs
 tgvpn6: 126 configs
+config_proxy: 117 configs
 outline_vpn: 116 configs
 appsooner: 114 configs
 satellitenewspersian: 111 configs
 selinc: 111 configs
 armodchannel: 108 configs
-config_proxy: 107 configs
 info_2it_channel: 107 configs
 mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
@@ -97,6 +97,7 @@ v2rayngconfiig: 37 configs
 jiujied: 36 configs
 frev2rayng: 32 configs
 meli_v2rayng: 32 configs
+mowjproxy: 32 configs
 x4azadi: 32 configs
 capoit: 31 configs
 v2ra_config: 31 configs
@@ -111,13 +112,11 @@ melov2ray: 30 configs
 canfing_vpn: 29 configs
 v2aryng_vpn: 29 configs
 v2rayngseven: 29 configs
-mowjproxy: 28 configs
 vmessiranproxy: 28 configs
 darkma3ter24: 27 configs
 dgkbza: 27 configs
 Greenvpn2: 26 configs
 customizev2ray: 26 configs
-meliconfing: 25 configs
 itv2ray: 25 configs
 megavpn_link: 25 configs
 spikevpn: 24 configs
@@ -131,6 +130,7 @@ serverv2ray00: 23 configs
 v2ray_n: 23 configs
 confing_chanel: 22 configs
 v2ray_sos: 22 configs
+meliconfing: 21 configs
 fastvpnorummobile: 21 configs
 v2graphy: 21 configs
 v2rayngn: 21 configs
@@ -204,8 +204,10 @@ game_file2020: 16 configs
 goldenshiinevpn: 16 configs
 golf_vpn: 16 configs
 netmellianti: 16 configs
+proxy_mtproto_vpns_free: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
+v2rayfree: 16 configs
 vmessprotocol: 16 configs
 connectshu: 15 configs
 free4allvpn: 15 configs
@@ -239,11 +241,9 @@ father_vpn: 13 configs
 hopev2ray: 13 configs
 miov2ray: 13 configs
 mtpv2ray: 13 configs
-proxy_mtproto_vpns_free: 13 configs
 public504: 13 configs
 server_nekobox: 13 configs
 turboo_server: 13 configs
-v2rayfree: 13 configs
 v2rayng_v2_ray: 13 configs
 v_2rayng0: 13 configs
 PASARGAD_V2rayNG: 12 configs

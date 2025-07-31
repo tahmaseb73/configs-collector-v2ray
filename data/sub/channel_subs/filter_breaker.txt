@@ -1,6 +1,6 @@
-trojan://w3zkgzuu-j3qq-yxq7-esqf-fudl0frzgfaz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:49
-trojan://6iqzzanm-o141-egpy-uyr6-hihsm295iqmt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wtjddwim-sn8p-drg0-6w1l-da6p1g8xvbws@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://z5g9ehki-tjsf-37yj-sk0z-vk0ujru08mec@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
+trojan://bgcjm425-ux0h-icrs-k5gt-tyhkdjzpf8r2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8nu441gh-hypo-d7yz-1vc1-3exgvxun5gik@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?type=ws&security=none&path=/?ed=2590#n0.asmdns.net:2082
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
@@ -139,5 +139,5 @@ hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@rb.dport.top:33657?sni=rb.dport
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#teq.dport.top:33658
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@hl.dport.top:33659?sni=hl.dport.top&insecure=1&obfs=salamander#hl.dport.top:33659
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@mg.dport.top:33650?sni=mg.dport.top&insecure=1&obfs=salamander#mg.dport.top:33650
-trojan://vbsemaa3-mx91-qb50-d5w7-juate5h74kf9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xmd5oaeo-yubv-as8t-5r4i-5v94jlgxuw7u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ww9i49t7-2wpw-y0f9-1cvu-3qtmlzaamvw8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://oa7n6vsa-yi90-pid6-3hms-1ffdo5sk3ee0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

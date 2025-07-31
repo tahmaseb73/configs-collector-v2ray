@@ -1,6 +1,6 @@
-trojan://ertb3d09-njvw-pf8f-hhbo-susvcyhpzwsc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:49
-trojan://bmeaw1zj-kxn9-qefw-62la-powv7rw87eia@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://oxl6bb1v-spj1-2pt3-rlzr-wr3arvbv1fgt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://strds9ou-wr5f-zkmj-wqx7-8t0x1z4se9a9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
+trojan://04zhqxtn-vcwj-3b8m-60d4-asc332hby9ha@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://linu9t2x-k8ku-ux8f-ropp-styz0zpicuaq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://bpb-trojan@45.8.211.242:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#45.8.211.242:443
 trojan://NISHIKUITAN111@103.21.244.167:443?security=tls#103.21.244.167:443
 trojan://NISHIKUITAN111@104.24.40.237:443?security=tls#104.24.40.237:443
@@ -81,5 +81,5 @@ vless://881823a6-fc82-4c6f-a988-1fd01ad567a9@109.172.94.60:10351?type=ws&securit
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?type=ws&security=none&path=/?ed=2560security=tls&sni=a.xn--i-sx6a60i.us.kg#172.64.147.50:443
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@218.152.197.93:50000?type=ws&security=none&path=/Telegram&sni=edgetunnel.xiaomayi.nyc.mn#218.152.197.93:50000
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@222.103.6.229:50000?type=ws&security=none&path=/Telegram&sni=edgetunnel.xiaomayi.nyc.mn#222.103.6.229:50000
-trojan://1iz4d01w-k1sm-br90-i38a-5qb5ap8wlmly@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3oyk9j1s-5ro9-yimj-lyxl-u4bm901vi3ne@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://frt4a8kv-4t78-smee-r2tg-ed0ilon2yw6k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dlgm8gbj-00hm-zdai-x7ez-5vj33zqikx4y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

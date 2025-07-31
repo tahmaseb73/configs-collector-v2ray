@@ -1,6 +1,6 @@
-trojan://8jdma0iv-dvtm-xu1m-p5yn-5phkvtadplrj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 18:25
-trojan://t81rsrn4-ix0e-180e-1jux-qrsmfnfruxty@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ahkqx8c7-5yu0-dvqb-z62n-ulf4k2a7e9gs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://od02ft98-huus-y2ny-6eb2-9s6688pfyoh0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 18:50
+trojan://8dxhbw71-ep7q-fh37-f96s-01b7tvp0z3m3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uci3iakf-3fkd-45wd-lonz-fdi8m18s9cre@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
@@ -22,12 +22,12 @@ vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUw
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsInBvcnQiOjMyMDE3LCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjQyNjg0LCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjQyNjg0LCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://9e1c4dda-0ebb-43bb-8136-cd1cf5a84601@karmavpn.netmeli.com:33727?type=tcp&security=none#karmavpn.netmeli.com:33727
-vless://7f1ced57-3317-4c6e-9aea-c5b27c8f02b3@alexde.hpcdn.info:80?type=httpupgrade&security=none&path=/13227/hMMad#alexde.hpcdn.info:80
-vless://81cdaf1e-480b-4840-a360-480cb03233c5@catherinede.hpcdn.info:80?type=httpupgrade&security=none&path=/37266/hMMad#catherinede.hpcdn.info:80
-vless://69ec5aaf-8d5f-4353-a286-bef914c13e33@alexde.hpcdn.info:80?type=ws&security=none&path=/24392/wsMMad#alexde.hpcdn.info:80
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiMTAzLjM4LjgzLjI1MyIsInBvcnQiOjM3MTIyLCJpZCI6ImVkYzQ5M2NhLWI5MzktNDA5Ny1lMGMzLWM4ZmVlMjQzZWFjNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiMTU0LjkwLjQ5LjU3IiwicG9ydCI6NTg4NjgsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://9e1c4dda-0ebb-43bb-8136-cd1cf5a84601@karmavpn.netmeli.com:33727?type=tcp&security=none#karmavpn.netmeli.com:33727
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
-trojan://vmkm1k6s-erht-mns8-4om7-s3h5mig0hij1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://iu01haai-z34i-8g5o-w05q-h714qwiw9v1s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
+trojan://pbeyl7g2-4230-1x2c-oqno-69ab1l4v477t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://r9cx7ods-1nsb-tqm5-thn0-3ph5gb7mnmvh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

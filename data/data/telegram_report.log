@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 18:24:43
+Timestamp: 2025-07-31 18:50:34
 Total Channels: 502
 Successful Scrapes: 466
 Failed Scrapes: 0
@@ -17,7 +17,7 @@ v2rayng3: 151 configs
 filter_breaker: 147 configs
 gh_v2rayng: 147 configs
 wedbazvpn: 147 configs
-kafing_2: 143 configs
+kafing_2: 136 configs
 sockss_http: 134 configs
 tgvpn6: 126 configs
 outline_vpn: 115 configs
@@ -29,7 +29,7 @@ info_2it_channel: 107 configs
 mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
 mftizi: 100 configs
-config_proxy: 97 configs
+config_proxy: 94 configs
 icv2ray: 91 configs
 v2trayproxy: 89 configs
 freevpn3327: 88 configs
@@ -178,11 +178,9 @@ novinology: 18 configs
 outlinevpn_ru: 18 configs
 parsashonam: 18 configs
 privatevpns: 18 configs
-proxy_mtproto_vpns_free: 18 configs
 shadowsockskeys: 18 configs
 ultrasurf_12: 18 configs
 v2ray_vmes: 18 configs
-v2rayfree: 18 configs
 vlessconfig: 18 configs
 vpn_ioss: 18 configs
 WarV2Ray: 17 configs
@@ -192,8 +190,9 @@ jeyksatan: 17 configs
 mastervpnshop1: 17 configs
 netmellianti: 17 configs
 nofiltering2: 17 configs
-outlinev2rayng: 17 configs
+proxy_mtproto_vpns_free: 17 configs
 proxy_v2box: 17 configs
+v2rayfree: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
 vistav2ray: 16 configs
@@ -206,6 +205,7 @@ game_file2020: 16 configs
 goldenshiinevpn: 16 configs
 golf_vpn: 16 configs
 orange_vpns: 16 configs
+outlinev2rayng: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
 vmessprotocol: 16 configs
@@ -220,6 +220,7 @@ v2rayvpnchannel: 15 configs
 v_2ray1: 15 configs
 vpn_zvpn: 15 configs
 xnxv2ray: 15 configs
+ghalagyann: 14 configs
 summertimeus: 14 configs
 dailytek: 14 configs
 fastkanfig: 14 configs
@@ -231,9 +232,9 @@ kurdvpn1: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
 v2raxx: 14 configs
+v2rayng_ip: 14 configs
 v2rayvpn2: 14 configs
 v_2rayngvpn: 14 configs
-ghalagyann: 13 configs
 proxystore11: 13 configs
 skivpn: 13 configs
 abiidar_server: 13 configs
@@ -244,7 +245,6 @@ mtpv2ray: 13 configs
 public504: 13 configs
 server_nekobox: 13 configs
 turboo_server: 13 configs
-v2rayng_ip: 13 configs
 v2rayng_v2_ray: 13 configs
 v_2rayng0: 13 configs
 PASARGAD_V2rayNG: 12 configs

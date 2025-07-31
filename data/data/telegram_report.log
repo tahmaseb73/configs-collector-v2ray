@@ -1,12 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 14:25:27
+Timestamp: 2025-07-31 14:49:04
 Total Channels: 502
 Successful Scrapes: 466
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 v2raying: 323 configs
-kanfig_majani: 244 configs
+kanfig_majani: 224 configs
 GalaxyMVPN: 196 configs
 meli_proxyy: 179 configs
 freakconfig: 175 configs
@@ -24,8 +24,8 @@ outline_vpn: 116 configs
 appsooner: 114 configs
 satellitenewspersian: 111 configs
 selinc: 111 configs
-config_proxy: 110 configs
 armodchannel: 108 configs
+config_proxy: 107 configs
 info_2it_channel: 107 configs
 mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
@@ -117,6 +117,7 @@ darkma3ter24: 27 configs
 dgkbza: 27 configs
 Greenvpn2: 26 configs
 customizev2ray: 26 configs
+meliconfing: 25 configs
 itv2ray: 25 configs
 megavpn_link: 25 configs
 spikevpn: 24 configs
@@ -136,7 +137,6 @@ v2rayngn: 21 configs
 v2rayy_vpn13: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
-meliconfing: 20 configs
 configshubplus: 20 configs
 free1ss: 20 configs
 free_vpn_for_all_of_us: 20 configs
@@ -228,11 +228,9 @@ ghotb_scarf: 14 configs
 hoshmasnoiyfarsi: 14 configs
 kingofilter: 14 configs
 kurdvpn1: 14 configs
-proxy_mtproto_vpns_free: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
 v2raxx: 14 configs
-v2rayfree: 14 configs
 v2rayvpn2: 14 configs
 v_2rayngvpn: 14 configs
 proxystore11: 13 configs
@@ -241,9 +239,11 @@ father_vpn: 13 configs
 hopev2ray: 13 configs
 miov2ray: 13 configs
 mtpv2ray: 13 configs
+proxy_mtproto_vpns_free: 13 configs
 public504: 13 configs
 server_nekobox: 13 configs
 turboo_server: 13 configs
+v2rayfree: 13 configs
 v2rayng_v2_ray: 13 configs
 v_2rayng0: 13 configs
 PASARGAD_V2rayNG: 12 configs
@@ -300,7 +300,6 @@ mdvpnsec: 9 configs
 configasli: 9 configs
 configforvpn01: 9 configs
 freev2raym: 9 configs
-grizzlyvpn: 9 configs
 irv2rey: 9 configs
 lemonshopvpn: 9 configs
 mt_proxy: 9 configs
@@ -320,6 +319,7 @@ dargiiriis: 8 configs
 ehsawn8: 8 configs
 gervpn: 8 configs
 goodbyefiltering: 8 configs
+grizzlyvpn: 8 configs
 iraniv2ray: 8 configs
 iranvipnet: 8 configs
 lakvpn1: 8 configs

@@ -1,6 +1,6 @@
-trojan://yq5gyv1e-f5jt-jm9m-yzlv-3zx6nv8fzlls@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:25
-trojan://to0cy62f-j5s4-7zmr-eb4y-6oj0ddkwuyhv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hutgkvzv-9ty3-gejb-8rdb-5ge6f29klugb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://svylh54j-z26w-k5c1-kcgk-j530swowktpg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:49
+trojan://jq7czntv-zu82-150m-f1r2-v8rjevn8hbrq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://s25jknqe-092a-wu85-dcsx-hvoc6a2syfgi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3dmxKcEZWaEVwS2gvVlRUQ3ZPYWI4ZUVvSm8rTWVYSnBqOUNEeExZbTlvPQ@91.107.141.0:43486#91.107.141.0:43486
 trojan://ziIjOlyGbM@91.107.141.0:23825?security=none#91.107.141.0:23825
 vmess://eyJ2IjoiMiIsInBzIjoiQGFudGlfcGluZyIsImFkZCI6IjkxLjEwNy4xNDEuMCIsInBvcnQiOjIxMDI0LCJpZCI6ImM4NDg2Mzc2LTIyZjQtNDljZS05YjdmLWNiMGEzNTMwYmRiOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
@@ -10,5 +10,5 @@ vless://f97c7f12-e303-4679-8723-80edf65bbe37@91.107.160.74:39851?type=tcp&securi
 vless://7b0066b1-5c34-4cf4-bf89-6d98da423807@37.152.179.33:777?type=tcp&security=none#37.152.179.33:777
 vless://9044733f-2a53-4a83-bd70-4ad5a2dfd9e6@antipingfree.melin.shop:58634?type=tcp&security=none#antipingfree.melin.shop:58634
 vless://222badf2-8e87-479a-8b77-1a3c952edac2@antipingchannel.antiping.click:2096?type=grpc&security=tls&sni=vipping.antiping.click&fp=chrome#antipingchannel.antiping.click:2096
-trojan://pjvqbqwy-5qc9-qb2c-4yo9-d2pjnzurw7y6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gawqwclm-zagj-iuuk-oum5-xj39mi38cwfu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://o81qottw-jyx3-0fqb-bsrq-3n0f4xso648t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1yvh03ym-jcq5-m7co-7z84-t7cekaxhwdh7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://27je3mhm-5ga1-i5nn-345t-ur3ossue0z1d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:49
-trojan://gin9jbt2-bo3r-adss-joyd-v1ufd5msl66d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3ilsw9nq-l4la-x8az-gv30-m8hc1v7ggc1a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://y84t1mxw-89a3-26wc-l1v0-3ko0zx55w39j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 01:18
+trojan://ycud96mh-fimu-xv4t-uzpn-iju7qpo4flux@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ctfkqndf-h07m-ytnb-m0hq-roj8lhy4173q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://47d2ef41-bb32-4923-cfee-adb10df57f3c@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
@@ -136,5 +136,5 @@ hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@sw-oh.com.studentcp.ir:44444?sni=sw
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@ww.w.8.8.8.8.arman.com.studentcp.ir:10201?sni=ww.w.8.8.8.8.arman.com.studentcp.ir&insecure=0&obfs=salamander#ww.w.8.8.8.8.arman.com.studentcp.ir:10201
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@turk-gorg.com.studentcp.ir:37243?sni=turk-gorg.com.studentcp.ir&insecure=0&obfs=salamander#turk-gorg.com.studentcp.ir:37243
 hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@w.w.w.uae.studentcp.ir:20999?sni=w.w.w.uae.studentcp.ir&insecure=0&obfs=salamander#w.w.w.uae.studentcp.ir:20999
-trojan://2o3odaqf-4i5q-m4f0-kia1-hdedt4ls3fdn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://c8vq5291-ow09-vr0y-iixp-cxe79mzf1bbt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ufiatl8c-u28z-5efj-uggu-vr9laik7y4b3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n0rg83ge-p75z-nnso-o8zi-9lxrcz6xn3d8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

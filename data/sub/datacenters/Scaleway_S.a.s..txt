@@ -1,11 +1,11 @@
-trojan://0fqiid6v-5k1l-rifz-vxxl-cvpx1obcm9ml@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:49
-trojan://rfvj259q-exyp-26d4-1uxp-wbpbdp3zsrd8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zqd1bhad-ir72-8mh1-uuty-f8pcca4mb57q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@163.172.110.153:809#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.110.153
-trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
+trojan://llj7tykk-nhpe-zqi2-2nxo-4r0krkaoh445@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 01:18
+trojan://qh7x58il-8s3h-rrxi-c7ts-qovbvn206r5d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://a5myobof-vtf1-akoj-5hfh-u88anj09evt6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.32
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@163.172.110.153:809#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 163.172.110.153
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
 vless://0f952643-6643-4de6-9cf7-d3a424d01f8b@51.158.241.51:443?type=tcp&security=reality&sni=cloudflare.com&fp=random&flow=xtls-rprx-vision&pbk=RaNQIPwfe3N1-BhJ7WKLO90aYcu46xeCJZiFYAbyFWs&sid=42#NL 🇳🇱 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 51.158.241.51
 hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR 🇫🇷 ┇ HYSTERIA2-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.46
-trojan://631a92vt-ivpa-j7q5-92rv-xvqvmad2paqq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://yb2z8xua-3489-ijn2-eh9h-ehbni6zum5lk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
+trojan://qr7lvoa4-fzs5-fwqu-hu5m-gf92vb141b0e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1fgvt0fs-11oi-58ao-pht6-japa039s4m8o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

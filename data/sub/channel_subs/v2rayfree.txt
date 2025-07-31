@@ -1,6 +1,6 @@
-trojan://0kdp4sdx-lv8x-83ae-q55f-8sxk1eqvev5g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 09:28
-trojan://p4ak7sm0-129s-wlgy-8mm7-encx0mgtphri@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yeec5soc-s9rj-bd4w-x36a-9psadzxy13qm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://btg9gqu2-d7ts-6kje-xyzj-l1x0x0bo80g2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 09:56
+trojan://gq17dtno-yp2e-i4ah-hm9z-ewo0n8jr5ugy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ah7wb5uv-1l8l-a8zz-ba1b-7rkwi51r29ge@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
 vmess://eyJ2IjoiMiIsInBzIjoiWzU2OTk3XSAtIFRlbGVncmFtIDogQFYyQWxsIiwiYWRkIjoiMTUuMjA0LjIzNC4yMDAiLCJwb3J0Ijo0MTEwMCwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjQxXHUwNmNjXHUwNjQ0XHUwNjJhXHUwNjMxIFx1MDY0NVx1MDZjY1x1MDYyZVx1MDYyN1x1MDZjYyBcdTA2MzlcdTA2MzZcdTA2NDggXHUwNjM0XHUwNjQ4IFx1MDYyOFx1MDY0Ny1cdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjJhXHUwNjQ0XHUwNmFmXHUwNjMxXHUwNjI3XHUwNjQ1XHUwNmNjIHwgQHYycmFhbmQiLCJhZGQiOiJzcC5iZ2dhbWluZy5pciIsInBvcnQiOjI3ODM5LCJpZCI6IjhjYTU2NmU3LWI1NzctNDQ5NS04NzBkLTNkZDViYjliYTQyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -17,5 +17,5 @@ vless://065b8c19-e3b8-4e97-b44e-905738d6cb43@www.speedtest.net:2095?type=httpupg
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:666?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=stackoverflow.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#luna.postpapet.ir:666
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@goat.postpapet.ir:666?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#goat.postpapet.ir:666
 vless://4bfcf1f9-077d-471e-9fb9-005d082059ae@165.22.205.134:443?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&sid=a9#165.22.205.134:443
-trojan://wmj678w3-6iiy-rz0r-94n6-kw6m98dwzy0i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://dee5y9rr-rt1l-um8w-dcbk-udpxhkv1pxrt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://k06iu16n-ier2-u0is-8hf2-ozm7v9xg5dda@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7bx7qe12-rjpk-ouka-fibd-ghmpji9n9fe2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

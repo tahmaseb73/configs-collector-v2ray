@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 09:28:00
+Timestamp: 2025-07-31 09:56:07
 Total Channels: 502
 Successful Scrapes: 468
 Failed Scrapes: 0
@@ -21,14 +21,14 @@ sockss_http: 134 configs
 filter_breaker: 132 configs
 tgvpn6: 126 configs
 outline_vpn: 116 configs
-selinc: 116 configs
 appsooner: 114 configs
 satellitenewspersian: 111 configs
+selinc: 111 configs
 armodchannel: 108 configs
 info_2it_channel: 107 configs
 mtproxy22_v2ray: 105 configs
+config_proxy: 104 configs
 v222ray: 102 configs
-config_proxy: 100 configs
 mftizi: 100 configs
 icv2ray: 91 configs
 v2trayproxy: 89 configs
@@ -88,12 +88,12 @@ injectormconf: 40 configs
 savagev2ray: 40 configs
 evay_vpn: 39 configs
 v2ray_collector: 39 configs
+expressvpn_420: 38 configs
 nepo_v2ray: 38 configs
 v2rayza: 38 configs
 vipv2rey: 38 configs
 v2rayngconfiig: 37 configs
 jiujied: 36 configs
-expressvpn_420: 35 configs
 frev2rayng: 32 configs
 meli_v2rayng: 32 configs
 x4azadi: 32 configs
@@ -138,7 +138,6 @@ v2rayngn: 21 configs
 v2rayy_vpn13: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
-v2ray_configs_pool: 20 configs
 configshubplus: 20 configs
 fastshovpn: 20 configs
 free1ss: 20 configs
@@ -160,6 +159,7 @@ lexernet: 19 configs
 flyv2ray: 19 configs
 narco_nett: 19 configs
 nofiltering2: 19 configs
+orange_vpns: 19 configs
 outline_ir: 19 configs
 outlinevpn_ru: 19 configs
 proxycrone: 19 configs
@@ -201,7 +201,6 @@ freeiranianv2rey: 16 configs
 game_file2020: 16 configs
 goldenshiinevpn: 16 configs
 golf_vpn: 16 configs
-orange_vpns: 16 configs
 outlinev2rayng: 16 configs
 privatevpns: 16 configs
 proxy_mtproto_vpns_free: 16 configs
@@ -210,6 +209,7 @@ sobi_vpn: 16 configs
 v2rayfree: 16 configs
 vlessconfig: 16 configs
 vmessprotocol: 16 configs
+v2ray_configs_pool: 15 configs
 connectshu: 15 configs
 free4allvpn: 15 configs
 minovpnch: 15 configs

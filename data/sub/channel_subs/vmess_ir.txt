@@ -1,7 +1,6 @@
-trojan://44m5s6x7-wr8w-0cmc-r38r-xf52qkrkcrt9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:00
-trojan://cf1zuftm-qhjj-qjqt-ekc3-c2031sp2yx7i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rqwkx6kp-z4mc-mby3-xfn0-k8nkhr3iazqq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.198.54:8880?type=ws&security=none&path=/a5B32PZjS8yfkA3C?ed=2560&sni=vngsuPPLY.IP-ddNs.coM&fp=randomized#104.17.198.54:8880
+trojan://xcbql72z-l6hl-3faw-ughf-vjgwirkpii1h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:21
+trojan://cipzs5yj-ejip-21fk-6cpn-0r05r4mwdzf9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qmrfqcac-xw5h-07qp-nxc0-ugxkcsl804k1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#fierce-data.seotoolsforyou.co.uk:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP/ed=2048&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
@@ -20,5 +19,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security
 vless://3891b3ce-bb3a-45bf-bd8e-90e2487d121e@wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?type=ws&security=none&path=/ijiDwDw8BcM9ieHc?ed=2560#104.17.41.52:8080
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560/?BIA_TELEGRAMMTMVPN---MTMVPN---MTMVPN#172.67.65.158:8880
-trojan://eyubtr3f-e8i9-ypzk-v9t2-qsq28ax0y40u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h0uu1dau-w8s4-kmbb-hfn7-obgamem5ejcv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&sni=smart.gheichi.org&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
+trojan://4iffuspg-u7lw-s8jx-rr4w-y67nbau7c4yc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://a3iqyr49-p99j-we0v-om9p-gh6rf8c13zmz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

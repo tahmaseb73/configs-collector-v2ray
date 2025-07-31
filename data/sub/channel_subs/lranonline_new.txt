@@ -1,6 +1,6 @@
-trojan://b4o68jzm-p6wv-7mlc-jl96-9678xp5lreh7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:00
-trojan://8vqzajpj-vs6v-zea4-qrd4-3c2ifk4cvq7m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xc3vb4vh-0aqb-845z-x9by-0mzqfnwueydy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://nidv07pu-mipv-m7yg-zvz6-fixkhtnij0fw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:21
+trojan://p41unti7-rxuv-44zu-xd3s-xpb8y5s8jha2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://pri6g78y-2vz3-5zui-1u0k-ool5l34vxzih@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://a9b8d890-4e70-4f42-a51d-915b65b539ce@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
 vless://5f589460-0acc-4e7b-8bf0-686d033a2373@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://52428b83-b414-4321-8aea-1bd51d68b884@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
@@ -25,5 +25,5 @@ vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@chat.deepseek.com:80?type=ws&securi
 vless://Telegram---SRCVPN@91.107.129.66:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3080
 vless://Telegram---SRCVPN@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
-trojan://y56ijvwq-pqzm-2tin-6f64-blpibiwlciih@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kl242pwa-1kz9-p4q9-39a5-yxruqdw720ry@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://tphs6um0-rihm-ij1c-ywzz-32539ib1yc34@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://oaw0y1d8-kxgc-n4wb-ohw6-kd0c6jz5y5o3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://4kdohtiv-ik08-79yi-kui8-1czjcijzasgb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:59
-trojan://bt0zrvrk-ucxr-5p0z-f0bv-tch3cv6jqj26@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o5ja4azi-t6uc-0e9i-c3mj-6h9tgzn6gwa6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://f1sr71by-w5t7-4por-0d2h-izh3uyti8b3p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 09:28
+trojan://9zjru9tt-vrg7-i87u-yz3p-db0av5e3jz44@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dzvp9kp3-6tie-zwdv-jknb-0s500wofbjz5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL3YycmF5NHdpbiIsImFkZCI6IjY1LjEwOS4yMDQuNjMiLCJwb3J0IjoxMjE4NCwiaWQiOiJjNGFiOGIxZC0xMWQ0LTQ1MGQtZjdlNy04MjZjMjJjMzMyMTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL3YycmF5NHdpbiIsImFkZCI6IjQ1Ljg1LjExOC44OCIsInBvcnQiOjQ0MywiaWQiOiJlZTMwZDNmZi1kYTE0LTRlYTgtYmNkMi0wMmU4ZWUzNjY3ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhzdHIxNjc1NTIwMTA2MjcwLmFpZGFwcC5saWZlIiwicGF0aCI6Ii9haWRhcHAubGlmZXZ3cyIsInRscyI6InRscyIsInNuaSI6ImhzdHIxNjc1NTIwMTA2MjcwLmFpZGFwcC5saWZlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL3YycmF5NHdpbiIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6NDQzLCJpZCI6ImE0ZGYwODlmLTNjMWMtNGNmNy05YTVmLWFiNmQyMjEyMTM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidjIta2lhdmEua2lhdmEud29ya2Vycy5kZXYiLCJwYXRoIjoiL2FwcHN2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Mi1raWF2YS5raWF2YS53b3JrZXJzLmRldiJ9
@@ -9,5 +9,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5NHdpbiIsImFkZCI6IjkxLjEwNy4xNjAuMjQwIiwicG9y
 vless://c0625efa-c901-441b-da4d-45ed3cb0f84e@91.107.147.213:40886?type=tcp&security=none#91.107.147.213:40886
 vless://c0625efa-c901-441b-da4d-45ed3cb0f84e@91.107.147.213:40886?type=tcp&security=none#91.107.147.213:40886
 vless://9a84e4a2-731d-4dd5-a22d-796c7a345e39@www.speedtest.net:443?type=ws&security=tls&path=/aboutws&sni=v4.kiava.workers.dev#www.speedtest.net:443
-trojan://iz59jy1w-q06u-9ksh-w8rf-pzheedq994ul@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4mqiveve-8zw4-5jmg-z6ei-wm9lhbar08av@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://3jmfd93h-y990-292l-kdt1-9jorcwpoys2c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wn1bgdj2-vizd-o8el-yx1u-kw9ure2gmn70@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

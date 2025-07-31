@@ -1,6 +1,6 @@
-trojan://dwvk9hyb-hmfl-55td-cjvn-aar8ogjw8tma@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:59
-trojan://159ceak2-t55c-asw2-sevz-1b3vii7twgbs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o3hwirio-tcu8-ltum-au8b-rfbmbwma9bs6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://n17984pw-o4hs-nf2l-8ks1-sk7y3r6io79k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 09:28
+trojan://qvr4lms6-s66t-vllr-7fk4-zjvv05junfrg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mh89ubfw-pube-68rt-6n47-ubeb3v8wvqu0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://NISHIKUITAN111@173.245.59.30:443?security=tls#173.245.59.30:443
 trojan://NISHIKUITAN111@172.67.23.69:443?security=tls#172.67.23.69:443
 trojan://NISHIKUITAN111@198.41.208.37:443?security=tls#198.41.208.37:443
@@ -80,5 +80,5 @@ vless://bcbcaaa-bcaa-acab-bcad-caaabcabbccb@127.0.0.1:1080?type=tcp&security=tls
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?type=ws&security=tls&path=/b_vMtHG0xAy77bOQ?ed=2048&sni=tEl-PPaL03.CHAYA-duRgan.wOrkErS.dEv&fp=randomized#172.67.203.57:443
 vless://ea233827-38b4-4397-a2d1-4cb49bb6bc18@::ffff:55ed:d3db:80?type=ws&security=none&path=/vless/#::ffff:55ed:d3db:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.27.132.154:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#100.27.132.154:22222
-trojan://l7ejxnoo-o6tn-41ky-5rug-ulvdvxjdg3k5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://yo9i0ofo-vn2q-njra-gr29-fg1387r3d2wu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://683i7ge9-xh50-npf1-squc-lslmv67xo5e1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://20a9dy30-sms1-m6du-1x5f-pp1qz1wgpe7p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,19 +1,20 @@
-trojan://ifzgbb7a-jd7u-ques-3ylt-1sstltemab5u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 21:22
-trojan://w2rnwqq3-0y9e-2dzq-dnhc-iij9yv8xsvy8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://q4icgx42-kzfd-2s0u-afz2-pa4kui3dnszq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7pobjaoo-q16z-zrqt-fm2n-z555zkzow1hy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 21:54
+trojan://4atk5ftq-u2t6-1u8a-1vcx-nepsl2v45zgf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3majy6db-xqru-530o-r8q0-qy20uorrsifd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#fin.outlinebot1.ru:5904
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#45.87.175.154:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#fin.outlinebot1.ru:5904
 trojan://8OXD5VVt8s@176.32.39.29:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#176.32.39.29:443
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?sni=speedtest.net&peer=speedtest.net&security=tls#51.91.11.29:80
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org&peer=rc6.freeguard.org&security=tls#198.23.229.250:443
 trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
 trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org&peer=rc8.freeguard.org&security=tls#192.3.107.252:443
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjI1My4yNi4yMCIsInBvcnQiOjQ0MywiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJhaWQiOjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii93cyIsInRscyI6InRscyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjEzMS4yNyIsInBvcnQiOjIwNTMsImlkIjoiMzUwZTJiMDEtZDQxMC00NGE2LTkwYmEtNjQ4M2YxMDYyOTcyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyYWsyZDQuODkwNjAwMDQueHl6In0
+trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?sni=vzwzasc.cn&peer=vzwzasc.cn&security=tls#104.149.155.13:443
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net&peer=13c2c931-swin40-swy6li-tni2.cu.plebai.net&security=tls#13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTEuNzkuMTAyLjI1MyIsInBvcnQiOjgwLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIifQ
 vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?type=ws&security=tls&path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&sni=fishlab.ucdavis.edu#fishlab.ucdavis.edu:443
 vless://---Parsashonam--10-@www.speedtest.net:8080?type=ws&security=none&path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam#www.speedtest.net:8080
-trojan://sdh56115-gjec-kl06-8ka6-h13uqj6w09db@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://82vu9gh9-y2ux-01f7-c2jg-eklylrgkmjj3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://wrukgra2-dp19-z6un-j5mn-juc2f8ghkppj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://91t1kjrk-okxk-ldbg-ltku-1r3ea0hos9s3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

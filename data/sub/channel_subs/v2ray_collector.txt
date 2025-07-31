@@ -1,6 +1,6 @@
-trojan://od5vjam9-ewvx-w4m1-x2ml-ozra8lcn34y7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 23:16
-trojan://1lwsgoq4-xhm0-xp7c-li38-onou95inw8gc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tlxb0rmd-0l0v-pxv6-7sf1-cooumif3lmwq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://eszvnzc8-friw-yf67-r3d8-flytkz6hwt8k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:00
+trojan://i189uvmj-e6wp-qv8b-zp8k-lqfnf44ysm05@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4usidm5c-cr1f-b4hr-4frr-eu5zy87jgvyo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://bpb-trojan@172.67.70.92:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#172.67.70.92:443
 trojan://installshield@38.180.249.177:8443?security=tls#38.180.249.177:8443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.41:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#156.238.18.41:8880
@@ -40,5 +40,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443?type=grpc&security
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#89.116.180.248:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#108.165.152.205:443
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@46.254.93.254:8880?type=ws&security=none&path=/Telegram🇨🇳#46.254.93.254:8880
-trojan://2ixcfr55-wcd0-t2r5-5492-ktahcz1azu9a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://naz4szk3-r7fr-fjdt-9kwz-ztdq9tpcsu8k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1kj0jqxo-qxwk-zq0t-iazj-o080to1vl801@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cczzgfay-en11-faqp-nu6c-scphmnng2enc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

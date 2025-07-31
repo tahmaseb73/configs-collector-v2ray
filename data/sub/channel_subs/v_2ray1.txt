@@ -1,6 +1,6 @@
-trojan://pxiqknk5-c4bm-os1i-43jo-bf46c8epi0vo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 23:16
-trojan://7wkrg07i-n8fk-299d-ysdv-qxgy8ary7uri@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://m2px2vpe-9klw-hafc-jdjx-op0piwyxv8pv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://wvza4iid-y9d6-ww43-zkqo-o5rmfz7zcg9l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:00
+trojan://m6mh7kus-qr6n-jllk-wh83-oon9mz1v8swx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://jzqxaeg6-bf3f-wc5g-c9jc-dsp93tvj2vyr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSVM0NHVzZjJUZzI3a3lnVTdjNVRsTnVSaWdOcmJuVENtMHVvSVRsVDBzPQ@18.199.145.153:2087#18.199.145.153:2087
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqY0FIVVJsQ2ZFTnBKbUI3Nkgwajd3@49.13.19.135:32927#49.13.19.135:32927
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll2.fast2rayy.eu.org:443#fast_2ray_telchannelll2.fast2rayy.eu.org:443
@@ -16,5 +16,5 @@ vless://0078ca67-afc3-476f-9447-b991fc657a36@visa.com:8443?type=ws&security=tls&
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?type=ws&security=tls&path=Path/Telegram@V2ray_alpha/?ed=2048&sni=Hagh.PaGes.DEv#visa.com:443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?type=ws&security=tls&path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&sni=edge.020770.xyz#172.64.111.9:443
 vless://95d6261c-b971-4dcb-b02e-93b91fe4765c@dnschecker.org:443?type=grpc&security=tls&sni=fm.irandtehran.org&fp=chrome#dnschecker.org:443
-trojan://f5lumpap-su6i-87un-z5te-lozk1jdlefg4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fupobegs-68xd-oixz-6wel-qxkn7n0dszci@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0oa7zf3x-47vi-u459-uel6-7q0iri8aobbd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2uqwrmel-ck7u-os65-e86a-0l68gau61va1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

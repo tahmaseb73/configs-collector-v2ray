@@ -1,6 +1,6 @@
-trojan://c6x3shn5-pa47-jcpq-0gsv-3ke7237hegfl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 23:16
-trojan://ppesrozd-m2l1-7w73-baw2-4i7xbjf20ldn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://l37iz8m1-9ofa-00q6-crjp-7y72jt048mgo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://14ojyush-aje6-1zx5-ak6z-cx6fn6c6fn1p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:00
+trojan://bhrqhb47-se7a-0s2n-5nhi-2f6w27vc6t7b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mhnlvnlr-amnq-g3hm-1og8-ufrzuqoe684k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZTkdfRkEyIiwiYWRkIjoiaWQuYXJ0dW5uZWw1Ny5ob3N0IiwicG9ydCI6NDQzLCJpZCI6ImFjMjJjOTI3LWY4YzEtNDNiNC04OGRiLTYwZWM3YWJiZjU5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImlkLmFydHVubmVsNTcuaG9zdCIsInBhdGgiOiIvdm1lc3MtdGxzIiwidGxzIjoidGxzIiwic25pIjoiaWQuYXJ0dW5uZWw1Ny5ob3N0In0
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZTkdORVQgXHUwNjI4XHUwNmNjXHUwNjI3IFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCIsImFkZCI6InVuaXF1ZW5ldDIuaW50ZXJzdGVsbGFyMjAyMy5zaXRlIiwicG9ydCI6ODAsImlkIjoiNGQ1N2I0NmQtY2QyZi00NmZhLTg5YmMtYzNhY2Q2ZTExNmJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQFYyUkFZTkdORVQgXHUwNjI4XHUwNmNjXHUwNjI3IFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCIsImFkZCI6Im10bi5oZXlkYXMuc3RvcmUiLCJwb3J0Ijo0NDMsImlkIjoiYzAxYTJiMGYtMGJmZS00YWRlLTg1OGUtNmU4M2IxODQyY2NjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZW5nbGFuZC5oZXlkYXMuc3RvcmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJlbmdsYW5kLmhleWRhcy5zdG9yZSJ9
@@ -9,5 +9,5 @@ vless://4a9d1ca5-130f-4b15-ade4-ae98bfe4c2f7@irancell.foxnim.info:443?type=grpc&
 vless://32d4b343-3d72-4758-9a1a-80fbb533d895@tre.webonim.ir:8080?type=ws&security=none&path=/#tre.webonim.ir:8080
 vless://732f088b-4a6d-4ece-ec42-0f6afaf01313@v2rayfree1join.ddns.net:2053?type=grpc&security=tls#v2rayfree1join.ddns.net:2053
 vless://732f088b-4a6d-4ece-ec42-0f6afaf01313@v2rayfree1join.ddns.net:2053?type=grpc&security=tls&sni=gr.newv2rayfree1.shop#v2rayfree1join.ddns.net:2053
-trojan://ecn0fuje-hhur-1f93-w6i0-mg59kamkhj9f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://aj4lja2s-jndf-vk0r-9e68-5ih70jeglmh1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://sgwhbi5a-6ulg-p66v-sx1o-fp5o1iqffjsp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hx4fzfwg-nq87-v8ie-7dsr-3lzctqnv4abb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

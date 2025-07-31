@@ -1,11 +1,11 @@
-trojan://6idnxt8p-qw4x-hvwk-0nd2-x7sijcz7gon7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 23:16
-trojan://4bgfvwwq-wnw3-lz2v-avy8-zbsod7t2q6fn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6hbuzji6-md94-1lv7-e6oy-yftsr6yeirbz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+trojan://xih3apfd-g0xt-5s4y-lbaw-hgnjm1e5us7z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:00
+trojan://jmd0m9eh-7l6g-ajak-zs5n-2ezmq8af8xts@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://byewmgpn-dpzp-68dc-xn5d-u24lw7iusit8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&sid=e2#NL 🇳🇱 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 85.234.65.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI@92.38.171.215:31348#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.215
-hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@ww.w.8.8.8.8.arman.com.studentcp.ir:10201?sni=ww.w.8.8.8.8.arman.com.studentcp.ir&insecure=0&obfs=salamander#AM 🇦🇲 ┇ HYSTERIA2-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.203
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHLUNvcmUgTGFicyBTLkEuIFx1MjUwNyAxODUuMjQ0LjIwOC4xOTYiLCJhZGQiOiIxODUuMjQ0LjIwOC4xOTYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
 vless://0cf19093-b%6167-4ff6-b8d0-%61%6112%619%65968d8@45.82.161.120:49415?type=grpc&security=reality&sni=microsoft.com&fp=chrome&pbk=RLR_5eRZzCQjzr0dpY4-TW2C8EdNJuiGcq7RjHPQw3E#US 🇺🇸 ┇ VLESS-GRPC-RLT - G-Core Labs S.A. ┇ 45.82.161.120
-vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&sid=e2#NL 🇳🇱 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 85.234.65.120
-trojan://bj41qo1u-c60y-ispv-9hi1-wsxztc3kap3e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mk3os9q6-1uem-xqr6-ihiw-m4ch4jzy2ghn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://85d3ef5ea053c9d65c32e535d38ad6c3@ww.w.8.8.8.8.arman.com.studentcp.ir:10201?sni=ww.w.8.8.8.8.arman.com.studentcp.ir&insecure=0&obfs=salamander#AM 🇦🇲 ┇ HYSTERIA2-TCP-NTLS - G-Core Labs S.A. ┇ 85.90.207.203
+trojan://jkrokfuf-6uyh-600p-s149-izj7r0j7gqbb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ehv3la4z-hfzx-n3z9-c60s-pyjf0vgr36kj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

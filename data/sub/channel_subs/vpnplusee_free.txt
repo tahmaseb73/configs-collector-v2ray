@@ -1,8 +1,6 @@
-trojan://wzzifg05-hksw-ahxb-rg0d-wod6crhi2rew@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:21
-trojan://30lkzvj9-b23i-r9xe-50mc-xigy00xd8nd3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://2er352u1-gy1f-6zos-dacy-8aydhxcwfs0k@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.18.36.24:443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+trojan://6ni9wth1-dgzu-dtnv-htak-kwdqrh95ak2v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:49
+trojan://9l85lvgp-y4bt-c6x1-pbz9-6xjjt98h1692@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://61hbkbzw-1x98-du6o-f12g-8gafix1ebs36@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://bfef4eef-27d9-40b5-a583-f57f9ada2b26@catherinede.hpcdn.info:80?type=ws&security=none&path=/44619/wsMMad#catherinede.hpcdn.info:80
 vless://9e1c4dda-0ebb-43bb-8136-cd1cf5a84601@karmavpn.netmeli.com:33727?type=tcp&security=none#karmavpn.netmeli.com:33727
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=ePi.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
@@ -14,6 +12,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&secur
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?type=tcp&security=none#91.134.66.127:22671
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#sweet-combination.seotoolsforyou.co.uk:80
 vless://ServerNett@fr.safeline.12.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=edge&pbk=XetKmjWtt6D08aG4I5F9tETkO4RogFgDaqW6F-HHoyA&sid=64ede3f582de#fr.safeline.12.afterhav.ir:8880
 vless://ServerNett-ServerNett1@5.75.201.180:14703?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=Y9zKrv5hG5fbRdibewYRmulK0HEHX6QgaU30EbKxrAU&sid=a3#5.75.201.180:14703
 vless://15449e06-b519-414a-9e0d-fbb4a0fd2780@speedtest.net.zula.ir.nobitex.ir.shakhle.ir:39001?type=xhttp&security=reality&path=/?ed=80@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&sni=stackoverflow.com&fp=firefox&pbk=7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o&sid=f23547#speedtest.net.zula.ir.nobitex.ir.shakhle.ir:39001
@@ -21,5 +20,6 @@ vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&secur
 vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#103.175.79.10:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&security=reality&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=cd0b#91.99.153.13:443
-trojan://7t5cf7qw-16xl-t23o-2dcd-gfu06fttp9t9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4gngrbl7-7yyd-xj3b-g8u8-u62jw8wileg4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@ru.sfasti.ru:443?type=tcp&security=reality&sni=ru.sfasti.ru&fp=chrome&flow=xtls-rprx-vision&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#ru.sfasti.ru:443
+trojan://l9wif6jk-qf0k-je50-ldt1-cn0z2ny7nja5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ysuu46dl-gj11-bf3w-30vf-5w6cpn4zapvz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

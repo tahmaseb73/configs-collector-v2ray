@@ -1,15 +1,13 @@
-trojan://x7l3bien-ok4t-rlf5-fbcw-i9scew17i7sd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:21
-trojan://c90rafuo-qig2-i2bb-2bwz-z9ieg4pokk6p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6aggjqpr-pu6p-q2vm-4pc4-tpgtvoy7r12n@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://74mdtox4-r5ln-bv0e-avuf-rh20iqyb8no7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:49
+trojan://0zn1muav-hphr-zuy2-q6th-7bheqga0nzdr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hhyl0pno-gi77-ayn4-2pz4-djget5dh21r5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://b4a5c9ba-0cd1-462a-ab34-6683cf8f25fa@cert.gamberonvps.ir:28076?type=tcp&security=reality&path=/&sni=www.zula.ir&fp=chrome&pbk=aFAL9AlapF2P4VEIiGOf4O_E-Z1wryr1AnACoBgpgCg&sid=ac5d#cert.gamberonvps.ir:28076
 vless://45beb77a-9413-4e97-b148-cb219cf4a9b5@cert.gamberonvps.ir:28076?type=tcp&security=reality&path=/&sni=www.zula.ir&fp=chrome&pbk=aFAL9AlapF2P4VEIiGOf4O_E-Z1wryr1AnACoBgpgCg&sid=5e8fd8#cert.gamberonvps.ir:28076
 vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@91.99.205.255:443?type=xhttp&security=reality&path=/&sni=tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=98990f747a#91.99.205.255:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&security=reality&path=/&sni=tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=827cc1dd64e679#91.99.153.13:443
 vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?type=tcp&security=reality&sni=digikala.com&fp=chrome&flow=xtls-rprx-vision&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#62.60.156.102:8080
-trojan://rw2llceu-35ad-g0wp-44vs-pqa6mrnmk2xi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3q448v9f-8he0-wa70-oqwk-bbwekno2i2n1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://u4pfntcd-emg7-603h-mepx-3svbeph7lsrn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m2vdurig-3si2-u1w8-r8st-24hmmtu6583v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

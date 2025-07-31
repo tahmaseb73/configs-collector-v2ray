@@ -1,10 +1,10 @@
-trojan://64k0ie59-cnei-fmm0-obne-9oltlfzeulx9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:21
-trojan://m6pjw27x-wv8w-k0rk-rv7c-jcvgq8twseit@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mzna4rhb-qxpg-mkgj-35ir-ybshb2v2lie0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://a41ec4d6-1ef3-4a00-bd24-5abcce37a40f@52.156.208.215:33371?type=tcp&security=reality&sni=sourceforge.net&fp=chrome&pbk=XknqXVFBQSpJEmo0oeKsLDeOGfhtmuurXd75BywgUlg&sid=456ad3a1b9f0#IE 🇮🇪 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.156.208.215
-hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.209.204
-hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.121.222
+trojan://6phu5dy9-swb0-0usw-w19d-e6pugtw9xe0y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:49
+trojan://lk0ikhe6-eotb-yafy-1kc7-y8vr67do3s6v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6uztruf4-ou4t-8v1n-07z6-hlkd0hle4i4g@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.69.68.162
+hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.209.204
 trojan://telegram-id-directvpn@176.34.232.63:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 176.34.232.63
-trojan://qsqtmo7a-mv9o-r5vg-zi7d-450nbpx9qtm5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://u5uayzs1-9skd-7muv-9j21-m7z3t1cpprt0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-ie-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IE 🇮🇪 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 108.129.121.222
+vless://a41ec4d6-1ef3-4a00-bd24-5abcce37a40f@52.156.208.215:33371?type=tcp&security=reality&sni=sourceforge.net&fp=chrome&pbk=XknqXVFBQSpJEmo0oeKsLDeOGfhtmuurXd75BywgUlg&sid=456ad3a1b9f0#IE 🇮🇪 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.156.208.215
+trojan://2ab7glpl-06bm-kp9e-1i84-zpt05tblm2l6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://frve1jht-c4kq-3dwc-a8ij-wz914keq4bu7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

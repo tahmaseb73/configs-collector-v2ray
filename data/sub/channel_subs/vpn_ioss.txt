@@ -1,6 +1,6 @@
-trojan://oooyb81z-lkd2-b4nx-7gc0-lrihgh4258hk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 10:54
-trojan://te9qkio6-2jry-osg9-ycha-mjj6m643fp04@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wpjj1as2-hbc2-zkwp-laez-pg50fujshuk8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3znvob59-z0i0-jro4-vvz1-dxrz82boz6y6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:21
+trojan://0dn4futf-7la0-axoi-oz4f-o6lcjrozc7zj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0yakvye2-jagc-m6i7-gm4s-5ih2t7zmcdio@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
 vless://756faf87-c6b2-404f-851f-91de98186531@tgju.org:80?type=ws&security=none&path=/?ed=2048#tgju.org:80
@@ -19,5 +19,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?typ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#v05.vxlimir.com:1370
-trojan://18u8avxr-xunc-vfug-z5h5-ln17d211ltqp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://l8su5ee7-0xpe-30tu-m6xu-jp3i4smwoc0a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kni733oa-m214-z3vq-be0s-rx3l3l47qsf5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://59u83g8c-c3xj-it1h-wylp-t7yzsk336oux@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

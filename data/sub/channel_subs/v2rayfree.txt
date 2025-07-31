@@ -1,9 +1,7 @@
-trojan://sal5qz2n-w0f8-bo6t-6zmh-grk7uweooxd0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:28
-trojan://c7epv0lt-lkzk-2ifv-n1zh-p6r1l4i2bfj4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://or3qtzxl-abb1-8piw-33hz-vy4u8efrh11t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9kgirhn4-kmj5-7j2j-uwq2-z5yy35pq3dk2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:56
+trojan://rdnpnor5-o4km-qh6a-qpc2-7kaj0357qjpt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://23y7xgvh-ghhj-sicm-gbnb-uvl4cm28o54u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
-vless://b18be730-2f79-4ee3-af70-dd2557e0f43f@www.speedtest.net:80?type=ws&security=none&path=/ali#www.speedtest.net:80
-vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?type=ws&security=none&path=/www.speedtest.net/index.html-www.google.com?ed=2048#8.47.69.4:80
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?type=tcp&security=none#51.222.84.59:14643
 vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?type=tcp&security=none#51.222.84.252:25429
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?type=tcp&security=none#78.46.251.109:2020
@@ -16,6 +14,8 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?type=xhttp&secur
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@104.25.27.160:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#104.25.27.160:2095
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@162.159.51.67:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#162.159.51.67:2095
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@108.162.194.19:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#108.162.194.19:2095
-vless://d8600793-c79e-4f54-aa7c-fce7537ce903@158.160.131.112:20520?type=tcp&security=reality&sni=www.yahoo.com&fp=firefox&pbk=_Nm8JyrUKhpT8TVj_mes7oJmu0UVyjfUXfI-RRUR6Gw#158.160.131.112:20520
-trojan://5o4q2dla-xit8-q8ke-wigk-3yzei2fmedxk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bhykeilf-ayfp-namq-be5t-zjjhiqhov33f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://Parsashonam-Bot-10@185.146.173.39:8080?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8080
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
+trojan://9quri2j5-1x2a-v7ag-8rwn-06jjr6ptm275@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yusfg0mi-1016-teap-zat2-orfn6tugolbb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

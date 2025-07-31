@@ -1,10 +1,10 @@
-trojan://s6icd1b3-sir8-nq4h-l293-74wt3v2vcu2a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:28
-trojan://oi62pfsc-ubig-xnl4-hxlv-ixj8bjo9q7z5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fayfw3qp-0sln-dahz-ywqj-x44jkzn64jnl@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://34hm164u-1704-03k7-kjwe-sj1cjalonsjx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:56
+trojan://ozdzpw3d-ha2m-l4tp-xk75-kgfnlksdb2d1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://p9la3g8c-lngi-4d8v-v3bv-vvee7qt6m8ab@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
 tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.91.118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.218
-trojan://xaq95vhu-wwi5-zo4x-oc4r-1qoewzzk581c@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://28556kim-69iu-zwog-p2qx-mecr2gle5elh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.91.118
+trojan://qfe5zm88-i8n6-dk6x-v5z1-qid4jya72xjn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5r39z2fo-xh0n-iiwv-o5f7-u2b2nwa1d9bf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

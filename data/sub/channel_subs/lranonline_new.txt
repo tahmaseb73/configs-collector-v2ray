@@ -1,14 +1,10 @@
-trojan://v4eqlniq-e0s1-z562-9hb6-sypd3zqcr3n2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:28
-trojan://j5gpdyj1-n782-m46o-cmtj-4plduqhef0xz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://p6s0a6mj-gx9n-tq2x-9s7r-5wce87g24eju@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
-vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
-vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
+trojan://ky63eibs-ccxd-uuc1-60xe-nd30yx1h1a0a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:56
+trojan://37ncim7b-3yiv-6a7y-kqlu-a0zqyia6eoue@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rdwwkbho-bcc4-9uoj-nqri-twxssppb7a21@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2ab29dc3-2dc1-40bc-8e7e-8c3b5beacbc6@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
 vless://7c9eba49-5b15-40a5-d615-3a4e32ecbf22@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://bbe59f7a-e4c1-4a1d-cbbf-67d44c7d7733@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://bbe59f7a-e4c1-4a1d-cbbf-67d44c7d7733@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=ePi.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
-vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
-trojan://agmph79n-unl8-e4bk-0yhl-m54jms66kiee@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://quw7z5ux-4jck-iuhe-p6l5-0ci0rklt383f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://g4l6kso1-8ml2-r4ku-l0ov-pdghzec3y6hy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nd2ksc7f-nkn6-gqnh-u7nn-2a1tsyb9l89v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

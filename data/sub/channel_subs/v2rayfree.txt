@@ -1,8 +1,6 @@
-trojan://inblb1t1-g2vh-ssl3-hnco-pysar4iyus7z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:51
-trojan://rsc1i2n4-e2o7-pt6v-c2lt-yt5hylbmzl5f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://lz785hy8-fybr-31tl-pcu6-say0mg659ld6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
-vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
+trojan://rygkwr07-otej-kyne-4vhl-t7bab8abhuqk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:25
+trojan://izz6f93i-3bf1-z6jo-8o5p-z1aizjh65obv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://921c6a8u-ibwj-kom0-58ro-xwh1ebdema33@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.18.36.24:443
 vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://2da0c3ec-1c59-43bf-a1b0-e8d984a1dc54@filmnet.filimnet.com:80?type=xhttp&security=none&path=/cdn/assets?v=12#filmnet.filimnet.com:80
@@ -14,5 +12,7 @@ vless://Parsashonam-Bot-10@185.146.173.39:8080?type=httpupgrade&security=none&pa
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.18.36.24:443
-trojan://1h6wsc5i-637k-7hgi-adfw-r4d4ifgaatkz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tv2qm7rl-dz1m-lg4x-iz4h-lcesunc0o49g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5690f021-86a7-4712-b143-7944c7380436@38.244.163.100:35048?type=tcp&security=none#38.244.163.100:35048
+vless://e7dc94db-a940-4bd0-8f98-a926b2f2b734@194.62.157.52:33162?type=tcp&security=none#194.62.157.52:33162
+trojan://1xeomxz9-ptmb-md8j-7jkj-3khi238clsce@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sclthq2y-yh5z-sn59-3l1h-zpfpa4np5il6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

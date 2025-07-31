@@ -1,8 +1,7 @@
-trojan://h1m4of9t-r349-g1c5-a1gb-tq33pdo63ve3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 22:31
-trojan://f39iw54y-03uj-t98m-qi7z-xppdkeschy6t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jx5ytlmn-plja-3i85-09oi-c84s4o3ag7ql@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
-vless://5247b29e-a81d-4870-bb17-f9c5a3e1c3e8@free-sg.vpnkey.dev:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E#SG 🇸🇬 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 91.242.241.45
+trojan://1x1ri92y-tw5e-wzya-pm6j-k79dcgc9jcdy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 22:51
+trojan://5sv902b1-o3pu-36jq-qqtl-925nloya5mqf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://upc5yuf1-iw9k-ia88-wemz-fdwhqp39rihs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11683?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 185.28.119.228
-trojan://1idnxr56-ndai-5obc-0u0p-1z9tq7rke59j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://sp6ovmje-56i4-2uc1-szuf-sgq13ukvtfmv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
+trojan://9yqsr2mm-v4uy-3t9z-wtc4-thzscgama3hk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rcpn7gap-2s99-1fjs-nzk3-x1f6o64hzc7n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

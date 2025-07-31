@@ -1,11 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 19:52:52
+Timestamp: 2025-07-31 20:28:09
 Total Channels: 502
-Successful Scrapes: 466
+Successful Scrapes: 467
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 v2raying: 323 configs
+v2ray_configs_pool: 307 configs
 kanfig_majani: 204 configs
 GalaxyMVPN: 199 configs
 meli_proxyy: 181 configs
@@ -29,10 +30,10 @@ info_2it_channel: 107 configs
 mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
 mftizi: 100 configs
+config_proxy: 96 configs
 icv2ray: 91 configs
 v2trayproxy: 89 configs
 freevpn3327: 88 configs
-config_proxy: 85 configs
 Tweety_Proxy: 82 configs
 farahvpn: 81 configs
 v2raycrow: 81 configs
@@ -53,12 +54,12 @@ arv2ra: 66 configs
 torang_vpn: 63 configs
 v2ray_sub: 62 configs
 fastfreeconfig: 60 configs
-freenet_melli: 59 configs
 shadowproxy66: 58 configs
 ShadowProxy66: 58 configs
 prroxyng: 58 configs
 v2ray_youtube: 58 configs
 freev2rng: 57 configs
+freenet_melli: 57 configs
 mester_v2ray: 57 configs
 mehrosaboran: 56 configs
 mr_vpn123: 56 configs
@@ -113,11 +114,11 @@ mowjproxy: 28 configs
 vmessiranproxy: 28 configs
 darkma3ter24: 27 configs
 dgkbza: 27 configs
+configx2ray: 26 configs
 Greenvpn2: 26 configs
+ConfigX2ray: 26 configs
 customizev2ray: 26 configs
-configx2ray: 25 configs
 meliconfing: 25 configs
-ConfigX2ray: 25 configs
 itv2ray: 25 configs
 megavpn_link: 25 configs
 spikevpn: 24 configs
@@ -158,7 +159,6 @@ lexernet: 19 configs
 configv2rayforfree: 19 configs
 fastshovpn: 19 configs
 flyv2ray: 19 configs
-ip_cf_config: 19 configs
 narco_nett: 19 configs
 outline_ir: 19 configs
 proxycrone: 19 configs
@@ -170,6 +170,7 @@ tehranargo: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
 garnet_free: 18 configs
+ip_cf_config: 18 configs
 jokerv2ray: 18 configs
 khoneproxy: 18 configs
 narcod_ping: 18 configs
@@ -203,7 +204,6 @@ game_file2020: 16 configs
 goldenshiinevpn: 16 configs
 golf_vpn: 16 configs
 lranonline_new: 16 configs
-orange_vpns: 16 configs
 outlinev2rayng: 16 configs
 privatevpns: 16 configs
 proxyfull: 16 configs
@@ -212,7 +212,9 @@ vlessconfig: 16 configs
 vmessprotocol: 16 configs
 connectshu: 15 configs
 free4allvpn: 15 configs
+hopev2ray: 15 configs
 minovpnch: 15 configs
+orange_vpns: 15 configs
 proxy_net_meli: 15 configs
 realvpnmaster: 15 configs
 tiny_vpn_official: 15 configs
@@ -238,7 +240,6 @@ proxystore11: 13 configs
 skivpn: 13 configs
 abiidar_server: 13 configs
 father_vpn: 13 configs
-hopev2ray: 13 configs
 miov2ray: 13 configs
 mtpv2ray: 13 configs
 public504: 13 configs

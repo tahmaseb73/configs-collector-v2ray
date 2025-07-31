@@ -1,6 +1,6 @@
-trojan://7mq9evra-fl6q-5l4o-emqd-1xcowu1kf5if@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
-trojan://ko04a5ec-jk0b-iwu7-roa1-retydpqv4kkx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://mw6m33v1-ldzt-p6or-98jc-t2rm3weh9slz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://45nj4vwx-1mar-nr3q-tczz-3iuidfzkb2sl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:58
+trojan://15qfylx1-sk1v-knhm-tgbh-dd9jgn7j3hei@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hpuws9da-y6vi-n7wx-dn57-djmxfx2p8074@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?type=grpc&security=none#91.107.155.155:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU12&sni=freexxx.xhamster.biz.id#freexxx.xhamster.biz.id:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU11&sni=freevpn.xhamster.biz.id#freevpn.xhamster.biz.id:443
@@ -18,5 +18,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&secu
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-trojan://l0g3f39l-kq1m-yftz-x3pt-xdn7x0se0p0n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://nnur9mrp-asne-qxig-esyi-moqfm2hr4xin@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://ies7w3mu-u8a5-z5bo-5fp5-y9od11zu9p9l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://69zvg7e1-e3i8-e1u5-tq7a-ud6yhs2u7dyk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

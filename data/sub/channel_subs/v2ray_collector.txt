@@ -1,6 +1,6 @@
-trojan://2mf6kjmd-jjk0-oe8n-s65m-6kpk61i83s1q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
-trojan://dtvnu88m-soiw-p55j-ignu-y6vt5s8lxi9x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tywfhfc9-5g3u-mlti-8tk7-89dmr94eb3zi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://lir5yad6-buue-xm5s-zq18-aqlobh367rtm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:58
+trojan://bniqt1zx-i475-xjok-20zk-ss21pnz6e4l6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hv4ynnpv-86av-ruor-ewi4-y2ekgzxz90dv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://bpb-trojan@172.67.70.92:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#172.67.70.92:443
 trojan://installshield@38.180.249.177:8443?security=tls#38.180.249.177:8443
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.59.218.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#185.59.218.247:8880
@@ -40,5 +40,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@176.124.223.161:443?type=grpc&secur
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#154.83.2.117:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#94.140.0.141:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#89.116.180.248:443
-trojan://1zh4k9et-0vp5-xmkz-p0o3-5rbo0m2guxlw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5ftf79m9-2ka1-qipv-gyrr-5r94smqwf52m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zkgzxdlq-bvge-6whc-50vm-mixjhj2ljxqj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0dhiawo7-l6yd-5g3k-ihce-n6o1pi18afgf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

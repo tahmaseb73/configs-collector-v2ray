@@ -1,6 +1,6 @@
-trojan://sb1ze3w8-d2sf-o1uc-w1os-qqfc7n2gzwqj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:17
-trojan://cja2w7er-u9bh-eu8g-ezj0-r5kjunosmxq3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vb5z0aoe-dr0q-l37x-mypp-pfoa8iann69c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://uy67j7vv-rhj8-i2y1-ks7f-nfm6pc0m7f5u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 15:58
+trojan://uk1l0cbf-xe8e-z1ty-v0uh-w4lvtsq04e0w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xgl2c6sy-3352-bkqp-9i7s-m9utqt6uocgu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?type=ws&security=none&path=/?ed=2048#k---join.outline-vpn.cloud:80
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?type=ws&security=tls&path=/?ed=2048&sni=edgu.pureboy.eu.org&fp=chrome#edgu.pureboy.eu.org:443
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?type=ws&security=none&path=/?ed=2048#mtn----join.outline-vpn.cloud:80
@@ -13,5 +13,5 @@ vless://Parsashonam-67@185.146.173.58:8080?type=ws&security=none&path=/#185.146.
 vless://Parsashonam-67@www.visa.com:8080?type=ws&security=none&path=/#www.visa.com:8080
 vless://Parsashonam-67@www.speedtest.net:8080?type=ws&security=none&path=/?Telegram:#www.speedtest.net:8080
 vless://Parsashonam-67@104.18.14.19:8080?type=ws&security=none&path=/#104.18.14.19:8080
-trojan://d1gtl6x8-g2hb-ncb2-5y76-f6ved040v9i0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zborv1zq-tn2k-hq5a-8atc-f7k7kvi7quad@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://w6lhy41d-5dim-ly1t-i9sf-agfakvzhgtay@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://agv9gpbc-wjnj-emad-rm04-h6pkakduoaxa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

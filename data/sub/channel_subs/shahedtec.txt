@@ -1,6 +1,6 @@
-trojan://hn0gj8lx-lk0x-ymg6-6u6l-ift64s4h35fb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:24
-trojan://h2tsw2t0-7kwd-n6v1-fc2k-y6qs1zmwerqj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://136p0vzh-y9nu-4ffj-ar9j-nlh1hox3a3ja@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0p8kka7n-k71d-l8vl-7q0a-n65r2fgb5mn6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:51
+trojan://39ersex0-4sfj-7mlu-l1r4-9zinxsberamm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://nrfc1n65-nwms-cs6v-dpzd-u3mxlgdl77hy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://85f1516e-688b-40db-997a-05c7c25e0e93@shahed2.novintecc.org:8080?type=ws&security=none&path=/#shahed2.novintecc.org:8080
 vless://85f1516e-688b-40db-997a-05c7c25e0e93@shahed2.novintecc.org:8080?type=ws&security=none&path=/#shahed2.novintecc.org:8080
 vless://2688e821-1600-488d-a49a-e8a9956e96ee@zula.ir:2095?type=httpupgrade&security=none&path=/?ed=2048#zula.ir:2095
@@ -10,5 +10,5 @@ vless://2688e821-1600-488d-a49a-e8a9956e96ee@zula.ir:2095?type=httpupgrade&secur
 vless://85f1516e-688b-40db-997a-05c7c25e0e93@shahed2.novintecc.org:8080?type=ws&security=none&path=/#shahed2.novintecc.org:8080
 vless://a04be978-3b21-42cf-a80c-4832894d26f0@shahed2.novintecc.org:8080?type=ws&security=none&path=/#shahed2.novintecc.org:8080
 vless://a04be978-3b21-42cf-a80c-4832894d26f0@shahed2.novintecc.org:8080?type=ws&security=none&path=/#shahed2.novintecc.org:8080
-trojan://o4ogg121-9oc4-xh4c-4khd-2hkmabv844fz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vs5ugx25-oc86-3ie1-szsv-nxikkhqf0a7z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://jpde5rfq-ksu1-8qpz-3f00-hr6rx89c0mca@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://i5uasxnw-e4hz-goyp-b20y-sl29lbqx0jmn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

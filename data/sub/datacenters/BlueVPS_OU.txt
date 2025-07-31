@@ -1,10 +1,10 @@
-trojan://6b9kpu9t-fb3a-ul53-181o-dhowj8z71407@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 20:28
-trojan://mr2rez37-lzos-kgdc-yzqm-c3zfchi7jorg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://s42eooq3-la0p-42p0-y29a-bpqqg5smi6bu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://vj7t45qu-ysgj-7ysr-2dkd-0ohofh3ow80t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 20:51
+trojan://8xeocu4t-umid-l8fn-rrl1-2xl4y2objqof@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ffxx37qt-zegv-6a8d-joza-1yr7lnohhcjn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-il.legeth.xyz:11658?insecure=0#IL 🇮🇱 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 45.150.108.244
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11683?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 185.28.119.228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-es.legeth.xyz:11465?insecure=0#ES 🇪🇸 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 83.97.79.248
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11177?insecure=0#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 185.28.119.228
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-il.legeth.xyz:11326?insecure=0#IL 🇮🇱 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 45.150.108.244
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-pl.legeth.xyz:11752?insecure=0#PL 🇵🇱 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 91.211.27.13
-trojan://kmmh6dmb-187a-v694-5r57-ramg43psj2gg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e1ngkkqw-2bef-x1hj-uuxl-cy347j56r3ut@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-es.legeth.xyz:11496?insecure=0#ES 🇪🇸 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 83.97.79.248
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-ee.legeth.xyz:11145?insecure=0#EE 🇪🇪 ┇ HYSTERIA2-TCP-NTLS - BlueVPS OU ┇ 146.19.143.216
+trojan://tnglkplq-57vw-zmwf-8bvo-1tfzajucn0pa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3ldrd9f3-h9ro-5wt9-joqj-j8gbti96zu84@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

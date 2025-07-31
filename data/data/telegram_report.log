@@ -1,12 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 20:28:09
+Timestamp: 2025-07-31 20:51:38
 Total Channels: 502
 Successful Scrapes: 467
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 v2raying: 323 configs
-v2ray_configs_pool: 307 configs
+v2ray_configs_pool: 213 configs
 kanfig_majani: 204 configs
 GalaxyMVPN: 199 configs
 meli_proxyy: 181 configs
@@ -23,6 +23,7 @@ sockss_http: 134 configs
 tgvpn6: 126 configs
 outline_vpn: 115 configs
 appsooner: 114 configs
+config_proxy: 111 configs
 satellitenewspersian: 111 configs
 selinc: 111 configs
 armodchannel: 108 configs
@@ -30,7 +31,6 @@ info_2it_channel: 107 configs
 mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
 mftizi: 100 configs
-config_proxy: 96 configs
 icv2ray: 91 configs
 v2trayproxy: 89 configs
 freevpn3327: 88 configs
@@ -44,10 +44,10 @@ vpnod: 77 configs
 v2raytg: 77 configs
 manzariyeh_rasht: 76 configs
 ai_duet: 75 configs
-v2rayopen: 74 configs
 freevirgoolnet: 71 configs
 ZibaNabz: 70 configs
 v2ra_ng_iran: 69 configs
+v2rayopen: 68 configs
 jiedianssr: 67 configs
 netfreedom0: 67 configs
 arv2ra: 66 configs
@@ -64,15 +64,15 @@ mester_v2ray: 57 configs
 mehrosaboran: 56 configs
 mr_vpn123: 56 configs
 v2rayngc: 56 configs
+bored_vpn: 55 configs
 vpn451: 55 configs
-bored_vpn: 54 configs
 free_serverir: 53 configs
 tobevasl: 53 configs
+free1_vpn: 52 configs
 v2rayngconfig: 52 configs
 v2ray_v_vpn: 48 configs
 v2ry_proxy: 48 configs
 vmessorg: 47 configs
-free1_vpn: 47 configs
 maradona_vpn: 46 configs
 v2rayngconfings: 46 configs
 configfa: 43 configs
@@ -146,6 +146,7 @@ freev2rays: 20 configs
 key_outline: 20 configs
 lockey_vpn: 20 configs
 mpproxy: 20 configs
+outline_ir: 20 configs
 outlinereleasedkey: 20 configs
 proxie: 20 configs
 v2ray_free_conf: 20 configs
@@ -160,7 +161,6 @@ configv2rayforfree: 19 configs
 fastshovpn: 19 configs
 flyv2ray: 19 configs
 narco_nett: 19 configs
-outline_ir: 19 configs
 proxycrone: 19 configs
 proxyfn: 19 configs
 red2ray: 19 configs
@@ -188,9 +188,7 @@ jeyksatan: 17 configs
 mastervpnshop1: 17 configs
 netmellianti: 17 configs
 nofiltering2: 17 configs
-proxy_mtproto_vpns_free: 17 configs
 proxy_v2box: 17 configs
-v2rayfree: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
 vistav2ray: 16 configs
@@ -206,8 +204,10 @@ golf_vpn: 16 configs
 lranonline_new: 16 configs
 outlinev2rayng: 16 configs
 privatevpns: 16 configs
+proxy_mtproto_vpns_free: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
+v2rayfree: 16 configs
 vlessconfig: 16 configs
 vmessprotocol: 16 configs
 connectshu: 15 configs
@@ -267,6 +267,7 @@ foxnt: 11 configs
 ipv2rayng: 11 configs
 iranproxypro: 11 configs
 kurdistan_vpn_perfectt: 11 configs
+mahan_ping: 11 configs
 net_azad_1: 11 configs
 proxy_emperor: 11 configs
 renetvpn: 11 configs
@@ -281,7 +282,6 @@ eliteproxyv2: 10 configs
 ge2ray: 10 configs
 imhdiyvp: 10 configs
 limootuursh: 10 configs
-mahan_ping: 10 configs
 maxvpnc: 10 configs
 merdesert: 10 configs
 mimitdl: 10 configs
@@ -297,6 +297,7 @@ vpn_bal0uch: 10 configs
 vpn_ocean: 10 configs
 DALTON_PING: 9 configs
 dalton_ping: 9 configs
+isvvpn: 9 configs
 configasli: 9 configs
 configforvpn01: 9 configs
 freev2raym: 9 configs
@@ -314,7 +315,6 @@ v2rayturbo: 9 configs
 vpncostumer: 9 configs
 wbrovers: 9 configs
 confingv2raayng: 8 configs
-isvvpn: 8 configs
 ch_a2l: 8 configs
 dargiiriis: 8 configs
 ehsawn8: 8 configs
@@ -344,11 +344,13 @@ xrayzxn: 7 configs
 fnet00: 6 configs
 sinavm: 6 configs
 v2ngfast: 6 configs
+v2ray_rolly: 6 configs
 Subify_ir: 6 configs
 deragv2ray: 6 configs
 fati_ffx: 6 configs
 free_omega: 6 configs
 freenapsternetv: 6 configs
+ghalagyann2: 6 configs
 kopltall_vpn: 6 configs
 mainmat: 6 configs
 prooxyk: 6 configs
@@ -357,7 +359,6 @@ vaslbemmonid: 6 configs
 vpnfastservice: 6 configs
 vpnfree_irann: 6 configs
 v2ray_god: 5 configs
-v2ray_rolly: 5 configs
 PRIMESOBI: 5 configs
 argo_vpn1: 5 configs
 configscenter: 5 configs
@@ -366,7 +367,6 @@ confingv2raay: 5 configs
 dashv2ray: 5 configs
 freeshadowsock: 5 configs
 freevmess: 5 configs
-ghalagyann2: 5 configs
 jedal_vpn: 5 configs
 mahdivpn2: 5 configs
 mahsaproxy: 5 configs

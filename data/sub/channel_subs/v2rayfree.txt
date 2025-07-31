@@ -1,6 +1,6 @@
-trojan://i3mqhh5p-3icf-of9h-djdj-kagd0u2o4enx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 22:51
-trojan://v9yil6dm-uqxq-4h0g-3pu4-n05s9ukwy3jz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g3fueddx-foec-qu7b-jx6h-epknjui3yqv4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3pn8u4ht-9nzp-h9pd-r6m0-peix13sj2vr5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 23:16
+trojan://avnt5u9o-68zx-duf8-hbwu-jgn74dviftv2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://84wt1nmu-0yiv-jqbe-xegm-ku9ugt87tztm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5XHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxXHUwNjI3XHUwNmNjXHUyMDBjXHUwNjI4XHUwNmNjXHUwNjM0XHUwNjJhXHUwNjMxIiwiYWRkIjoiMTcyLjY2LjQwLjk5IiwicG9ydCI6ODAsImlkIjoiMS10ZWxlZ3JhbS1pZC12cG5mMjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3RlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2Mix0ZWxlZ3JhbS12MmJveHYyLHRlbGVncmFtLXYyYm94djIsdGVsZWdyYW0tdjJib3h2MiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2RcdWRlMTgiLCJhZGQiOiJucG1qcy5jb20iLCJwb3J0Ijo4MDgwLCJpZCI6ImQzbTF4dms1MGsiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2Rvd25sb2FkL2NkbiJ9
 vless://5ab849d0-4b05-485a-8f60-832e3a6c3774@mohi.sockcs1.xyz:4430?type=tcp&security=none#mohi.sockcs1.xyz:4430
@@ -17,5 +17,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&secu
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&security=tls&path=/?ed=2560&sni=rayan-roof.atena.dpdns.org&fp=chrome#cdnjs.com:443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?type=tcp&security=reality&sni=getchef.com&fp=chrome&flow=xtls-rprx-vision&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&sid=aa9c5414806589#list.dayhostpro.com:14685
-trojan://883faax2-ldg0-r16t-tcs8-fqqrq2lm5n6t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jplhu6e8-ndvf-6n1v-dps2-e9ujjm951vfb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://cvnnsx77-hwcn-j3hy-pu8o-pnu0azwm13ac@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://cjmrggc2-d3nq-uo32-urt4-550tprkvfpj0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,6 @@
-trojan://ah7hogsr-767c-l2is-807y-elzlol3md7vh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 22:51
-trojan://fufoddcs-wpp8-a0lj-uvu4-zc45r36vzhyo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4jcplbuz-aht3-m4ae-9c5i-ky5slk5azq4m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+trojan://9o60buw4-6ppl-kmk8-m4dl-acvdczhg814y@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 23:16
+trojan://kbepj71d-pk9q-bbj5-m4fm-ggqdln8pyxi0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2doyo9wv-8oj8-k44f-7s57-9kzs17aeytjm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@108.162.194.19:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#108.162.194.19:2095
 vless://Parsashonam-Bot-10@185.146.173.39:8080?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8080
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
@@ -21,5 +20,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&secu
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://ServerNett@fr.safeline.12.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=edge&pbk=XetKmjWtt6D08aG4I5F9tETkO4RogFgDaqW6F-HHoyA&sid=64ede3f582de#fr.safeline.12.afterhav.ir:8880
-trojan://phrrhga8-2cp4-jqcc-pynx-hfe71fp08d07@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://y4kjvyli-d4tl-o9la-koow-tp58r4m6dkke@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://ServerNett-ServerNett1@5.75.201.180:14703?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=Y9zKrv5hG5fbRdibewYRmulK0HEHX6QgaU30EbKxrAU&sid=a3#5.75.201.180:14703
+trojan://sf1df3xx-ubu1-p017-071z-7vhzyz7j8ul2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hsvlz5kx-tjbj-pnqo-61vl-1dyfnm1h0mf4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
